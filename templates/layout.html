@@ -29,9 +29,6 @@
       .vg-title {
         font-size: 3.5rem;
       }
-      .vg-subtitle {
-        font-size: 1.5rem;
-      }
       a {
         color: #0056b3;
       }
@@ -46,7 +43,7 @@
       }
       .jumbotron {
         background-image: url("{{ url_for('static', filename='img/map.jpg') }}");
-        height: 16rem;
+        height: 12rem;
         width: 100%;
         background-repeat: no-repeat;
         background-size: cover;
@@ -111,7 +108,6 @@
     <header class="jumbotron jumbotron-fluid">
       <div class="container-fluid">
         <h1 class="vg-title">{% block title %}{% endblock %}</h1>
-        <p class="lead vg-subtitle">{% block subtitle %}{% endblock %}</p>
       </div>
     </header>
     {% block body %}{% endblock %}
