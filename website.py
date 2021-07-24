@@ -40,6 +40,10 @@ def service():
 def work():
     return flask.render_template('work.html')
 
+@app.route('/writing')
+def writing():
+    return flask.render_template('writing.html')
+
 @app.route('/birding')
 def birding():
     content = flask.render_template('birding.html')
