@@ -6,41 +6,49 @@ Linguist{% endblock %} {% block body %}
     <div class="row">
       <div class="col-md-8 mx-auto">
         <p>
-          I am a computational linguist currently working in industry as a
-          speech recognition engineer at Dialpad. Starting in October 2021, I
-          will be a PhD student in computer science at the Saarbrücken Graduate
-          School of Computer Science at Saarland University in Germany.
+          Hi! I'm Vasundhara, your friendly neighbourhood computational linguist
+          and birder.
         </p>
         <p>
-          I have a BSc in Computing Science and Linguistics from Simon Fraser
-          University, where I worked at an experimental phonology lab, and a lab
-          that took computational approaches to processing discourse. My
-          experience has been varied, including work in experimental phonology
-          (eyetracking in the visual world paradigm), speech recognition, NLP,
-          discourse analysis, and corpus linguistics methods.
+          I'm about to be a computer science PhD student at Saarland University
+          in Germany. Before this I worked for over 2 years in industry as a
+          Speech Recognition Engineer at Dialpad in Canada. I have a BSc in
+          Computing Science and Linguistics from Simon Fraser University, where
+          I also worked at an experimental phonology lab and a discourse
+          processing lab.
         </p>
         <p>My research interests include:</p>
         <ul>
           <li>multilingual and multi-user language and speech processing</li>
           <li>phonetics and phonology</li>
-          <li>low-resource NLP</li>
+          <li>low-resource settings</li>
         </ul>
+        <p>
+          I hope to combine these interests in my PhD research and study
+          compact, linguistically motivated speaker representations that would
+          be applied at decode time to improve speech recognition for speakers
+          of nonstandard varieties of spoken languages and/or with disordered
+          speech.
+        </p>
         <p>
           My philosophy on science is that it should do good in the world and
           actively include those outside the ivory tower. Science communication
-          is an integral part of the science I want to do, and my definition of
-          SciComm includes engaging the public with my work and communicating
-          complex ideas accessibly.
+          is an integral part of the science I want to do, which includes
+          engaging the public with my work and communicating complex ideas
+          accessibly.
         </p>
         <p>
-          My pronouns are <a href="https://pronoun.is/xe">xe/xem</a> (I also
-          accept <a href="https://pronoun.is/they">they/them</a>), and I live in
-          British Columbia, on unceded Coast Salish territories. I pronounce my
-          name like
+          My pronouns are <a href="https://pronoun.is/xe">xe/xem</a> and
+          <a href="https://pronoun.is/they">they/them</a>. Press the play button
+          to hear my name. If you know the
+          <a
+            href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet"
+            >IPA</a
+          >, I pronounce my name like
           <span class="ipa-pronunciation"
             >[v&#652;'s&#361;n.d&#810;&#689;&#601;.&#638;a&#720;.'ga&#650;.t&#810;&#652;m]</span
-          >. Press the play button below to hear me say my name. I will accept
-          your best approximation of
+          >
+          and will accept your best approximation of
           <span class="ipa-pronunciation"
             >/v&#652;'s&#650;n.da.ra.'ga&#650;.tam/</span
           >.
@@ -61,18 +69,16 @@ Linguist{% endblock %} {% block body %}
           </div>
         </section>
       </div>
-      <figure
-        class="col-md-4 mx-auto"
-        align="center"
-        style="text-align: center"
-      >
-        <img
-          src="{{ url_for('static', filename='img/vasundhara.png') }}"
-          class="img-fluid"
-          alt="Vasundhara smiling into the camera with black rimmed glasses, metallic blue lipstick and a Metallica t-shirt. Xyr hair is short and xe has a side buzz and a nose piercing. The background is a pixelated version of the colourful map in this site's header image."
-        />
-        <figcaption>Me, circa 2021</figcaption>
-      </figure>
+      <div class="col-md-4 mx-auto">
+        <figure align="center" style="text-align: center">
+          <img
+            src="{{ url_for('static', filename='img/vasundhara.png') }}"
+            class="img-fluid"
+            alt="Vasundhara smiling into the camera with black rimmed glasses, metallic blue lipstick and a Metallica t-shirt. Xyr hair is short and xe has a side buzz and a nose piercing. The background is a pixelated version of the colourful map in this site's header image."
+          />
+          <figcaption>Me, circa 2021</figcaption>
+        </figure>
+      </div>
     </div>
   </div>
 </main>
