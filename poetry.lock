@@ -83,8 +83,8 @@ watchdog = ["watchdog"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.7.10"
-content-hash = "cb82bc1c4195728385b90526b59153385258221e045d91cb329a815686b723e8"
+python-versions = "3.7.11" # this needs to be an exact pin because of the heroku poetry buildpack
+content-hash = "4d41430867698366f62982b11a36da683493e4bc69be2478a2c65481369c295e"
 
 [metadata.files]
 click = [
