@@ -1,5 +1,9 @@
-{% extends "layout.html" %} {% block short_title %}Recognition{% endblock %} {%
-block title %}Recognition{% endblock %} {% block body %}
+---
+short_title: Recognition
+title: Recognition
+layout: layouts/layout
+---
+
 <main role="main" class="container">
   <div class="container">
     <section>
@@ -140,7 +144,7 @@ block title %}Recognition{% endblock %} {% block body %}
         <div class="col-md-4 mx-auto align-self-center">
           <figure style="text-align: center">
             <img
-              src="{{ url_for('static', filename='img/skytrain_ad.jpg') }}"
+              src="/static/img/skytrain_ad.jpg"
               class="img-fluid"
               alt="Vasundhara standing in a SkyTrain station beside a large advertisement for Simon Fraser University's Faculty of Arts and Social Sciences. The advert has a black-and-white photograph of her in it, and the words 'Seize Your Career' in big, bold text, followed by two paragraphs of small text talking about her career trajectory and why readers should apply to the Faculty of Arts and Social Sciences."
             />
@@ -150,7 +154,7 @@ block title %}Recognition{% endblock %} {% block body %}
         <div class="col-md-4 mx-auto">
           <figure style="text-align: center">
             <img
-              src="{{ url_for('static', filename='img/careers_night_praat.jpg') }}"
+              src="/static/img/careers_night_praat.jpg"
               class="img-fluid"
               alt="I am presenting at a lectern in front of a screen on which a screenshot of the computer program Praat is projected. There are about 30 people listening to me present and the photo shows the backs of their heads."
             />
@@ -160,7 +164,7 @@ block title %}Recognition{% endblock %} {% block body %}
           </figure>
           <figure style="text-align: center">
             <img
-              src="{{ url_for('static', filename='img/careers_night_cl.jpg') }}"
+              src="/static/img/careers_night_cl.jpg"
               class="img-fluid"
               alt="I am standing and presenting in front of a screen where one of my slides is projected. The slide has three bullet points that say: 2 parts linguistics, 2 parts coding and 1 part math, which is my formula for my personal sweet spot with computational linguistics."
             />
@@ -172,7 +176,7 @@ block title %}Recognition{% endblock %} {% block body %}
         <div class="col-md-4 mx-auto align-self-center">
           <figure style="text-align: center">
             <img
-              src="{{ url_for('static', filename='img/cmpt_poster.jpg') }}"
+              src="/static/img/cmpt_poster.jpg"
               class="img-fluid"
               alt="Poster with a picture of me in a Try/Catch conference t-shirt with imagery of circuits on it. The title of the poster is 'How will computer science shape your story?'. At the bottom of the poster there is a paragraph about how I discovered computational linguistics through Google Translate and my love for learning languages."
             />
@@ -274,4 +278,3 @@ block title %}Recognition{% endblock %} {% block body %}
     </section>
   </div>
 </main>
-{% endblock %}
