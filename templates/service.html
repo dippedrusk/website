@@ -1,5 +1,9 @@
-{% extends "layout.html" %} {% block short_title %}Service{% endblock %} {%
-block title %}Service{% endblock %} {% block body %}
+---
+short_title: Service
+title: Service
+layout: layouts/layout
+---
+
 <main role="main" class="container">
   <div class="container">
     <section>
@@ -104,15 +108,9 @@ block title %}Service{% endblock %} {% block body %}
         </li>
         <li>
           Created copylefted linguistics-related emoji.
-          <a href="{{ url_for('static', filename='img/waveform.png') }}"
-            >Image: waveform emoji.</a
-          >
-          <a href="{{ url_for('static', filename='img/spectrogram.png') }}"
-            >Image: spectrogram emoji.</a
-          >
-          <a href="{{ url_for('static', filename='img/syntax-tree.png') }}"
-            >Image: syntax tree emoji.</a
-          >
+          <a href="/static/img/waveform.png">Image: waveform emoji.</a>
+          <a href="/static/img/spectrogram.png">Image: spectrogram emoji.</a>
+          <a href="/static/img/syntax-tree.png">Image: syntax tree emoji.</a>
         </li>
       </ul>
     </section>
@@ -185,4 +183,3 @@ block title %}Service{% endblock %} {% block body %}
     </section>
   </div>
 </main>
-{% endblock %}
