@@ -3,3 +3,8 @@
 **/venv/*
 *.TextGrid
 __pycache__/
+node_modules
+build
+npm-debug.log
+.env
+_site/
