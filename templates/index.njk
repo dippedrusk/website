@@ -1,5 +1,9 @@
-{% extends "layout.html" %} {% block short_title %}Home{% endblock %} {% block
-title %}Vasundhara Gautam{% endblock %} {% block body %}
+---
+short_title: Home
+title: Vasundhara Gautam
+layout: layouts/layout
+---
+
 <main role="main" class="container">
   <div class="container">
     <div class="row">
@@ -55,12 +59,12 @@ title %}Vasundhara Gautam{% endblock %} {% block body %}
         <section class="player">
           <audio class="custom-audio-player">
             <source
-              src="{{ url_for('static', filename='audio/vasundhara_gautam.wav') }}"
+              src="{{ '/static/audio/vasundhara_gautam.wav' }}"
               type="audio/wav"
             />
             <p>
               Your browser doesn't support HTML5 audio. Here is a
-              <a href="vasundhara_gautam.wav">link to the audio</a> instead.
+              <a href="/static/audio/vasundhara_gautam.wav">link to the audio</a> instead.
             </p>
           </audio>
           <div class="controls custom-audio-player" align="center">
@@ -69,9 +73,9 @@ title %}Vasundhara Gautam{% endblock %} {% block body %}
         </section>
       </div>
       <div class="col-md-4 mx-auto">
-        <figure align="center" style="text-align: center">
+        <figure align="center">
           <img
-            src="{{ url_for('static', filename='img/vasundhara.png') }}"
+            src="{{ '/static/img/vasundhara.png' }}"
             class="img-fluid"
             alt="Vasundhara smiling into the camera with black rimmed glasses, metallic blue lipstick and a Metallica t-shirt. Xyr hair is short and xe has a side buzz and a nose piercing. The background is a pixelated version of the colourful map in this site's header image."
           />
@@ -102,4 +106,3 @@ title %}Vasundhara Gautam{% endblock %} {% block body %}
     }
   };
 </script>
-{% endblock %}
