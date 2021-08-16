@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "This is the code for my personal website, currently built and deployed with GitHub Pages at [vasundharagautam.com](https://vasundharagautam.com) The name of this repository ([vgautam.github.io](vgautam.github.io)) redirects to the same page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgautam/website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgautam/website/issues"
+  },
+  "homepage": "https://github.com/vgautam/website#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
