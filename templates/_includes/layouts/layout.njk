@@ -15,7 +15,7 @@
     <meta name="author" content="Vasundhara Gautam" />
     <link
       rel="shortcut icon"
-      href="{{ url_for('static', filename='favicon.ico') }}"
+      href="{{ '/static/favicon.ico' }}"
     />
     <!-- Bootstrap CSS -->
     <link
@@ -42,7 +42,7 @@
         color: #a6a6a6 !important;
       }
       .jumbotron {
-        background-image: url("{{ url_for('static', filename='img/map.jpg') }}");
+        background-image: url("/static/img/map.jpg");
         height: 12rem;
         width: 100%;
         background-repeat: no-repeat;
@@ -59,8 +59,11 @@
           Verdana, sans-serif;
       }
       /* vanilla links are fbfbfb, navbar background is 343A40, colour i want to chage is 9a9da0 */
+      figure {
+        text-align: center
+      }
     </style>
-    <title>{% block short_title %}{% endblock %} | Vasundhara Gautam</title>
+    <title>{{ short_title | escape }} | Vasundhara Gautam</title>
   </head>
   <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
@@ -95,11 +98,12 @@
     </nav>
     <header class="jumbotron jumbotron-fluid">
       <div class="container-fluid">
-        <h1 class="vg-title">{% block title %}{% endblock %}</h1>
+        <h1 class="vg-title">{{ title | escape }}</h1>
       </div>
     </header>
-    {% block body %}{% endblock %}
-    <br />
+    {% block body %}
+      {{ content | safe }}
+    {% endblock %}
     <hr />
     <footer class="text-center text-lg-start">
       <div class="text-center p-3">
