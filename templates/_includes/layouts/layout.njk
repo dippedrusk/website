@@ -101,9 +101,13 @@
         <h1 class="vg-title">{{ title | escape }}</h1>
       </div>
     </header>
+    <main role="main" class="container">
+      <div class="container">
     {% block body %}
       {{ content | safe }}
     {% endblock %}
+      </div>
+    </main>
     <hr />
     <footer class="text-center text-lg-start">
       <div class="text-center p-3">
