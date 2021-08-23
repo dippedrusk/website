@@ -1,7 +1,16 @@
 const fs = require("fs");
+const markdownIt = require("markdown-it");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static");
+
+  let markdownLibrary = markdownIt({
+    html: true,
+    breaks: false,
+    linkify: true,
+  });
+
+  eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
