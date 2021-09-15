@@ -22,9 +22,7 @@ layout: layouts/layout
 - Gave a talk at Women in Voice 2021 titled Lofty Linguistic Ideals
   and Deploying in Tech Realities, about balancing the sometimes
   conflicting goals of the linguist and the software engineer in me.
-  [YouTube video: Recording of my talk (only automatic captions
-  available right now, but I'm working on
-  it).](https://www.youtube.com/watch?v=Sz274hsvKTM)
+  [YouTube video: Recording of my talk](https://youtu.be/DNrr0RLab0o).
 - Invited guest lecture on speech recognition and computational
   linguistics, at Simon Fraser University's Communication and Language
   class (LING 100), Summer 2021.
