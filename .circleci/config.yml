@@ -1,17 +1,7 @@
 version: 2.1
 orbs:
   linter: talkiq/linter@1
-  heroku: circleci/heroku@1.2.6
   node: circleci/node@4.7
-
-jobs:
-  deploy:
-    executor: heroku/default
-    steps:
-      - checkout
-      - heroku/install
-      - heroku/deploy-via-git:
-          app-name: red-winged-blackbird
 
 workflows:
   run-jobs:
@@ -24,11 +14,3 @@ workflows:
       - node/run:
           npm-run: build
           name: build-site
-      - deploy:
-          context: heroku-global
-          filters:
-            branches:
-              only: /main/
-          requires:
-            - linter/pre-commit
-            - build-site
