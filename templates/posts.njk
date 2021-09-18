@@ -1,0 +1,15 @@
+---
+short_title: Blog
+title: Blog
+layout: layouts/layout
+---
+<style>
+@media (min-width: 1200px) {
+    .container{
+        max-width: 900px;
+    }
+}
+</style>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}
