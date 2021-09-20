@@ -67,7 +67,7 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-      <a class="navbar-brand" href="/">Vasundhara Gautam</a>
+      <a class="navbar-brand" href="/">{{ "&#9758;" | safe if page.url == '/' }}Vasundhara Gautam</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -82,16 +82,16 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="/work">Work</a>
+            <a class="nav-link" href="/work">{{ "&#9758;" | safe if '/work' in page.url }}Work</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="/writing">Writing</a>
+            <a class="nav-link" href="/writing">{{ "&#9758;" | safe if '/writing' in page.url }}Writing</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="/service">Service</a>
+            <a class="nav-link" href="/service">{{ "&#9758;" | safe if '/service' in page.url }}Service</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="/recognition">Recognition</a>
+            <a class="nav-link" href="/recognition">{{ "&#9758;" | safe if '/recognition' in page.url }}Recognition</a>
           </li>
         </ul>
       </div>
