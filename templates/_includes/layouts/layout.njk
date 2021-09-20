@@ -26,8 +26,9 @@
     />
     <!-- My CSS -->
     <style>
-      .vg-title {
-        font-size: 3.5rem;
+      vgtitle {
+        font-size: 10vmin;
+        vertical-align: middle;
       }
       a {
         color: #0056b3;
@@ -43,12 +44,9 @@
       }
       .jumbotron {
         background-image: url("/static/img/map.jpg");
-        height: 12rem;
         width: 100%;
         background-repeat: no-repeat;
         background-size: cover;
-      }
-      .jumbotron .container-fluid {
         position: relative;
         text-align: center;
         vertical-align: middle;
@@ -100,9 +98,7 @@
       </div>
     </nav>
     <header class="jumbotron jumbotron-fluid">
-      <div class="container-fluid">
-        <h1 class="vg-title">{{ title | escape }}</h1>
-      </div>
+        <vgtitle>{{ title | escape }}</vgtitle>
     </header>
     <main role="main" class="container">
       <div class="container">
