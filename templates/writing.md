@@ -1,5 +1,6 @@
 ---
 title: Writing
+description: Papers, technical writing, news and other publications
 layout: layouts/layout
 ---
 
