@@ -7,7 +7,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="description" content="Vasundhara Gautam's website" />
+    <meta name="description" content="{{ description | escape }}" />
     <meta
       name="keywords"
       content="Vasundhara Gautam, Vasundhara, computational linguistics, NLP"
@@ -17,6 +17,12 @@
       rel="shortcut icon"
       href="{{ '/static/favicon.ico' }}"
     />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@VasundharaNLP" />
+    <meta name="twitter:title" content="{{ short_title | escape if short_title else title}} | Vasundhara Gautam" />
+    <meta name="twitter:description" content="{{ description | escape }}" />
+    <meta name="twitter:image" content="https://vasundharagautam.com/static/img/map.jpg" />
+    <meta name="twitter:image:alt" content="Close-up of a colourful geographical map of North America." />
     <!-- Bootstrap CSS -->
     <link
       rel="stylesheet"
