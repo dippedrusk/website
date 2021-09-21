@@ -1,5 +1,6 @@
 ---
 title: Recognition
+description: Invited talks, lectures, awards, scholarships
 layout: layouts/layout
 ---
 

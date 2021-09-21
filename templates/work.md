@@ -1,5 +1,6 @@
 ---
 title: Work
+description: Work and research experience relevant to computational linguistics and NLP
 layout: layouts/layout
 ---
 

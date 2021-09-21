@@ -1,5 +1,6 @@
 ---
 title: Service
+description: Volunteering, conference organizing, committees, mentoring
 layout: layouts/layout
 ---
 
