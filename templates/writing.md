@@ -1,5 +1,4 @@
 ---
-short_title: Writing
 title: Writing
 layout: layouts/layout
 ---

@@ -61,7 +61,7 @@
         text-align: center
       }
     </style>
-    <title>{{ short_title | escape }} | Vasundhara Gautam</title>
+    <title>{{ short_title | escape if short_title else title | escape }} | Vasundhara Gautam</title>
   </head>
   <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
