@@ -1,5 +1,4 @@
 ---
-short_title: Work
 title: Work
 layout: layouts/layout
 ---

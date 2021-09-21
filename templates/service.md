@@ -1,5 +1,4 @@
 ---
-short_title: Service
 title: Service
 layout: layouts/layout
 ---

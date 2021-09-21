@@ -1,5 +1,4 @@
 ---
-short_title: Recognition
 title: Recognition
 layout: layouts/layout
 ---
