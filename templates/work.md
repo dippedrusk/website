@@ -8,7 +8,7 @@ layout: layouts/layout
 
 <div class="section">
 
-## [Dialpad, Inc.](https://www.dialpad.com/)
+## Dialpad, Inc.
 
 Speech Recognition Engineer (previously Computational Linguist)
 
@@ -62,7 +62,7 @@ Speech Recognition Engineer (previously Computational Linguist)
 
 <div class="section">
 
-## [SFU Discourse Processing Lab](http://www.sfu.ca/discourse-lab.html)
+## SFU Discourse Processing Lab
 
 Research Assistant
 
@@ -203,7 +203,7 @@ reviews](https://developer.nytimes.com/docs/movie-reviews-api/1/overview))
 
 <div class="section">
 
-## [GE Digital](https://www.ge.com/digital/)
+## GE Digital
 
 Software Engineer (Intern)
 
@@ -222,7 +222,7 @@ Software Engineer (Intern)
 
 <div class="section">
 
-## [SFU Phonological Processing Lab](http://www.sfu.ca/discourse-lab.html)
+## SFU Phonological Processing Lab
 
 Research Assistant
 
