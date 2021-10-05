@@ -4,6 +4,8 @@ description: Work and research experience relevant to computational linguistics 
 layout: layouts/layout
 ---
 
+[[toc]]
+
 <div class="section">
 
 ## [Dialpad, Inc.](https://www.dialpad.com/)
