@@ -1,0 +1,47 @@
+---json
+{
+  "permalink": "feed.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Vasundhara Gautam's blog",
+    "subtitle": "Thoughts, feelings and navel-gazing on various subjects (including but not limited to language, computers, queerness, identity and my life), constrained neither by medium nor genre but merely by my technical expertise at website coding",
+    "url": "https://vasundharagautam.com/posts/",
+    "feedUrl": "https://vasundharagautam.com/feed.xml",
+    "author": {
+      "name": "Vasundhara Gautam",
+      "email": "me@vasundharagautam.com"
+    }
+  }
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>{{ metadata.title }}</title>
+  <subtitle>{{ metadata.subtitle }}</subtitle>
+  <link href="{{ metadata.feedUrl }}" rel="self"/>
+  <link href="{{ metadata.url }}"/>
+  <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ metadata.url }}</id>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+    <email>{{ metadata.author.email }}</email>
+  </author>
+
+  {%- for post in collections.posts %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ absolutePostUrl }}"/>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <summary>{{ post.data.description }}</summary>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+    <author>
+      <name>{{ metadata.author.name }}</name>
+      <email>{{ metadata.author.email }}</email>
+    </author>
+  </entry>
+
+  {%- endfor %}
+</feed>
