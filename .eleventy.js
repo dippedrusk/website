@@ -1,5 +1,7 @@
 const fs = require("fs");
 const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+const markdownItToc = require("markdown-it-toc-done-right");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
@@ -12,7 +14,11 @@ module.exports = function (eleventyConfig) {
     html: true,
     breaks: false,
     linkify: true,
-  });
+  })
+    .use(markdownItAnchor, {
+      permalink: markdownItAnchor.permalink.headerLink(),
+    })
+    .use(markdownItToc, { listType: "ul" });
 
   eleventyConfig.setDataDeepMerge(true);
 
