@@ -99,6 +99,7 @@ nav {
 .jumbotron {
   padding: 3rem 1rem;
   background-image: url("https://d33wubrfki0l68.cloudfront.net/dd3f15bf8a1d94bdcaff3f3076e88ba34eb7fe55/4938b/static/img/map.jpg");
+  height: auto;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
