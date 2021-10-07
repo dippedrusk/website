@@ -65,37 +65,14 @@
     <link href="{{ "/feed.xml" | url }}" type="application/atom+xml" rel="alternate" title="Vasundhara Gautam's blog feed" />
   </head>
   <body>
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-      <a class="navbar-brand" href="/">{{ "&#9758;" | safe if page.url == '/' }}Vasundhara Gautam</a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarCollapse"
-        aria-controls="navbarCollapse"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
+    <nav class="nav navbar">
+      <div class="flex-row">
+            <a class="nav-link" href="/">{{ "&#9758;" | safe if page.url == '/' }}Vasundhara Gautam</a>
             <a class="nav-link" href="/work">{{ "&#9758;" | safe if '/work' in page.url }}Work</a>
-          </li>
-          <li class="nav-item active">
             <a class="nav-link" href="/writing">{{ "&#9758;" | safe if '/writing' in page.url }}Writing</a>
-          </li>
-          <li class="nav-item active">
             <a class="nav-link" href="/service">{{ "&#9758;" | safe if '/service' in page.url }}Service</a>
-          </li>
-          <li class="nav-item active">
             <a class="nav-link" href="/recognition">{{ "&#9758;" | safe if '/recognition' in page.url }}Recognition</a>
-          <li class="nav-item active">
             <a class="nav-link" href="/posts">{{ "&#9758;" | safe if '/posts' in page.url }}Blog</a>
-          </li>
-          </li>
-        </ul>
       </div>
     </nav>
     <header class="jumbotron jumbotron-fluid">
