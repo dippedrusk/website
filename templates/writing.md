@@ -17,8 +17,9 @@ layout: layouts/layout
 
 ## Technical writing
 
-- [Everybody Belongs in the Conversation: Dialpad's Journey Towards More Inclusive Language](https://www.dialpad.com/blog/dialpad-journey-towards-more-inclusive-language/) (2021). Dialpad blog post. Vasundhara Gautam.
-- [Constructiveness and Toxicity in Online News Comments](http://www.sfu.ca/~mtaboada/docs/research/Constructive_News_Comments_Report.pdf) (2019). Technical report. **Vasundhara Gautam** and Maite Taboada.
+- [How Dialpad Moved Its Python AI Development from Pip to Poetry](https://thenewstack.io/how-dialpad-migrated-its-ai-development-from-pip-to-poetry/) (2021). The News Stack. Blog post. **Vasundhara Gautam** and Kevin James.
+- [Everybody Belongs in the Conversation: Dialpad's Journey Towards More Inclusive Language](https://www.dialpad.com/blog/dialpad-journey-towards-more-inclusive-language/) (2021). Dialpad. Blog post. Vasundhara Gautam.
+- [Constructiveness and Toxicity in Online News Comments](http://www.sfu.ca/~mtaboada/docs/research/Constructive_News_Comments_Report.pdf) (2019). Self-published. Technical report. **Vasundhara Gautam** and Maite Taboada.
 
 </section>
 
