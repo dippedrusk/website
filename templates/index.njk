@@ -82,24 +82,5 @@ layout: layouts/layout
     </figure>
   </div>
 </div>
-<script>
-  const playPauseBtn = document.querySelector(".custom-audio-player.playpause");
-  const player = document.querySelector("audio.custom-audio-player");
-
-  playPauseBtn.onclick = function () {
-    if (player.paused) {
-      player.play();
-      playPauseBtn.textContent = "Pause";
-    } else {
-      player.pause();
-      playPauseBtn.textContent = "Play";
-    }
-  };
-
-  player.ontimeupdate = function () {
-    if (player.currentTime >= player.duration || player.paused) {
-      player.pause();
-      playPauseBtn.textContent = "Play";
-    }
-  };
-</script>
+{% set js %} {% include "static/js/audio_player.js" %} {% endset %}
+<script>{{ js | jsmin | safe }}</script>
