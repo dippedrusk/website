@@ -23,9 +23,12 @@
     <meta name="twitter:description" content="{{ description | escape }}" />
     <meta name="twitter:image" content="https://vasundharagautam.com/static/img/map.jpg" />
     <meta name="twitter:image:alt" content="Close-up of a colourful geographical map of North America." />
-    <link rel="stylesheet" href="{{ "/static/css/bootstrap-subset.css" | url }}"/>
     <title>{{ short_title | escape if short_title else title | escape }} | Vasundhara Gautam</title>
     <link href="{{ "/feed.xml" | url }}" type="application/atom+xml" rel="alternate" title="Vasundhara Gautam's blog feed" />
+{% set css %}
+  {% include "static/css/bootstrap-subset.css" %}
+{% endset %}
+<style>{{ css | cssmin | safe }}</style>
   </head>
   <body>
     <header class="jumbotron jumbotron-fluid">
