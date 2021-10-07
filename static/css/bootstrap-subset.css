@@ -90,6 +90,10 @@ nav {
 .nav-link {
   padding: 0.5rem 0.5rem;
   font-size: 20px;
+  overflow-wrap: normal;
+}
+.nav-link span {
+  display: inline-block;
 }
 
 .jumbotron {
