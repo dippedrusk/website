@@ -5,6 +5,7 @@ const markdownItToc = require("markdown-it-toc-done-right");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const CleanCSS = require("clean-css");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -43,6 +44,10 @@ module.exports = function (eleventyConfig) {
     },
     ui: false,
     ghostMode: false,
+  });
+
+  eleventyConfig.addFilter("cssmin", function (code) {
+    return new CleanCSS({}).minify(code).styles;
   });
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
