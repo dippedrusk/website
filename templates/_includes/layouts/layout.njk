@@ -65,9 +65,12 @@
     <link href="{{ "/feed.xml" | url }}" type="application/atom+xml" rel="alternate" title="Vasundhara Gautam's blog feed" />
   </head>
   <body>
+    <header class="jumbotron jumbotron-fluid">
+        <vgtitle>{{ title | escape }}</vgtitle>
+    </header>
     <nav class="nav navbar">
       <div class="flex-row">
-            <a class="nav-link" href="/">{{ "&#9758;" | safe if page.url == '/' }}Vasundhara Gautam</a>
+            <a class="nav-link" href="/">{{ "&#9758;" | safe if page.url == '/' }}Home</a>
             <a class="nav-link" href="/work">{{ "&#9758;" | safe if '/work' in page.url }}Work</a>
             <a class="nav-link" href="/writing">{{ "&#9758;" | safe if '/writing' in page.url }}Writing</a>
             <a class="nav-link" href="/service">{{ "&#9758;" | safe if '/service' in page.url }}Service</a>
@@ -75,11 +78,9 @@
             <a class="nav-link" href="/posts">{{ "&#9758;" | safe if '/posts' in page.url }}Blog</a>
       </div>
     </nav>
-    <header class="jumbotron jumbotron-fluid">
-        <vgtitle>{{ title | escape }}</vgtitle>
-    </header>
     <main role="main" class="container">
       <div class="container">
+    <hr width="80%"/>
     {% block body %}
       {{ content | safe }}
     {% endblock %}
