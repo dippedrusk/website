@@ -82,7 +82,7 @@ layout: layouts/layout
 
 <div class="row">
 
-<div class="col-md-4 mx-auto align-self-center">
+<div class="col col-md-4 mx-auto">
 
 <figure>
 <img src="/static/img/skytrain_ad.jpg" class="img-fluid" alt="Vasundhara standing in a SkyTrain station beside a large advertisement for Simon Fraser University's Faculty of Arts and Social Sciences. The advert has a black-and-white photograph of xem in it, and the words 'Seize Your Career' in big, bold text, followed by two paragraphs of small text talking about xyr career trajectory and why readers should apply to the Faculty of Arts and Social Sciences." /><figcaption aria-hidden="true">Me with my SkyTrain advert</figcaption>
@@ -90,7 +90,7 @@ layout: layouts/layout
 
 </div>
 
-<div class="col-md-4 mx-auto">
+<div class="col col-md-4 mx-auto">
 
 <figure>
 <img src="/static/img/careers_night_praat.jpg" class="img-fluid" alt="Vasundhara is presenting at a lectern in front of a screen on which a screenshot of the computer program Praat is projected. There are about 30 people listening to xem present and the photo shows the backs of their heads." /><figcaption aria-hidden="true">Explaining speech recognition to linguistics students</figcaption>
@@ -102,7 +102,7 @@ layout: layouts/layout
 
 </div>
 
-<div class="col-md-4 mx-auto align-self-center">
+<div class="col col-md-4 mx-auto">
 
 <figure>
 <img src="/static/img/cmpt_poster.jpg" class="img-fluid" alt="Poster with a picture of Vasundhara in a Try/Catch conference t-shirt with imagery of circuits on it. The title of the poster is 'How will computer science shape your story?'. At the bottom of the poster there is a paragraph about how xe discovered computational linguistics through Google Translate and xyr love for learning languages." /><figcaption aria-hidden="true">My Computing Science poster</figcaption>
