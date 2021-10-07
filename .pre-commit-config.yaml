@@ -25,3 +25,5 @@ repos:
     rev: "v7.32.0" # Use the sha / tag you want to point at
     hooks:
       - id: eslint
+        args:
+          - --ignore-pattern '!.eleventy.js'
