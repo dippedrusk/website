@@ -1,0 +1,9 @@
+---
+title: Bookmarklets
+description: Little JavaScript bookmarklets that are easier to copy and bookmark this way
+layout: layouts/layout
+---
+
+<h2>NYT byline bookmarklet</h2>
+
+The <a href="javascript:(function() {byline = document.getElementsByClassName('bottom-of-article')[0].getElementsByTagName('p')[0] ; text = byline.innerText; pronoun = 'they'; if ( text.toLowerCase().split(' ').includes('he') ) { pronoun = 'he'; } else if ( text.toLowerCase().split(' ').includes('she') ) { pronoun = 'she'; }; if ((pronoun != 'he' && pronoun != 'she') || text.includes('identifies as')) { console.log('you escape this time.')} else { _split = text.split(' '); newtext = _split.slice(0,2).join(' ') + ' identifies as using &quot;' + pronoun + '&quot; pronouns, and ' + _split.slice(2,).join(' '); byline.innerText = newtext;}}());">NYT byline bookmarklet</a> will add that an author "identifies as using" a certain pronoun set. Just drag the link to your bookmarks bar to set up the bookmarklet. Then open up an NYT article, scroll to the author's bio and click on your bookmarklet.
