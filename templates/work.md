@@ -132,8 +132,8 @@ surveys](https://interactions.acm.org/archive/view/july-august-2019/how-to-do-be
 - Article: [Tracking the gender gap in Canadian
   media](https://theconversation.com/tracking-the-gender-gap-in-canadian-media-110082)
   (2019). Maite Taboada, Fatemeh Torabi Asr.
-- Press: [The future of women’s voices in media: an interview with
-  Gender Gap Tracker’s lead SFU
+- Press: [The future of women's voices in media: an interview with
+  Gender Gap Tracker's lead SFU
   researcher](https://www.sfu.ca/sfunews/stories/2019/03/the-future-of-womens-voices-in-media-maite-taboada.html)
   (2019).
 - Talk and panel discussion: Tracking the Gender Gap in Canadian Media -
