@@ -41,6 +41,17 @@
       <name>{{ metadata.author.name }}</name>
       <email>{{ metadata.author.email }}</email>
     </author>
+    {%- for coauthor in post.data.coauthors %}
+      <author>
+        <name>{{ coauthor.name }}</name>
+        {% if coauthor.email %}
+        <email>{{ coauthor.email }}</email>
+        {% endif %}
+        {% if coauthor.uri %}
+        <uri>{{ coauthor.uri }}</uri>
+        {% endif %}
+      </author>
+    {%- endfor %}
   </entry>
 
   {%- endfor %}
