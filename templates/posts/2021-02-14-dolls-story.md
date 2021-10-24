@@ -4,15 +4,10 @@ description: A really emo poem about trauma and healing.
 date: 2021-02-14
 tags:
   - poetry
+additionalcss:
+  - "static/css/poem.css"
 layout: layouts/post
 ---
-
-<style>
-poem {
-  white-space: pre-wrap;
-  font-style: italic;
-}
-</style>
 
 <poem>Drifting in the breeze, it is unmoored at sea,
 Light-headed, light, for the first time it's... free
