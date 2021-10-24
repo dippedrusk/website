@@ -29,6 +29,7 @@
   {% include "static/css/bootstrap-subset.css" %}
 {% endset %}
 <style>{{ css | cssmin | safe }}</style>
+{% block additionalcss %}{% endblock %}
   </head>
   <body>
     <header class="jumbotron jumbotron-fluid">

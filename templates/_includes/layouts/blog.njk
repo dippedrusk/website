@@ -1,0 +1,15 @@
+{% extends "layouts/layout.njk" %}
+
+{% block additionalcss %}
+{% set css %}
+  {% include "static/css/blog.css" %}
+  {%- for file in additionalcss %}
+    {% include file %}
+  {%- endfor %}
+{% endset %}
+<style>{{ css | cssmin | safe }}</style>
+{% endblock %}
+
+{% block body %}
+{{ content | safe }}
+{% endblock %}
