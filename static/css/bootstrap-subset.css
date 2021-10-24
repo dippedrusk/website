@@ -279,3 +279,6 @@ ul {
 .table-of-contents ul {
   margin-bottom: 0 !important;
 }
+.centred {
+  text-align: center;
+}
