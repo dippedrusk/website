@@ -10,20 +10,12 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-layout: layouts/layout
+layout: layouts/blog
 eleventyComputed:
   title: Tagged "{{ tag }}"
   description: Search results on Vasundhara Gautam's blog for "{{ tag }}"
 permalink: /tags/{{ tag | slug }}/
 ---
-
-<style>
-@media (min-width: 1200px) {
-    .container{
-        max-width: 900px;
-    }
-}
-</style>
 
 <h1>Posts tagged "{{ tag }}"</h1>
 
