@@ -8,15 +8,12 @@
   padding: 0;
 }
 .postlist-item {
-  flex-wrap: wrap;
-  align-items: baseline;
-  counter-increment: start-from -1;
   line-height: 1.8;
 }
 .postlist-item:before {
+  content: "" attr(value) ". ";
   display: inline-block;
   pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
   line-height: 100%;
   text-align: right;
 }
