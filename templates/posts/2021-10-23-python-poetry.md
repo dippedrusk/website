@@ -1,7 +1,6 @@
 ---
 title: How Dialpad Moved Its Python AI Development from Pip to Poetry
 description: Technical blog post co-authored with Kevin James about Dialpad's switch from pip to poetry for Python package management, as seen on The New Stack.
-date: 2021-10-23
 coauthors:
   - name: Kevin James
     email: KevinJames@TheKev.in

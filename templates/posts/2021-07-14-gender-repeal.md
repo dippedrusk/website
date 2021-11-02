@@ -1,7 +1,6 @@
 ---
 title: Gender Repeal
 description: A reflection on coming out as agender, and the intersections of my queerness and Indian identity, as seen in Vancouver Pride's 2021 Pride Magazine.
-date: 2021-07-14
 tags:
   - gender
   - india

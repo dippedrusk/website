@@ -4,7 +4,6 @@ description: Thoughts on neopronouns, choosing my pronouns and how they interact
 coauthors:
   - name: Kirby Conrod
     uri: http://www.kirbyconrod.com/
-date: 2021-07-14
 tags:
   - gender
   - pronouns
