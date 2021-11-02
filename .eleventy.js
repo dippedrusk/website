@@ -66,14 +66,26 @@ module.exports = function (eleventyConfig) {
   );
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
-    );
+    return DateTime.fromObject(
+      {
+        year: dateObj.getFullYear(),
+        month: dateObj.getMonth() + 1,
+        day: dateObj.getDate(),
+      },
+      { zone: "utc" }
+    ).toFormat("dd LLL yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+    return DateTime.fromObject(
+      {
+        year: dateObj.getFullYear(),
+        month: dateObj.getMonth() + 1,
+        day: dateObj.getDate(),
+      },
+      { zone: "utc" }
+    ).toFormat("yyyy-LL-dd");
   });
 
   // Reverse the index (1-based) and pad with leading zeroes

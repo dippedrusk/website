@@ -1,7 +1,6 @@
 ---
 title: First post (of sorts)
 description: A formal introduction to this blog and my hopes for it.
-date: 2021-09-20
 layout: layouts/post
 ---
 

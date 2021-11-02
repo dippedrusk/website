@@ -1,7 +1,6 @@
 ---
 title: A Doll's Story
 description: A really emo poem about trauma and healing.
-date: 2021-02-14
 tags:
   - poetry
 additionalcss:
