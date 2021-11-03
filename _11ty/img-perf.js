@@ -1,21 +1,18 @@
-const { JSDOM } = require("jsdom");
+const { parseHTML } = require('linkedom')
 
-const processImage = async (img) => {
-  if (img.tagName == "IMG") {
-    img.setAttribute("decoding", "async");
-    img.setAttribute("loading", "lazy");
-  }
+const processImage = (img) => {
+  img.setAttribute("decoding", "async");
+  img.setAttribute("loading", "lazy");
 };
 
-const imgPerf = async (rawContent) => {
-  let content = rawContent;
+const imgPerf = async (content) => {
 
-  const dom = new JSDOM(content);
-  const images = [...dom.window.document.querySelectorAll("img,amp-img")];
+  const { document } = parseHTML(content);
+  const images = document.querySelectorAll("img");
 
   if (images.length > 0) {
-    await Promise.all(images.map((i) => processImage(i)));
-    content = dom.serialize();
+    images.forEach(processImage);
+    return document.documentElement.innerHTML;
   }
 
   return content;
