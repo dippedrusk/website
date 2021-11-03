@@ -1,6 +1,6 @@
 <ol reversed start="{{ postslist.length + 1 }}" class="postlist">
 {% for post in postslist | reverse %}
-  <li value={{ loop.index | reverseAndPad(postslist.length) }} class="postlist-item">
+  <li value={{  loop.revindex | minimumTwoDigits }} class="postlist-item">
     <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
     <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
     {% for tag in post.data.tags | filterTagList %}
