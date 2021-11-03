@@ -5,7 +5,7 @@ const processImage = (img) => {
   img.setAttribute("loading", "lazy");
 };
 
-const imgPerf = async (content) => {
+const imgPerf = (content) => {
 
   const { document } = parseHTML(content);
   const images = document.querySelectorAll("img");
@@ -20,7 +20,7 @@ const imgPerf = async (content) => {
 
 module.exports = {
   initArguments: {},
-  configFunction: async (eleventyConfig) => {
+  configFunction: (eleventyConfig) => {
     eleventyConfig.addTransform("imgPerf", imgPerf);
   },
 };
