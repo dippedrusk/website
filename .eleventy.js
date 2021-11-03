@@ -65,27 +65,28 @@ module.exports = function (eleventyConfig) {
     }
   );
 
+  /** Converts a Date to human-readable string,
+   * e.g. 05 Oct 2021
+   */
+  const dateTimeFormatter = new Intl.DateTimeFormat("en-GB", {
+    timezone: "UTC",
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+  });
+
+  /** Adds a leading zero to any number < 10 */
+  const numberFormatter = new Intl.NumberFormat("en-GB", {
+    minimumIntegerDigits: 2,
+  });
+
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromObject(
-      {
-        year: dateObj.getFullYear(),
-        month: dateObj.getMonth() + 1,
-        day: dateObj.getDate(),
-      },
-      { zone: "utc" }
-    ).toFormat("dd LLL yyyy");
+    return dateTimeFormatter.format(dateObj);
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromObject(
-      {
-        year: dateObj.getFullYear(),
-        month: dateObj.getMonth() + 1,
-        day: dateObj.getDate(),
-      },
-      { zone: "utc" }
-    ).toFormat("yyyy-LL-dd");
+    return dateObj.toISOString().replace(/(T.*$)/, "");
   });
 
   eleventyConfig.addFilter("minimumTwoDigits", (number) => {
