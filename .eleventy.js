@@ -12,6 +12,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.addPassthroughCopy("static");
+  eleventyConfig.addPassthroughCopy("_headers");
   eleventyConfig.addPlugin(require("./_11ty/img-perf.js"));
 
   let markdownLibrary = markdownIt({
