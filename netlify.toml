@@ -1,0 +1,15 @@
+[build]
+  publish = "_site/"
+  command = "npm run build"
+
+[[redirects]]
+  from = "https://naughty-wilson-684740.netlify.app"
+  to = "https://vasundharagautam.com"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
