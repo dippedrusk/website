@@ -12,5 +12,6 @@ workflows:
             tags:
               only: /.*/
       - node/run:
+          version: 16.6.2
           npm-run: build
           name: build-site
