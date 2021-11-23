@@ -13,3 +13,17 @@
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
+
+[[plugins]]
+package = "netlify-plugin-checklinks"
+
+  [plugins.inputs]
+  entryPoints = [
+    "*.html",
+    "*.md",
+    "*.njk",
+  ]
+  recursive = true
+  pretty = true
+  # we can change this later
+  checkExternal = false
