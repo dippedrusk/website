@@ -27,3 +27,9 @@ package = "netlify-plugin-checklinks"
   pretty = true
   # we can change this later
   checkExternal = false
+
+[[plugins]]
+  package = "@netlify/plugin-a11y"
+  [plugins.inputs]
+    failWithIssues = false
+    wcagLevel = 'WCAG2AAA'
