@@ -15,6 +15,13 @@
     X-XSS-Protection = "1; mode=block"
 
 [[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "_site"
+  filePath = "sitemap.xml"
+
+[[plugins]]
 package = "netlify-plugin-checklinks"
 
   [plugins.inputs]
