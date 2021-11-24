@@ -11,7 +11,7 @@ const imgPerf = (content) => {
 
   if (images.length > 0) {
     images.forEach(processImage);
-    return document.documentElement.innerHTML;
+    return document.toString();
   }
 
   return content;
