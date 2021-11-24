@@ -98,6 +98,7 @@ nav {
 
 .jumbotron {
   padding: 3rem 1rem;
+  background: black;
   background-image: url("/static/img/map.jpg");
   height: auto;
   width: 100%;
@@ -117,6 +118,8 @@ nav {
 }
 
 title {
+  color: white;
+  font-style: bold;
   display: inline;
   font-size: 10vmin;
   vertical-align: middle;
