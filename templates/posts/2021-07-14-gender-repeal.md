@@ -36,4 +36,4 @@ Coming out as agender has made me feel like something within me has settled. The
 
 Although Pride in its traditional form is not possible this year, I hope to hug my close friends and celebrate our flaming homosexuality in person, perhaps with a mini-parade! And I'll certainly do a number of virtual things—including the Pride Society's Queer History Panel, lots of Zoom dates with queer friends, and maybe even a gender repeal party in gather.town!
 
-_Vasundhara is a queer, agender Indian Canadian (by way of Singapore) who is very gay and very tired. Xe gets excited about language, code, and birds. You can find xem on Twitter [@VasundharaNLP](https://twitter.com/VasundharaNLP) or on the web at vasundharagautam.com._
+_Vasundhara is a queer, agender Indian Canadian (by way of Singapore) who is very gay and very tired. Xe gets excited about language, code, and birds. You can find xem on Twitter [@VasundharaNLP](https://twitter.com/VasundharaNLP) or on the web at [vasundharagautam.com](https://vasundharagautam.com/)._

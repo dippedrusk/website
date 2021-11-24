@@ -9,7 +9,7 @@ layout: layouts/layout
 ## Papers
 
 - [Avengers, Ensemble! Benefits of ensembling in grapheme-to-phoneme prediction](https://aclanthology.org/2021.sigmorphon-1.16/) (2021). Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology. **Vasundhara Gautam**, Wang Yau Li, Zafarullah Mahmood, Fred Mailhot, Shreekantha Nadig, Riqiang Wang, and Nathan Zhang.
-- [The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://doi.org/10.1371/journal.pone.0245533) (2021). PLoS ONE 16(1). Fatemeh Torabi Asr, Mohammad Mazraeh, Alexandre Lopes, **Vasundhara Gautam**, Junette Gonzales, Prashanth Rao, and Maite Taboada.
+- [The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533) (2021). PLoS ONE 16(1). Fatemeh Torabi Asr, Mohammad Mazraeh, Alexandre Lopes, **Vasundhara Gautam**, Junette Gonzales, Prashanth Rao, and Maite Taboada.
 
 </section>
 
@@ -27,7 +27,7 @@ layout: layouts/layout
 
 ## News
 
-- [Hey Tyee Commenters! Scholars Studied You. Here's What They Found](https://thetyee.ca/Culture/2019/11/06/Tyee-Commenters-Assessed) (2019). The Tyee. **Vasundhara Gautam** and Maite Taboada.
+- [Hey Tyee Commenters! Scholars Studied You. Here's What They Found](https://thetyee.ca/Culture/2019/11/06/Tyee-Commenters-Assessed/) (2019). The Tyee. **Vasundhara Gautam** and Maite Taboada.
 
 </section>
 

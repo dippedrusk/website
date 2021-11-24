@@ -35,7 +35,7 @@ layout: layouts/layout
   school, to introduce kids to coding. I was invited to the school for
   [Computer Science Education Week](https://www.csedweek.org/).
 - Reviewed for EMNLP 2020.
-- Organizer of [Queer in AI](https://queerinai.org/) socials at EMNLP
+- Organizer of [Queer in AI](https://sites.google.com/view/queer-in-ai/) socials at EMNLP
   2020, AACL 2020 and COLING 2020.
 - Taught a virtual 4-hour workshop on VBA for Excel to 15 business
   students, as part of the Young Women in Business WISE program's
