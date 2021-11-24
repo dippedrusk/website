@@ -8,7 +8,7 @@ I have what I affectionately refer to as a blog graveyard due to my habit of sta
 
 I've ported over some past posts from dead blogs (and I may add more) but this is the first one I'm officially writing on this blog and I want to use it to talk a bit about why I'm doing this at all and what makes this attempt different from all the previous ones. The history of my blog graveyard is relevant to this.
 
-The one blog that has miraculously continued to escape abandonment for the last 8 or 9 years is tibackme.wordpress.com. Don't bother going to that link, though, because it's a private site. I've used it as an online journal of sorts, chronicling changes of location, relationships, mood, my beliefs and values and the things that generally matter to me.
+The one blog that has miraculously continued to escape abandonment for the last 8 or 9 years is [tibackme.wordpress.com](https://tibackme.wordpress.com/). Don't bother going to that link, though, because it's a private site. I've used it as an online journal of sorts, chronicling changes of location, relationships, mood, my beliefs and values and the things that generally matter to me.
 
 One of the advantages of having this chronicle of my development is that it lets me go back in time -- which, incidentally, is why the blog is called tibackme - it's a [rebus](https://en.wikipedia.org/wiki/Rebus). When I look back I see that there are some things I grew out of easily but there are other questions of identity that I've been wrestling with for years. Increasingly, I feel like there is no end to these questions, that I'm just on a lifelong expedition to chip away at answering them, with little glimpses of light in reflective writing and in therapy sessions and conversations with friends.
 

@@ -108,10 +108,10 @@ AI](https://towardsdatascience.com/towards-trans-inclusive-ai-a4abe9ad4e62),
 this excellent [talk by Kirby Conrod on How To Do Things With
 Gender](https://www.youtube.com/watch?v=jVr8NJwcMH4), the [Cao-Daumé
 paper on gender-inclusive coreference
-resolution](https://www.aclweb.org/anthology/2020.acl-main.418/) which
+resolution](https://aclanthology.org/2020.acl-main.418/) which
 includes some great examples and new datasets, and this [paper by Brian
 Larson on gender as a variable in
-NLP](https://www.aclweb.org/anthology/W17-1601/), informed by the
+NLP](https://aclanthology.org/W17-1601/), informed by the
 Belmont Report. Look up Kirby Conrod, Os Keyes, Lauren Ackerman and
 Ártemis López. For gender and facial recognition, read [this paper
 evaluating commercial facial recognition
@@ -123,7 +123,7 @@ surveys](https://interactions.acm.org/archive/view/july-august-2019/how-to-do-be
 
 - Paper: [The Gender Gap Tracker: Using Natural Language Processing to
   measure gender bias in
-  media](https://doi.org/10.1371/journal.pone.0245533) (2021). PLoS
+  media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533) (2021). PLoS
   ONE 16(1). Fatemeh Torabi Asr, Mohammad Mazraeh, Alexandre Lopes,
   **Vasundhara Gautam**, Junette Gonzales, Prashanth Rao, and Maite
   Taboada.

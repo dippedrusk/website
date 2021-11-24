@@ -17,12 +17,12 @@ layout: layouts/layout
 - Panelist on Dialpad's Trans Visibility Panel where I talked about
   agender identity and neopronouns, among other things.
 - Invited to lead a workshop on inclusive language at Open Source Day
-  2021 (hackathon at AnitaB.org's virtual Grace Hopper Celebration),
+  2021 (hackathon at [AnitaB.org](https://anitab.org/)'s virtual Grace Hopper Celebration),
   Summer 2021.
 - Gave a talk at Women in Voice 2021 titled Lofty Linguistic Ideals
   and Deploying in Tech Realities, about balancing the sometimes
   conflicting goals of the linguist and the software engineer in me.
-  [YouTube video: Recording of my talk](https://youtu.be/DNrr0RLab0o).
+  [YouTube video: Recording of my talk](https://www.youtube.com/watch?v=DNrr0RLab0o&feature=youtu.be).
 - Invited guest lecture on speech recognition and computational
   linguistics, at Simon Fraser University's Communication and Language
   class (LING 100), Summer 2021.

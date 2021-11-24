@@ -88,7 +88,7 @@ Your approach to dealing with misgendering may be fatalistic or it may be feisty
 
 - My #1 favourite resource for learning about and discussing queer things is the other quiltbaggers I know! I was lucky to have been welcomed into a community of queer folks in Vancouver by a queer community organizer friend and I've also met many wonderful people on Twitter (including Kirby and other queer linguists studying queer linguistics). I have particular reverence for my queer elders and you should too!
 - I like this [list of popular English pronouns](https://pronoun.is/all-pronouns) which includes a good number of neopronouns
-- The [LGTBA Wiki](https://lgbta.wikia.org/wiki/LGBTA_Wiki) is a huge community-edited resource on all things queer and if you enjoy digging around among very granular labels then that might be a useful site for you
+- The [LGTBA Wiki](https://lgbta.fandom.com/wiki/LGBTA_Wiki) is a huge community-edited resource on all things queer and if you enjoy digging around among very granular labels then that might be a useful site for you
 - \[Kirby adds: xe also sent me the link to this cool [pronouns dressing room](http://www.pronouns.failedslacker.com/), which is a nice way to "try on" different names and pronouns!\]
 
 Whatever you do, make sure you are honouring yourself in the research you do! Your experience of gender and pronouns doesn't _need_ a label, it definitely doesn't need a label _immediately_, and it may not align with anyone else's experience in the universe! And that's okay!
