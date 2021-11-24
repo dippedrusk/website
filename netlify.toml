@@ -14,6 +14,13 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
 
+[context.production]
+  [[context.production.plugins]]
+    package = "netlify-plugin-submit-sitemap"
+
+      [context.production.plugins.inputs]
+      sitemapPath = "/sitemap.xml"
+
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
