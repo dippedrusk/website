@@ -47,7 +47,8 @@ package = "netlify-plugin-checklinks"
 [[plugins]]
   package = "@netlify/plugin-a11y"
   [plugins.inputs]
-    failWithIssues = false
+    ignoreElements = 'header > title'
+    failWithIssues = true
     wcagLevel = 'WCAG2AAA'
 
 [[plugins]]
