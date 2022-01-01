@@ -39,7 +39,7 @@ package = "netlify-plugin-checklinks"
   ]
   recursive = true
   pretty = true
-  checkExternal = true
+  checkExternal = false
   skipPatterns = [
     "dl.acm.org/doi/"
   ]
