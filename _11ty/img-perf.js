@@ -1,8 +1,22 @@
 const { parseHTML } = require("linkedom");
+const { readFileSync } = require("fs");
+
+function getAlt(src) {
+  // assumes we will always have an extension
+  var f = src.replace(/.[^.]+$/, ".txt").replace(/^\//, "");
+  return readFileSync(f, (err, data) => {
+    if (err) throw err;
+    return data.toString();
+  });
+}
 
 const processImage = (img) => {
   img.setAttribute("decoding", "async");
   img.setAttribute("loading", "lazy");
+  img.setAttribute("class", "img-fluid");
+  if (!img.hasAttribute("alt")) {
+    img.setAttribute("alt", getAlt(img.getAttribute("src")));
+  }
 };
 
 const imgPerf = (content) => {
