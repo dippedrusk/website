@@ -80,38 +80,6 @@ layout: layouts/layout
   2019 Conference](https://pydata.org/nyc2019/)
 - Made the Dean's List (GPA>3.5) and the President's List (GPA>4.0).
 
-<div class="row">
-
-<div class="col col-md-4 mx-auto">
-
-<figure>
-<img src="/static/img/skytrain_ad.jpg" width="1200px" height="1600px" alt="Vasundhara standing in a SkyTrain station beside a large advertisement for Simon Fraser University's Faculty of Arts and Social Sciences. The advert has a black-and-white photograph of xem in it, and the words 'Seize Your Career' in big, bold text, followed by two paragraphs of small text talking about xyr career trajectory and why readers should apply to the Faculty of Arts and Social Sciences." /><figcaption aria-hidden="true">Me with my SkyTrain advert</figcaption>
-</figure>
-
-</div>
-
-<div class="col col-md-4 mx-auto">
-
-<figure>
-<img src="/static/img/careers_night_praat.jpg" width="1280px" height="960px" alt="Vasundhara is presenting at a lectern in front of a screen on which a screenshot of the computer program Praat is projected. There are about 30 people listening to xem present and the photo shows the backs of their heads." /><figcaption aria-hidden="true">Explaining speech recognition to linguistics students</figcaption>
-</figure>
-
-<figure>
-<img src="/static/img/careers_night_cl.jpg" width="1280px" height="960px" alt="Vasundhara is standing and presenting in front of a screen where one of xyr slides is projected. The slide has three bullet points that say: 2 parts linguistics, 2 parts coding and 1 part math, which is xyr formula for xyr personal sweet spot with computational linguistics." /><figcaption aria-hidden="true">Talking to students about computational linguistics</figcaption>
-</figure>
-
-</div>
-
-<div class="col col-md-4 mx-auto">
-
-<figure>
-<img src="/static/img/cmpt_poster.jpg" width="1566px" height="2376px" alt="Poster with a picture of Vasundhara in a Try/Catch conference t-shirt with imagery of circuits on it. The title of the poster is 'How will computer science shape your story?'. At the bottom of the poster there is a paragraph about how xe discovered computational linguistics through Google Translate and xyr love for learning languages." /><figcaption aria-hidden="true">My Computing Science poster</figcaption>
-</figure>
-
-</div>
-
-</div>
-
 </div>
 
 <div class="section">
