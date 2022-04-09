@@ -8,6 +8,18 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "https://vasundharagautam.com"
+  to = "https://dippedrusk.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.vasundharagautam.com"
+  to = "https://dippedrusk.com"
+  status = 301
+  force = true
+
 [[headers]]
   for = "/*"
   [headers.values]
