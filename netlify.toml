@@ -3,8 +3,8 @@
   command = "npm run build"
 
 [[redirects]]
-  from = "https://naughty-wilson-684740.netlify.app"
-  to = "https://vasundharagautam.com"
+  from = "https://dippedrusk.netlify.app"
+  to = "https://dippedrusk.com"
   status = 301
   force = true
 
