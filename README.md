@@ -1,6 +1,6 @@
 # Vasundhara's Website
 
-This is the code for my personal website, which lives at [vasundharagautam.com](https://vasundharagautam.com).
+This is the code for my personal website, which lives at [dippedrusk.com](https://dippedrusk.com/).
 
 It is currently built with the static site generator [11ty](https://www.11ty.dev/), which uses [Node.js](https://nodejs.org/en/) and templates in Nunjucks, markdown and some raw HTML too. The primary programming language in this repo is JavaScript and it is deployed with [Netlify](https://www.netlify.com/).
 
