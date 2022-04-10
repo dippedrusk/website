@@ -35,4 +35,4 @@ My site's design/layout, content and sitemap have changed a fair bit over time a
 - [The 11ty base blog](https://github.com/11ty/eleventy-base-blog)
 - [The 11ty high performance blog](https://github.com/google/eleventy-high-performance-blog)
 
-I was also inspired by many of the replies to [my Tweet asking people to share their websites](https://twitter.com/VasundharaNLP/status/1419362120953581569).
+I was also inspired by many of the replies to [my Tweet asking people to share their websites](https://twitter.com/DippedRusk/status/1419362120953581569).

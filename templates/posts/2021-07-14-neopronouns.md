@@ -58,13 +58,13 @@ Since they/them doesn't actively feel negative, I now list it as an alternative 
 
 It's most important to me that you try your best to pronoun me correctly, even if you don't get everything 10000% right 10000% of the time. I also have a personal soft spot for second language English speakers and am much more tolerant of misgendering in this context. This is not to say that ESL speakers have a free pass to misgender me but rather that I GET that it's hard!
 
-It's taken me LITERAL YEARS OF GENDERFEELS to get here — it's okay if you need a bit of an adjustment period. Back in September 2020 I [confessed to regularly making mistakes with the xe/xem pronoun paradigm](https://twitter.com/VasundharaNLP/status/1319109805215109120)!
+It's taken me LITERAL YEARS OF GENDERFEELS to get here — it's okay if you need a bit of an adjustment period. Back in September 2020 I [confessed to regularly making mistakes with the xe/xem pronoun paradigm](https://twitter.com/DippedRusk/status/1319109805215109120)!
 
 On a related note, when Demi Lovato recently came out as nonbinary, one of the things they said in conversation with Alok Vaid-Menon was that they sometimes misgender themself! It was very validating to hear them say that, because as a bb gay myself, I have often felt wary of making sweeping statements about even my own gender and pronouns without being able to prove my competence and internal consistency with them. Unlearning old habits and learning new ones takes time and conscious effort, so give yourself grace as you follow Kirby's [guide to stop messing up pronouns](https://kconrod.medium.com/pronouns-102-how-to-stop-messing-up-pronouns-9bd66911118).
 
 ## I'm questioning whether neopronouns are right for me — any advice?
 
-How exciting!!! I have four nuggets for you, and an open invitation to reach out to me on Twitter ([@VasundharaNLP](https://twitter.com/VasundharaNLP)) if you want to chat more about neopronouns and genderfeels!
+How exciting!!! I have four nuggets for you, and an open invitation to reach out to me on Twitter ([@DippedRusk](https://twitter.com/DippedRusk)) if you want to chat more about neopronouns and genderfeels!
 
 1. **Find ways to hear/see yourself referred to with neopronouns**
 
