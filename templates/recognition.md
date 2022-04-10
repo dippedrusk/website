@@ -62,8 +62,7 @@ layout: layouts/layout
   Fearless graduand reaps enticing
   offers](https://www.sfu.ca/sfunews/stories/2019/06/convocation/fearless-graduand-reaps-enticing-offers.html)
 - Interviewed by Simon Fraser University's Department of Linguistics.
-  [Article: What are you going to do next? Vasundhara Gautam, Spring
-  2019](http://www.sfu.ca/linguistics/events/-what-are-you-going-to-do-next-----vasundhara-gautam--spring-201.html)
+  [Article: What are you going to do next?](http://www.sfu.ca/linguistics/events/-what-are-you-going-to-do-next-----vasundhara-gautam--spring-201.html)
 - Named one of 10 leading innovators in Canada from the Class of 2019
   by The Logic. [Article: Top Prospects: Leading innovators from the
   Class of

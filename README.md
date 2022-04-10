@@ -1,4 +1,4 @@
-# Vasundhara's Website
+# My website
 
 This is the code for my personal website, which lives at [dippedrusk.com](https://dippedrusk.com/).
 
