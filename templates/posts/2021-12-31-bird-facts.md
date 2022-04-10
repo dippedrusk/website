@@ -6,7 +6,7 @@ tags:
 layout: layouts/post
 ---
 
-_This is an improved and [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed version of a list of [bird facts I originally wrote on Twitter](https://twitter.com/VasundharaNLP/status/1430718972945584129)_
+_This is an improved and [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed version of a list of [bird facts I originally wrote on Twitter](https://twitter.com/DippedRusk/status/1430718972945584129)_
 
 1. Woodpeckers have ridiculously long tongues that coil up inside their heads and the muscles associated with the tongue protect them against concussions when they peck wood.
 
