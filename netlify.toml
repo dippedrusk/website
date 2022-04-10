@@ -3,20 +3,20 @@
   command = "npm run build"
 
 [[redirects]]
-  from = "https://dippedrusk.netlify.app"
-  to = "https://dippedrusk.com"
+  from = "https://dippedrusk.netlify.app/*"
+  to = "https://dippedrusk.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://vasundharagautam.com"
-  to = "https://dippedrusk.com"
+  from = "https://vasundharagautam.com/*"
+  to = "https://dippedrusk.com/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.vasundharagautam.com"
-  to = "https://dippedrusk.com"
+  from = "https://www.vasundharagautam.com/*"
+  to = "https://dippedrusk.com/:splat"
   status = 301
   force = true
 
