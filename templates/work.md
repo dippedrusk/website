@@ -124,14 +124,13 @@ surveys](https://interactions.acm.org/archive/view/july-august-2019/how-to-do-be
 - Paper: [The Gender Gap Tracker: Using Natural Language Processing to
   measure gender bias in
   media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533) (2021). PLoS
-  ONE 16(1). Fatemeh Torabi Asr, Mohammad Mazraeh, Alexandre Lopes,
-  **Vasundhara Gautam**, Junette Gonzales, Prashanth Rao, and Maite
-  Taboada.
+  ONE 16(1). F. T. Asr, M. Mazraeh, A. Lopes,
+  **V. Gautam**, J. Gonzales, P. Rao, and M. Taboada.
 - Website: [Gender Gap
   Tracker](https://gendergaptracker.informedopinions.org/)
 - Article: [Tracking the gender gap in Canadian
   media](https://theconversation.com/tracking-the-gender-gap-in-canadian-media-110082)
-  (2019). Maite Taboada, Fatemeh Torabi Asr.
+  (2019). M. Taboada, F. T. Asr.
 - Press: [The future of women's voices in media: an interview with
   Gender Gap Tracker's lead SFU
   researcher](https://www.sfu.ca/sfunews/stories/2019/03/the-future-of-womens-voices-in-media-maite-taboada.html)
@@ -154,23 +153,19 @@ well as for internet citizens looking to have more meaningful
 interactions with others online.
 
 - Technical report (PDF): Constructiveness and Toxicity in Online News
-  Comments (2019). **Vasundhara Gautam** and Maite Taboada.
+  Comments (2019). **V. Gautam** and M. Taboada.
 - Article: [Tyee Commenters
   Assessed](https://thetyee.ca/Culture/2019/11/06/Tyee-Commenters-Assessed/)
-  (2019). **Vasundhara Gautam** and Maite Taboada.
+  (2019). **V. Gautam** and M. Taboada.
 - Radio: [Recent Study Finds Online Comments Surprisingly
   Constructive](https://archive.org/details/recentstudyfindsonlinecommentssurprisinglyconstructive)
-  (2019). Redeye, Vancouver Cooperative Radio, CFRO 100.5FM.
-  **Vasundhara Gautam**.
+  (2019). Redeye, Vancouver Cooperative Radio, CFRO 100.5FM. **V. Gautam**.
 - Poster (PDF): Automatic comment moderation: topics and toxicity in
-  online news (2019). SFU Linguistics Poster Session. **Vasundhara
-  Gautam** and Maite Taboada.
+  online news (2019). SFU Linguistics Poster Session. **V. Gautam** and M. Taboada.
 - Talk: Content moderation in social media (2018). SFU Public
-  Discourse and Data Science Symposium. Maite Taboada and **Vasundhara
-  Gautam**.
+  Discourse and Data Science Symposium. M. Taboada and **V. Gautam**.
 - Talk: Automating Comment Moderation: Topics and Toxicity in Online
-  News (2019). Undergraduate Research Symposium. **Vasundhara
-  Gautam**.
+  News (2019). Undergraduate Research Symposium. **V. Gautam**.
 - Code: [TACT GitHub
   repository](https://github.com/sfu-discourse-lab/TACT)
 
@@ -191,11 +186,11 @@ reviews](https://developer.nytimes.com/docs/movie-reviews-api/1/overview))
 - Paper: Hilariously ridiculous and other adverb-adjective
   combinations: Classification and frequency distribution across
   registers (2018). 4th Meeting of the American Pragmatics
-  Association. Cliff Goddard, Maite Taboada and Rada Trnavac.
+  Association. C. Goddard, M. Taboada and R. Trnavac.
 - Poster: The English \[adverb-ly adjective\] construction:
   Classification and distribution across corpora and registers (2019).
-  Canadian Linguistics Association. Cliff Goddard, Maite Taboada and
-  Rada Trnavac.
+  Canadian Linguistics Association. C. Goddard, M. Taboada and
+  R. Trnavac.
 - Code: [Adverbly Adjectives GitHub
   repository](https://github.com/sfu-discourse-lab/adverbly_adjectives)
 
