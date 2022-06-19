@@ -6,6 +6,15 @@ layout: layouts/layout
 
 <div class="section">
 
+## 2022
+
+- Panelist at the Queer in AI workshop at NAACL 2022, about non-binary representation in language technologies
+- Quoted in various TechCrunch articles: [Microsoft claims its new tools make language models safer to use](https://techcrunch.com/2022/05/23/microsoft-claims-its-new-projects-make-language-models-safer-to-use/); [Google bans deepfake-generating AI from Colab](https://techcrunch.com/2022/06/01/2328459/); and [Google expands Vertex, its managed AI service, with new features](https://techcrunch.com/2022/06/09/google-expands-vertex-its-managed-ai-service-with-new-features/)
+
+</div>
+
+<div class="section">
+
 ## 2021
 
 - Invited to speak at Harvey Mudd College's Natural Language
