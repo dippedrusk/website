@@ -1,4 +1,8 @@
 poem {
   white-space: pre-wrap;
   font-style: italic;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  display: flex;
 }
