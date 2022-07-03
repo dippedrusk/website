@@ -1,0 +1,1 @@
+Python interpreter with 'mama'.replace('m', 'x') and the output Jaza

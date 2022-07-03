@@ -1,0 +1,1 @@
+Python interpreter. print(my.s, myother.s) has the output a b and print('mama'.replace(my.s, myother.s)) has the output beer
