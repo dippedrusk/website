@@ -15,7 +15,9 @@ const processImage = (img) => {
   img.setAttribute("loading", "lazy");
   img.setAttribute("class", "img-fluid");
   if (!img.hasAttribute("alt")) {
-    img.setAttribute("alt", getAlt(img.getAttribute("src")));
+    var alt = getAlt(img.getAttribute("src"));
+    img.setAttribute("alt", alt);
+    img.setAttribute("title", alt);
   }
 };
 
