@@ -1,0 +1,1 @@
+Replacing a with b in mama outputs beer and then I show that forbiddenfruit is not in the imported modules. The commands are: import sys. 'sys' in sys.modules outputs True and 'forbiddenfruit' in sys.modules outputs False
