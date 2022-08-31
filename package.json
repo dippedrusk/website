@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vgautam/website.git"
+    "url": "git+https://github.com/dippedrusk/website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vgautam/website/issues"
+    "url": "https://github.com/dippedrusk/website/issues"
   },
-  "homepage": "https://github.com/vgautam/website#readme",
+  "homepage": "https://github.com/dippedrusk/website#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
