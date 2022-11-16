@@ -4,6 +4,8 @@ description: Volunteering, conference organizing, committees, mentoring
 layout: layouts/layout
 ---
 
+This page is no longer maintained and will likely disappear soon.
+
 <div class="section">
 
 ## 2021
