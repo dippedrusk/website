@@ -13,6 +13,9 @@ This post is a Yet Another Critique of gender trackers. I want to preface this p
 
 We should start by addressing my positionality as I write this, not just because I have a social-scientist-pleasing complex but also because it is very relevant to the trajectory of my views on gender trackers. Let's start with the fact that I worked on a gender tracker myself and even co-authored a paper about it. I also used to be a cis brown woman, and now I'm trans and nonbinary (still brown though).
 
+I do computer science. I do machine learning even. It is my bread and butter and has been for years now.
+
+My background is in computer science and linguistics and it is very quantitative. I did not do sociolinguistics in school. The way I was taught how to be a computer scientist was with all the usual principles of reducing complexity and modelling things simply, elegantly. No matter who you stomp over in the process.
 
 
 This project seeks to quantify gender bias in the media by counting the proportion of people quoted in news text who are women. To do so, we developed a system that analyzes articles published online by certain English-language Canadian news outlets, using parts we built in combination with off-the-shelf NLP tools.
