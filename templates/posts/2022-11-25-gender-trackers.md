@@ -55,6 +55,8 @@ TECHNOSOLUTIONISM
 
 ## Praxis-free citation
 
+the gender binary (male, female) -> gender binary (cis, trans) -> gender ternary (cis, trans, nonbinary) -> quantum gender (demigirl, nonbinary woman) -> hyperdimensional gender (purple, moon, rustling leaves) -> gender annihilation (gender non-compliant, no, NULL, &c) pipeline
+
 ethicswashing and citing things that tell you not to do the thing, then doing it anyway >:( or like, saying oh we have to be very careful with these things and these are the issues but then doing it anyway. which my paper totally did! it's better than many horrendous things i've seen because it is at least (to some degree) power-aware, but it is not counter-power. and that argument is weak anyway it's like being canada and saying "well at least we're better than the US" while having almost exactly the same legacy of slavery, Indigenous genocide, colonialism, etc. like well done, the bar is in hell lmao.
 
 ## A (tentative) future
@@ -77,39 +79,39 @@ Solidarity and community, not a thing you can do individually
 ## Further reading
 
 
-    The Coloniality of Gender - María Lugones
+The Coloniality of Gender - María Lugones
 
-    Nuance and normativity in trans linguistic research - Lex Konnelly
+Nuance and normativity in trans linguistic research - Lex Konnelly
 
-    Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender - Anne Lauscher, Archie Crowley, Dirk Hovy
+Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender - Anne Lauscher, Archie Crowley, Dirk Hovy
 
-    The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition - Os Keyes
+The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition - Os Keyes
 
-    Theories of “Gender” in NLP Bias Research - Hannah Devinney, Jenny Björklund, Henrik Björklund
+Theories of “Gender” in NLP Bias Research - Hannah Devinney, Jenny Björklund, Henrik Björklund
 
-    You Keep Using That Word: Ways of Thinking about Gender in Computing Research - Os Keyes, Chandler May, Annabelle Carrell
+You Keep Using That Word: Ways of Thinking about Gender in Computing Research - Os Keyes, Chandler May, Annabelle Carrell
 
-    Feeling fixes: mess and emotion in algorithmic audits - Os Keyes, Jeannie Austin
+Feeling fixes: mess and emotion in algorithmic audits - Os Keyes, Jeannie Austin
 
-    "Why are they all obsessed with Gender?" — (Non)binary Navigations through Technological Infrastructures - Katta Spiel
+"Why are they all obsessed with Gender?" — (Non)binary Navigations through Technological Infrastructures - Katta Spiel
 
-    Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies - Sunipa Dev, Masoud Monajatipoor, Arjun Subramonian, Jeff Phillips, Kai-Wei Chang
+Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies - Sunipa Dev, Masoud Monajatipoor, Arjun Subramonian, Jeff Phillips, Kai-Wei Chang
 
-    Gender as a Variable in Natural-Language Processing: Ethical Considerations - Brian Larson
+Gender as a Variable in Natural-Language Processing: Ethical Considerations - Brian Larson
 
-    Gender Recognition or Gender Reductionism?: The Social Implications of Embedded Gender Recognition Systems - Foad Hamidi, Morgan Klaus Scheuerman, Stacy M. Branham
+Gender Recognition or Gender Reductionism?: The Social Implications of Embedded Gender Recognition Systems - Foad Hamidi, Morgan Klaus Scheuerman, Stacy M. Branham
 
-    Rebuilding Trust: Queer in AI Approach to Artificial Intelligence Risk Management - QueerInAI Organizers, Ashwin S, William Agnew, Hetvi Jethwani, Arjun Subramonian
+Rebuilding Trust: Queer in AI Approach to Artificial Intelligence Risk Management - QueerInAI Organizers, Ashwin S, William Agnew, Hetvi Jethwani, Arjun Subramonian
 
-    Revisiting Gendered Web Forms: An Evaluation of Gender Inputs with (Non-)Binary People - Morgan Klaus Scheuerman, Jialun Aaron Jiang, Katta Spiel, Jed R. Brubaker
+Revisiting Gendered Web Forms: An Evaluation of Gender Inputs with (Non-)Binary People - Morgan Klaus Scheuerman, Jialun Aaron Jiang, Katta Spiel, Jed R. Brubaker
 
-    Stone Butch Blues - Leslie Feinberg
+Stone Butch Blues - Leslie Feinberg
 
-    Evan Greer
+Evan Greer
 
-    The Hirs Collective
+The Hirs Collective
 
-    HCI gender guidelines
+HCI gender guidelines
 
 If you are considering doing similar work or just generally examining gender as a variable, I encourage you to look at the following references: this blog post on trans-inclusive AI, this excellent talk by Kirby Conrod on How To Do Things With Gender, the Cao-Daumé paper on gender-inclusive coreference resolution which includes some great examples and new datasets, and this paper by Brian Larson on gender as a variable in NLP, informed by the Belmont Report. Look up Kirby Conrod, Os Keyes, Lauren Ackerman and Ártemis López. For gender and facial recognition, read this paper evaluating commercial facial recognition technologies, and this Os Keyes paper about the impact of gender recognition using facial analysis on trans folks. Also follow this guide for HCI researchers on how to do better with gender on surveys.
 
@@ -128,3 +130,6 @@ https://interactions.acm.org/archive/view/july-august-2019/how-to-do-better-with
 more katta!!
 
 TODO (guidelines for asking about gender (various)
+
+
+you might disagree with this. if you think xyz then idk what to tell you but not everyone agrees with you. it isn't an "i'm right and you're wrong" thing but it's more like my values are different and i'm not even sure everyone understands the values they're espousing let alone saying it with their chest.
