@@ -1,5 +1,5 @@
 ---
-title: Vasundhara's Vancouver
+title: Vagrant's Vancouver
 description: A non-comprehensive list of places to go and things to do in Vancouver as curated by yours truly over 6 years.
 date: 2021-11-09
 tags:
@@ -11,6 +11,9 @@ layout: layouts/post
 [[toc]]
 
 ## Food
+
+- 4 Stones vegetarian
+
 ### Brunch
 - wallflower
 - jam cafe
