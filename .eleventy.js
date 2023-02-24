@@ -2,6 +2,7 @@ const fs = require("fs");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItToc = require("markdown-it-toc-done-right");
+const markdownItFootnote = require("markdown-it-footnote");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const CleanCSS = require("clean-css");
@@ -23,7 +24,8 @@ module.exports = function (eleventyConfig) {
     .use(markdownItAnchor, {
       permalink: markdownItAnchor.permalink.headerLink(),
     })
-    .use(markdownItToc, { listType: "ul" });
+    .use(markdownItToc, { listType: "ul" })
+    .use(markdownItFootnote);
 
   eleventyConfig.setDataDeepMerge(true);
 
