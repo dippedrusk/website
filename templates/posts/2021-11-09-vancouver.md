@@ -57,33 +57,31 @@ Pretty much all of these are local businesses.
 
 ### Sushi
 
-Not going to make restaurant-specific food recommendations in this section because I'm (mostly) vegetarian so I tend to go for sweet potato rolls, yam rolls, avocado rolls, veggie tempura rolls and rolls with mango in them. Also you simply cannot go wrong with any kind of veggie tempura but especially yam tempura.
+I won't make restaurant-specific food recommendations in this section because I'm (mostly) vegetarian and therefore not a sushi connoisseur at all. At Japanese places I tend to go for yam tempura, udon and rolls with sweet potato, yam, avocado, mango or tempura inside. These restaurants are ranked in increasing order of fanciness.
 
-- Sushi Bella
-- Sushi California
-- Oysi Oysi: sushi, fancy
-- Osaka Sushi
-- Minami Sushi: fancy
-- Hong Sushi (Burnaby)
-- Togo Sushi (Burnaby)
-- Sushi Giwa
-- Zeta Cafe
+- [Togo Sushi](https://togosushi.ca/): Least pretentious - food court sushi.
+- [Hong Sushi](http://go.hongsushi.ca/): As their website says, they "primarily cater to customers on-the-go."
+- [Sushi Bella](https://www.sushibella.com/): Unpretentious sit-down place.
+- [Osaka Sushi](https://burrardosakasushi.com/): Unpretentious sit-down place.
+- [Sushi Giwa](https://sushi-giwa.ca/): Mid-level sit-down place I've had many lovely dinners at. I love their yakiudon.
+- [Sushi California](https://sushicali.ca/): Mid-level to nice sit-down place.
+- [Minami](https://minamirestaurant.com/): Fancy and expensive sushi.
 
 ### Italian
 
-The Drive (Commercial Drive) is the Little Italy of Vancouver and Burnaby Heights is another neighbourhood that has a significant Italian population. So both these neighbourhoods have lots of Italian eateries. Gelato is not included in this section but in desserts.
+Vancouver is great for Italian food because of the significant Italian Canadian population on The Drive (Commercial Drive) and in Burnaby Heights. There's no gelato in this section - head to [desserts](#desserts) for that.
 
-- Cotto Enoteca: order tiramisu
-- Frankie's Italian Vancouver: this place is colocated with Frankie's Jazz Club but without the music, as far as I understand. So you could get the food by itself or food + live jazz depending on when you go!
-- Anton's Pasta Bar: very classic date location, long lines outside basically every evening, enormous quantities (like 4-5 meals for me) at very cheap prices, given the quantity
-- Sopra Sotto Pizzeria: pizza here is to die for
-- [Rosa's Cucina Italiana](https://www.rosascucina.com/): Call / go early because they are _extremely_ popular
-- [Pizzeria Spacca Napoli](https://www.pizzeriaspaccanapoli.com/): pizza here is also to die for
-- [Piva](https://pivarestaurant.ca/): have their eggplant sandwich in the morning or their gnocchi for lunch/dinner. They make a killer smoked old-fashioned, if you drink.
+- [Cotto Enoteca](https://cotto.ca/home/): Order their tiramisu!
+- [Frankie's Italian Kitchen & Bar](http://frankiesitaliankitchen.ca/): Co-located with Frankie's Jazz Club. With or without the live jazz, you're getting great Italian food from here.
+- [Anton's Pasta Bar](https://antonspastabar.com/): A classic date location especially for students because of the ridiculously cheap prices given the enormous quantities (like 4-5 meals for me). There are long lines outside basically every evening.
+- [Sopra Sotto](https://soprasotto.ca/): All the (wood-fired) pizza here is to die for.
+- [Rosa's Cucina Italiana](https://www.rosascucina.com/): Call or go early because this Port Moody spot is _extremely_ popular.
+- [Pizzeria Spacca Napoli](https://www.pizzeriaspaccanapoli.com/): The pizza here is also to die for. I also loved their eggplant parmigiana.
+- [Piva](https://pivarestaurant.ca/): My favourite Italian restaurant in BC! Have their eggplant sandwich for brunch or their gnocchi for lunch/dinner. They make a killer smoked old-fashioned, if you drink.
 
 ### Mediterranean
 
-Using this category to combine like Lebanese, Turkish, Syrian, etc., food where the dishes that I would eat are basically the same. I indicate how each restaurant describes itself if that information is available.
+I use this category to combine Lebanese, Turkish, Syrian, etc., food where the dishes that I would eat are basically the same. I indicate how each restaurant describes itself if that information is available.
 
 - [Jamjar Canteen](https://www.jamjarcanteen.ca/): Lebanese. Order the makali (deep-fried cauliflower tossed in sweet-sour pomegranate molasses), it is heavenly.
 - [Nuba](https://www.nuba.ca/): Lebanese. I recommend getting one of the sharing options, e.g., Le Feast or Le Grand Feast. They're large and allow you to sample the best of Nuba's stuff.
@@ -150,12 +148,8 @@ Using this category to combine like Lebanese, Turkish, Syrian, etc., food where 
 
 ### Chinese
 
-57. Dinesty Dumpling House (Downtown)
+57. Dinesty Dumpling House (Downtown): soup dumpling
 58. Lucky Gate (Coquitlam)
-
-### Taiwanese
-
-58. 4 Stones Vegetarian Cuisine (Richmond)
 
 ### Korean
 
@@ -164,20 +158,19 @@ Using this category to combine like Lebanese, Turkish, Syrian, etc., food where 
 
 ### Fast food
 
-50. Freshii (West Vancouver)
-51. Fresh Slice (Burnaby)
-52. Taco Bell (Coquitlam)
-53. Smoke's Poutinerie (Downtown)
-54. Taco Time (Burnaby)
-
+- Freshii (West Vancouver)
+- Fresh Slice (Burnaby)
+- Taco Bell (Coquitlam)
+- Smoke's Poutinerie (Downtown)
+- Taco Time (Burnaby)
 - A&W
 
 ### Other
 
-64. Chauveggie (Commercial)
-65. Chilli Pepper House (Commercial)
-66. Steve's Poké Bar (Burnaby)
-
+- Chauveggie (Commercial)
+- Chilli Pepper House (Commercial)
+- Steve's Poké Bar (Burnaby)
+- 4 Stones Vegetarian Cuisine (Richmond)
 - the ethiopian place
 
 ## Books
@@ -292,15 +285,26 @@ hikes, kayaking, snowboarding/skiing, parks
 
 music, movies
 
-## Other
+## Transport
 
-seaplane, helicopter, vancouver island, seabus
+seaplane, helicopter, seabus, false creek ferries, buses, skytrain, car share (evo, modo), taxis
 
 ## Donations and volunteering
 
+- value village
+- canada learning code
+- downtown eastside womens centre
+- atira
+- qmunity
+- rainbow refugee
+- PHS Community Services Society
+
 ## Miscellaneous
 
-hair, tattoos value village piercings sex toys
+- [Big Bro's Barbershop](https://bigbrosbarbershop.com/)
+- [B-Bombshell Salon](https://www.bbombshellsalon.com/)
+- [Adrenaline Studios](https://adrenalinestudios.com/)
+- Womyns Wares
 
 ## Closed
 
@@ -310,9 +314,14 @@ hair, tattoos value village piercings sex toys
 - Soirette Pastry Boutique (Downtown)
 - the cheese bubble tea in brentwood center???
 - Charlie's Mexican
+- Oysi Oysi sushi, fancy
+- Zeta Cafe
 
 ## A bit further out
 
+- Whistler
+- Victoria
+- Seattle
 - Ingrid's Village Café (Whistler)
 - Zeitgeist (Seattle)
 - Mogul's Coffee House (Whistler)
