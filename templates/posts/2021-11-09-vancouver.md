@@ -1,6 +1,6 @@
 ---
 title: "Vancouver: Vagrant's version"
-description: A non-comprehensive list of places to go and things to do in Vancouver as curated by yours truly over 6 years.
+description: A non-comprehensive list of places to go and things to do in the Greater Vancouver Area as curated by yours truly over 6 years.
 date: 2021-11-09
 tags:
   - vancouver
@@ -41,7 +41,7 @@ Many of these are chains - some Canada-wide, some BC-specific and others just in
 
 Pretty much all of these are local businesses.
 
-- [Gallagher's Coffee Bar & Café](https://shopnewportvillage.com/stores/gallaghers-coffee-bar/): My absolute favourite cafe in the Greater Vancouver Area. Great coffee, indoor and outdoor seating with a view of Newport Village with all its local stores and neighbourhood dogs, free wifi, yummy breakfast options.
+- [Gallagher's Coffee Bar & Café](https://shopnewportvillage.com/stores/gallaghers-coffee-bar/): My absolute favourite cafe in the GVA. Great coffee, indoor and outdoor seating with a view of Newport Village with all its local stores and neighbourhood dogs, free wifi, yummy breakfast options.
 - [Renaissance Coffee](https://renaissancecoffeesfu.com/): Excellent coffee (dare I say better than everything else on this list), located at <abbr title="Simon Fraser University">SFU</abbr>. Get the 2 samosas and chana masala combo and look out for Mr. Parhar, the friendly owner.
 - [Chatime](https://chatime.ca/): Reliably excellent bubble tea chain. My standard drink is a large milk tea with 0% sugar, 50% ice and brown sugar pearls.
 - [Prime's Thai Tea](https://primesthaitea-van.business.site/): They have a signature coconut milk and mango drink with coconut jelly that is out of this world.
@@ -81,7 +81,7 @@ Vancouver is great for Italian food because of the significant Italian Canadian 
 
 ### Mediterranean
 
-I use this category to combine Lebanese, Turkish, Syrian, etc., food where the dishes that I would eat are basically the same. I indicate how each restaurant describes itself if that information is available.
+I use this category to combine Lebanese, Turkish, Syrian, etc., food where the dishes that I would eat are very similar. I indicate how each restaurant describes itself if that information is available.
 
 - [Jamjar Canteen](https://www.jamjarcanteen.ca/): Lebanese. Order the makali (deep-fried cauliflower tossed in sweet-sour pomegranate molasses), it is heavenly.
 - [Nuba](https://www.nuba.ca/): Lebanese. I recommend getting one of the sharing options, e.g., Le Feast or Le Grand Feast. They're large and allow you to sample the best of Nuba's stuff.
@@ -89,6 +89,7 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 - [Tamam](https://www.tamam.ca/): Palestinian. Family-run. Exquisite food.
 - [Golden Pita Restaurant](https://www.goldenpita.ca/): Lebanese. Get a pita wrap.
 - [Babylon café](https://babyloncafe.ca/): Middle Eastern. Whatever you eat, get their tea with it (cardamom Alwazah tea)
+- [Chickpea](https://www.ilovechickpea.ca/): Middle Eastern. Regardless of whether you go to the food truck or the restaurant, you have to get sabich (fried eggplant) and their hummus (which is what they focused on when they first opened).
 
 ### Mexican
 
@@ -105,21 +106,18 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 
 ### Indian
 
-- tasty indian bistro
-- chaat house
-- Agra Tandoori Restaurant
-- Chettinad Dosa Palace
-- other dosa place
+- [Tasty Indian Bistro](https://tastybistro.ca/): I've long maintained that this place's name doesn't match its vibe, which is actually quite fancy. In my opinion they have the best Indian food in the GVA. Because I am a paneer fiend, my favourite dishes here are the shahi paneer and the vegetable biryani. The mango lassi is also great.
+- [Agra Tandoori](http://www.agratandoori.ca): This place also has great Indian food (I recommend the paneer pakoras) and its Burnaby location meant that it was easier for me to get takeout or delivery from here since Tasty was too far away.
+- [Chettinad Dosa Palace](https://chettinaddosapalace.business.site/): Hole-in-the-wall joint to get your dosa fix. They also have other kinds of Indian food including chaat.
 
 ### Desserts
 
-- [Nuvola Gelato](http://www.nuvolagelato.com/index.html): I lived above this family-run gelato place for 3 years and got into the habit of waving at the guy through the glass every time I left or returned to my apartment. Their offerings are seasonal but try to get the mango sorbet (vegan) and the dark chocolate sea salt flavours if you can. Also their tiramisu is heavenly.
-- nero belgian waffle house
-- glenburn
-- cow's
-- [x] La Casa Gelato
-- [ ] Rain or Shine Ice-cream
-- [x] Earnest Ice-cream
+- [Nuvola Gelato](http://www.nuvolagelato.com/index.html): I lived near this family-run gelato place for 3 years and got into the habit of waving at the guy through the glass every time I walked by. Their offerings are seasonal but try to get the mango sorbet (vegan) and the dark chocolate sea salt flavours if you can. Also their tiramisu is heavenly.
+- [Nero Waffles](https://www.nerowafflebar.com/): Delectable, instagrammable waffles that are loaded with stuff. There are savoury and sweet options and my personal favourite was the tiramisu waffle with its espresso mascarpone cream.
+- [Glenburn Soda Fountain](https://www.glenburnsoda.com/): They specialize in classic sundaes and have a classic soda fountain atmosphere. I got really into their milkshakes.
+- [La Casa Gelato](http://lacasagelato.com/): Classic Vancouver location whose USP is the variety of icecreams they stock - over 200 flavours at a time, including unusual ones like durian, balsamic vinegar, and so on. Trying flavours is encouraged.
+- [Rain or Shine](https://www.rainorshineicecream.com/): They're all about natural, local and seasonal ingredients. Their salted caramel icecream is really good (even for a caramel-disliker like me).
+- [Earnest Ice Cream](https://earnesticecream.com/): They're also all about natural, local, seasonal ingredients, and they're a particularly good option for vegans.
 - PopBar (Burnaby)
 - Godiva Chocolatier (Burnaby)
 - Cartems Donuterie (Downtown)
@@ -326,3 +324,4 @@ seaplane, helicopter, seabus, false creek ferries, buses, skytrain, car share (e
 - Zeitgeist (Seattle)
 - Mogul's Coffee House (Whistler)
 - La Cantina (Whistler)
+- cow's
