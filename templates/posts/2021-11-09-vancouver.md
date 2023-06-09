@@ -41,14 +41,14 @@ Many of these are chains - some Canada-wide, some BC-specific and others just in
 
 Pretty much all of these are local businesses.
 
-- [Gallagher's Coffee Bar & Café](https://shopnewportvillage.com/stores/gallaghers-coffee-bar/): My absolute favourite cafe in the GVA. Great coffee, indoor and outdoor seating with a view of Newport Village with all its local stores and neighbourhood dogs, free wifi, yummy breakfast options.
+- [Gallagher's Coffee Bar & Café](https://shopnewportvillage.com/stores/gallaghers-coffee-bar/): My absolute favourite café in the GVA. Great coffee, indoor and outdoor seating with a view of Newport Village with all its local stores and neighbourhood dogs, free wifi, yummy breakfast options.
 - [Renaissance Coffee](https://renaissancecoffeesfu.com/): Excellent coffee (dare I say better than everything else on this list), located at <abbr title="Simon Fraser University">SFU</abbr>. Get the 2 samosas and chana masala combo and look out for Mr. Parhar, the friendly owner.
 - [Chatime](https://chatime.ca/): Reliably excellent bubble tea chain. My standard drink is a large milk tea with 0% sugar, 50% ice and brown sugar pearls.
 - [Prime's Thai Tea](https://primesthaitea-van.business.site/): They have a signature coconut milk and mango drink with coconut jelly that is out of this world.
-- [Andrew's on 8th](https://andrewsoneighth.com/): North Vancouver cafe with great sandwiches, outdoor seating and mini-golf.
-- [Great Dane Coffee](http://www.greatdanecoffee.com/): <abbr title="University of British Columbia">UBC</abbr> cafe with good coffee. Try their grilled cheese. If you're lucky you'll see the owner's great dane!
-- [Juillet Cafe](https://juilletwellness.com/cafe/): Cute Burnaby cafe that won't kick you out if you're there to study or work. They have wifi and a lot of outlets.
-- [Cafe La Forêt](https://www.cafelaforet.com/): Gorgeous cafe with a warehouse aesthetic and good pastries.
+- [Andrew's on 8th](https://andrewsoneighth.com/): North Vancouver café with great sandwiches, outdoor seating and mini-golf.
+- [Great Dane Coffee](http://www.greatdanecoffee.com/): <abbr title="University of British Columbia">UBC</abbr> café with good coffee. Try their grilled cheese. If you're lucky you'll see the owner's great dane!
+- [Juillet Cafe](https://juilletwellness.com/cafe/): Cute Burnaby café that won't kick you out if you're there to study or work. They have wifi and a lot of outlets.
+- [Cafe La Forêt](https://www.cafelaforet.com/): Gorgeous café with a warehouse aesthetic and good pastries.
 - [Fratelli Bakery](https://www.fratellibakery.com/): Delicious cakes and other baked goods.
 - [JJ Bean Coffee](https://jjbeancoffee.com/): Chain with lots of locations and reliably good coffee.
 - [Off The Tracks Bistro](https://tracksbistro.ca/): Good breakfast option on Granville Island (but you're spoiled for choice there).
@@ -118,26 +118,25 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 - [La Casa Gelato](http://lacasagelato.com/): Classic Vancouver location whose USP is the variety of icecreams they stock - over 200 flavours at a time, including unusual ones like durian, balsamic vinegar, and so on. Trying flavours is encouraged.
 - [Rain or Shine](https://www.rainorshineicecream.com/): They're all about natural, local and seasonal ingredients. Their salted caramel icecream is really good (even for a caramel-disliker like me).
 - [Earnest Ice Cream](https://earnesticecream.com/): They're also all about natural, local, seasonal ingredients, and they're a particularly good option for vegans.
-- PopBar (Burnaby)
-- Godiva Chocolatier (Burnaby)
-- Cartems Donuterie (Downtown)
-- Snowy Village (Downtown)
-- Cumpari's Gelato (Burnaby)
-- Ice Queen (Richmond) (rolled icecream)
+- [Cartems Donuterie](https://cartems.com/): I'm not a big donut person but I've heard great things about the smoked maple walnut and the earl grey donuts.
+- [Snowy Village](http://snowyvillages.ca/): Go to this Korean dessert café for bingsoo and taiyaki.
+- [I.ce Queen](https://www.facebook.com/icqueenqueen): Go here for rolled icecream - half the fun is in watching it be prepared.
 - [Cheesecake Etc.](https://www.cheesecakeetc.com/): Only open at night for cheesecakes and live jazz.
-
-### Thai
-
-- Chad Thai Restaurant (Burnaby)
-- Thai Café (Burnaby)
+- [Dairy Queen](https://www.dairyqueen.com/en-ca/): Getting a DQ Blizzard is a very classic thing to do. After the DQ person makes it they'll typically flip it upside down to show you how cold it is before handing it to you right-side-up. My favourite kind is probably chocolate chip cookie dough.
 
 ### Ramen
 
 - burnaby place (mady)
 - downtown place (emily)
 - other downtown place (pride)
-- west van place (kaschelle - but was that really ramen?)
+- [Lao Cai](www.laocai.ca): west van place (kaschelle - but was that really ramen?)
 - fancy ramen place downtown Men-No Kura Ramen ?
+
+### Asian food - Thai, Chinese, Korean, etc.
+
+### Thai
+
+- [Chad Thai](http://chadthai.ca/)
 
 ### Hot Pot
 
@@ -192,18 +191,18 @@ Most of these places do used and new books and also have good sell-for-store-cre
 
 ## Alcohol
 
-- Steamworks
-- Colony
-- Yellow Dog
-- [Per Se Social Corner](http://persesocialcorner.com/)
-- thd coffee bar
-- other brweeries nearby
-- [ ] Yaletown distillery bar
-- Granville Island Brewing (Granville Island)
-- The Cobalt (Downtown)
-- Club Ilia (Burnaby)
-- Main Street Brewing (Downtown)
-- parkside
+This list includes breweries and bars along with beer recommendations with the warning that my taste in beer skews hoppy and dark (IPAs, porters, stouts). My favourite liquor store gets an honourable mention at the end.
+
+- [Steamworks](https://steamworks.com/): A local (Gastown) brewery with the prettiest cans and bottles. Try the flagship hazy IPA for hoppy goodness.
+- [Yellow Dog](https://yellowdogbeer.com/): All their beers have dog-related names - my favourite is their Play Dead IPA. They have a huge closed off patio in Port Moody where you can drink in the sun! People used to even bring their dogs but this is no longer allowed because of "local health regulations."
+- [Parkside](https://www.theparksidebrewery.com/): Another great Port Moody brewery. I recommend the Dreamboat hazy IPA.
+- [Twin Sails](https://twinsailsbrewing.com/): This is the Port Moody brewery to go to if you enjoy a good stout (though they have other stuff as well). They brew new beers regularly but I distinctly remember having good milk stouts, coffee stouts and oatmeal stouts from Twin Sails.
+- [Granville Island Brewing](https://www.granvilleislandbrewing.ca/en-CA): The Island Lager is a classic and fits Granville Island's vibe really well.
+- [Main St. Brewing](https://www.mainstreetbeer.ca/): Good locally-brewed beer outside of Port Moody! Their rotation is always changing so I can't recommend anything specific here.
+- [Alibi Room](http://alibi.ca/): The perfect place to go if you want to sample various different local beers; they update their list regularly so there will be new (but still local) craft beer every time you visit.
+- [Good Co. Bars](https://www.goodcobars.com/): Previously known as the Colony Bar, I've spent many lovely nights at their location on Main St. Get their beer-battered fries (now "lemon pepper fries" on the menu).
+- [Per Se Social Corner](http://persesocialcorner.com/): A pricey place with gorgeous cocktails. I recommend their Grounds for Divorce, a variation on a gin fizz. This was also the place where I was first introduced to dried citrus.
+- [Angry Otter Liquor](https://www.angryotterliquor.crs/sites/04/): This liquor store is a hidden gem with knowledgeable staff and an enormous variety of beer, wine and spirits. Their North Burnaby location fuelled many months of cocktail experiments and I recommend [Ungava gin](https://ungavagin.com/) for Canadian (but not local) gin. If you're a beer person and you think you'd enjoy something between a porter, a stout and a brown ale, look for my favourite beer - [Hoyne Brewing](https://hoynebrewing.ca/)'s Dark Matter.
 
 ## Museums
 
@@ -260,7 +259,7 @@ hikes, kayaking, snowboarding/skiing, parks
 - [Vancouver International Film Festival](https://www.viff.org/): The festival happens at venues all around town. They screen films at the VIFF Centre year-round as well.
 - [Vancouver International Jazz Festival](https://www.coastaljazz.ca/): Performances at venues around town, some ticketed, some free, some on outdoor stages. They also have year-round events.
 - [Bard on the Beach](https://bardonthebeach.org/): Shakespeare festival where plays are put on in large tents set up in Vanier Park. It's not just traditional performances, e.g., a spin on Coriolanus where they made the character a woman and used it to explore themes of gender and violence. Pro-tip: if you aren't familiar with the play, read the synopsis of the original before you go. Pro-tip 2: go to the pre-show talks regardless of your familiarity with the original Shakespeare because the talks focus on the production you're about to watch.
-- [Vancouver Hot Chocolate Festival](https://hotchocolatefest.com/): Festival where cafes, bakeries, chocolatiers, etc., all come up with signature hot chocolates and you can go around town sampling them!
+- [Vancouver Hot Chocolate Festival](https://hotchocolatefest.com/): Festival where cafés, bakeries, chocolatiers, etc., all come up with signature hot chocolates and you can go around town sampling them!
 - [Vancouver Mural Festival](https://vanmuralfest.ca/): New murals are commissioned every year in different neighbourhoods of Vancouver and you can use their online maps to plot a path and go look at murals.
 - [Queers and Beers](https://www.facebook.com/queersandbeersYVR): When I used to go it was a small meetup that would take over most of a bar. I think they've grown bigger since!
 - [Vancouver Queer Film Festival](https://outonscreen.com/vqff/): Queer film and filmmakers at venues all around town for a month! They also have year-round events.
@@ -270,6 +269,7 @@ hikes, kayaking, snowboarding/skiing, parks
 - food truck festival
 - biltmore
 - unicorn ball
+- The Cobalt (Downtown)
 - nerd nite
 - Rio
 - Cinametheque
@@ -306,14 +306,21 @@ seaplane, helicopter, seabus, false creek ferries, buses, skytrain, car share (e
 
 ## Closed
 
-- The District
-- The Wallflower
+- [The District](https://dailyhive.com/vancouver/the-district-brasserie-north-vancouver-closed)
+- [The Wallflower](https://bc.ctvnews.ca/everyone-is-broke-beloved-east-vancouver-diner-closing-its-doors-1.5972606)
 - Table153
-- Soirette Pastry Boutique (Downtown)
+- [Soirette](https://www.vancouverisawesome.com/food-and-drink/vancouver-bakery-soirette-closing-after-10-years-marking-the-start-of-an-exciting-new-chapter-4237839)
 - the cheese bubble tea in brentwood center???
-- Charlie's Mexican
-- Oysi Oysi sushi, fancy
+- [Charlie's Mexican Restaurant and Catering](https://dailyhive.com/vancouver/charlies-mexican-restaurant-and-catering-has-permanently-closed)
+- Oysi Oysi
 - Zeta Cafe
+- PopBar
+- [Godiva Chocolatier](https://www.cbc.ca/news/business/godiva-stores-1.5883575)
+- Thai Café
+- [Yaletown Distillery](https://www.vancouverisawesome.com/food-and-drink/vancouver-closed-yaletown-distillery-6421817)
+
+
+# GRANVILLE ISLAND WHERE 2 FIT U IN BBG
 
 ## A bit further out
 
