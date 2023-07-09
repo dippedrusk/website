@@ -129,8 +129,7 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 - burnaby place (mady)
 - downtown place (emily)
 - other downtown place (pride)
-- [Lao Cai](www.laocai.ca): west van place (kaschelle - but was that really ramen?)
-- fancy ramen place downtown Men-No Kura Ramen ?
+- fancy ramen place downtown ?
 
 ### Asian food - Thai, Chinese, Korean, etc.
 
@@ -145,8 +144,8 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 
 ### Chinese
 
-57. Dinesty Dumpling House (Downtown): soup dumpling
-58. Lucky Gate (Coquitlam)
+- [Dinesty Dumpling House](https://dinesty.ca/): They are famous for their xiao long bao, i.e., their steamed pork soup dumplings. If you're a vegetarian, there is stuff for you to eat here but this unfortunately does not include vegetarian soup dumplings.
+- [Lao Cai](www.laocai.ca): Food from the Chinese province of Xi'an. Get the hand-ripped spicy oil noodles, dumplings and the crispy lotus root salad.
 
 ### Korean
 
@@ -155,39 +154,35 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 
 ### Fast food
 
-- Freshii (West Vancouver)
-- Fresh Slice (Burnaby)
-- Taco Bell (Coquitlam)
-- Smoke's Poutinerie (Downtown)
-- Taco Time (Burnaby)
-- A&W
+I've left American fast food chains off this list and limited it to Canadian chains.
+
+- [Freshii](https://www.freshii.com/): I often get the Buddha bowl with tofu at the airport.
+- [Fresh Slice](http://www.freshslice.com/): It's pizza! Get what you like.
+- [Uncle Fatih's](https://unclefatih.com/): They make pizza, but all their pizzas are sprinkled with sesame seeds!
+- [Smoke's Poutinerie](https://smokespoutinerie.com/): If it's your first time, get the traditional (or veggie traditional) poutine before you experiment with their more fun variations on poutine.
+- [A&W](https://web.aw.ca/): If you like root beer (nonalcoholic beverage that tastes kind of like toothpaste) that's a classic thing to get at A&W. Get sweet potato fries and chipotle mayo with your burger - they're yummy.
 
 ### Other
 
-- Chauveggie (Commercial)
-- Chilli Pepper House (Commercial)
-- Steve's Poké Bar (Burnaby)
-- 4 Stones Vegetarian Cuisine (Richmond)
-- the ethiopian place
+- [Chau Veggie Express](https://www.chowatchau.ca/): Vegan Vietnamese place with great noodle bowls and rice bowls - I recommend the Rickety Rickshaw Bowl.
+- [Chillipepper House](https://thechilipepperhouse.com/): If you're not familiar with Indian Chinese food, go here. I'm a vegetable manchurian ball fan, personally.
+- [Steve's Poké Bar](https://www.stevespokebar.ca/): Authentic Hawaiian poké! I cannot recommend anything specific since you build your own bowl but I will recommend that you are generous with the sauces.
+- [4 Stones Vegetarian](https://4stonesvegetarian.com/): Get as much of these dishes as you can reasonably fit in your tummy: gyoza, the kong pao bean curd rolls, the noodles with sesame sauce, and the Taiwanese deep fried tofu.
+- [Fassil](https://fassil.ca/): At this Ethiopian place, everything you order will come with injera, a fermented and soft flatbread. Pick one of the combos so you can try various dishes along with your injera.
 
 ## Books
 
 Most of these places do used and new books and also have good sell-for-store-credit policies. You can place orders for almost anything you want by walking in, phoning or emailing if something isn't available online. Also many of these places have cute non-book merch. Support local bookstores!
 
 - [Iron Dog Books](https://irondogbooks.com/): My favourite Vancouver bookstore. Indigenous-owned, independent, previously itinerant (they were just a book truck before they opened a brick-and-mortar store). Hilary will, um, read you like a book and give you fantastic recommendations. I like their hand-picked selection of everything but especially queer / sci-fi / fantasy / Indigenous writing. Also go here if you like YA.
-- [Companion Books](https://companionbooks.com/): Have had good conversations about birds here. Sci-fi / history are big here, and paperback bestsellers if that's your thing. They also do "rare and antiquarian" books but this has never been relevant to me.
-- McLeod's
-- Pulp Fiction
-- White Dwarf
-- Massy Books
-- Companion Books
-- Paper Hound
-- Albion Books
-- Renaissance Books
-- Little Sisters
-- People's Co-op Bookstore
-- Browns Books
-- [32 Books & Gallery](http://www.32books.com/): independent bookstore in Edgemont Village.
+- [Companion Books](https://companionbooks.com/): I've had good conversations about birds here. Sci-fi / history are big in this store, and paperback bestsellers if that's your thing. They also do "rare and antiquarian" books but this has never been relevant to me.
+- [MacLeod's](https://www.instagram.com/macleodsbooks/): This second-hand and rare bookstore looks like it's out of a book - their collection of books isn't just displayed in bookshelves but in several feet high piles on the floor and on tables, with very narrow paths for customers to walk through. There are so many books crammed into this space that MacLeod's has literally clashed with the fire department for a decade over their fire safety.
+- [Pulpfiction Books](http://pulpfictionbooksvancouver.com/): Wide selection of used and new books, especially sci-fi and fantasy. They will order books for you at very discounted rates so order your books from here.
+- [White Dwarf](http://www.deadwrite.com/wd.html): This store specializes in fantasy and sci-fi, and back in the day they had a Basset hound who would hang out in the store.
+- [Massy Books](https://www.massybooks.com/): Also Indigenous-owned and has a great selection of various genres. They also host lots of great events, especially with local artists and authors.
+- [Paper Hound](https://paperhound.ca/): Small, eclectic bookstore with a poem dispenser and funky shelf names including my personal favourite: Rat as hero.
+- [Little Sister's](https://www.littlesisters.ca/): This is a bookstore that's very important in Vancouver's queer history. It offered a safe haven for queer people to go in the 80s when homophobia was more mainstream and overt. Over the decades, they've survived multiple incidents of homophobes throwing literal firebombs into the store, a battle with Canadian customs over discriminatory seizures, a 10-year-long trial about this where they sued the Government of Canada (and won), and the deaths of the original founders - Jim Deva and Bruce Smyth. Located in the extremely gay neighbourhood of Davie Village, they stock lots of queer books and other queer stuff (pride merch, clothing, sex toys, condoms and dental dams, etc.)
+- [People's Co-op Bookstore](https://www.peoplescoopbookstore.com/): A volunteer-run member-owned leftist bookstore with a wide selection of genres and a poetry reading group.
 
 ## Alcohol
 
@@ -206,10 +201,10 @@ This list includes breweries and bars along with beer recommendations with the w
 
 ## Museums
 
-- science world
-- MOA
-- museum of archaeology and ethnology
-- aquarium
+- [Science World](https://www.scienceworld.ca/): A science museum housed in one of the most recognizable buildings of the Vancouver skyline - a geodesic dome. Great for kids and nerdy adults.
+- [Museum of Anthropology](https://moa.ubc.ca/): This museum on UBC campus has a lot of artifacts from First Nations peoples and cultures of the Pacific Northwest, including totem poles outdoors and a few famous Bill Reid sculptures. They also have plenty of stuff from other parts of the world but learning about First Nations cultures and histories is a more Vancouver-specific thing to do here on a visit.
+- [Museum of Archaeology and Ethnology](https://www.sfu.ca/archaeology/museum.html): A small museum at SFU that's affiliated with the university's archaeology department. Their collection focuses on First Nations in British Columbia.
+- [Vancouver Aquarium](https://www.vanaqua.org/): 
 - howard trottier observatory
 - the other observatory
 - museum of flight in langley
@@ -318,7 +313,8 @@ seaplane, helicopter, seabus, false creek ferries, buses, skytrain, car share (e
 - [Godiva Chocolatier](https://www.cbc.ca/news/business/godiva-stores-1.5883575)
 - Thai Café
 - [Yaletown Distillery](https://www.vancouverisawesome.com/food-and-drink/vancouver-closed-yaletown-distillery-6421817)
-
+- [Browns Books](https://www.vancouverisawesome.com/business/local-burnaby-bookstore-bids-goodbye-after-almost-50-years-6920552)
+- Albion Books
 
 # GRANVILLE ISLAND WHERE 2 FIT U IN BBG
 
