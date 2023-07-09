@@ -204,7 +204,7 @@ This list includes breweries and bars along with beer recommendations with the w
 - [Science World](https://www.scienceworld.ca/): A science museum housed in one of the most recognizable buildings of the Vancouver skyline - a geodesic dome. Great for kids and nerdy adults.
 - [Museum of Anthropology](https://moa.ubc.ca/): This museum on UBC campus has a lot of artifacts from First Nations peoples and cultures of the Pacific Northwest, including totem poles outdoors and a few famous Bill Reid sculptures. They also have plenty of stuff from other parts of the world but learning about First Nations cultures and histories is a more Vancouver-specific thing to do here on a visit.
 - [Museum of Archaeology and Ethnology](https://www.sfu.ca/archaeology/museum.html): A small museum at SFU that's affiliated with the university's archaeology department. Their collection focuses on First Nations in British Columbia.
-- [Vancouver Aquarium](https://www.vanaqua.org/): 
+- [Vancouver Aquarium](https://www.vanaqua.org/):
 - howard trottier observatory
 - the other observatory
 - museum of flight in langley
