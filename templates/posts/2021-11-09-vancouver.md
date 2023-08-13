@@ -36,6 +36,8 @@ Many of these are chains - some Canada-wide, some BC-specific and others just in
 
 - [Jam Cafe](https://jamcafes.com/): Yummy and extremely popular all day brunch place. Try their bacon caesar.
 - [Catch 122](https://www.catch122.ca/): Try the huevos rancheros.
+- Zarak
+- [Rosemary Rocksalt](https://rosemaryrocksalt.com/)
 
 ### Cafes and bubble tea
 
@@ -45,15 +47,21 @@ Pretty much all of these are local businesses.
 - [Renaissance Coffee](https://renaissancecoffeesfu.com/): Excellent coffee (dare I say better than everything else on this list), located at <abbr title="Simon Fraser University">SFU</abbr>. Get the 2 samosas and chana masala combo and look out for Mr. Parhar, the friendly owner.
 - [Chatime](https://chatime.ca/): Reliably excellent bubble tea chain. My standard drink is a large milk tea with 0% sugar, 50% ice and brown sugar pearls.
 - [Prime's Thai Tea](https://primesthaitea-van.business.site/): They have a signature coconut milk and mango drink with coconut jelly that is out of this world.
+- [CoCo Tea](https://www.mycocotea.com/): Get the Bubble Gaga just because of the name. It's very summery, with passionfruit, coconut jelly and pearls.
+- [Shiny Tea](https://www.shinytea.ca/): Get the strawberry macchiato which has fresh strawberries, milk tea and cheese cream (trust me, it's delicious).
 - [Andrew's on 8th](https://andrewsoneighth.com/): North Vancouver café with great sandwiches, outdoor seating and mini-golf.
 - [Great Dane Coffee](http://www.greatdanecoffee.com/): <abbr title="University of British Columbia">UBC</abbr> café with good coffee. Try their grilled cheese. If you're lucky you'll see the owner's great dane!
 - [Juillet Cafe](https://juilletwellness.com/cafe/): Cute Burnaby café that won't kick you out if you're there to study or work. They have wifi and a lot of outlets.
 - [Cafe La Forêt](https://www.cafelaforet.com/): Gorgeous café with a warehouse aesthetic and good pastries.
 - [Fratelli Bakery](https://www.fratellibakery.com/): Delicious cakes and other baked goods.
+- The Valley Bakery
 - [JJ Bean Coffee](https://jjbeancoffee.com/): Chain with lots of locations and reliably good coffee.
+- Caffe Artigiano
 - [Off The Tracks Bistro](https://tracksbistro.ca/): Good breakfast option on Granville Island (but you're spoiled for choice there).
 - [Delany's Coffee](https://delanyscoffee.com/): Good West Vancouver coffee chain.
 - [49th Parallel Coffee Roasters](https://49thcoffee.com/): This chain's doughnuts are really good but their coffee isn't.
+- Chez Christophe
+- Punk Rock Pastries
 
 ### Sushi
 
@@ -66,6 +74,7 @@ I won't make restaurant-specific food recommendations in this section because I'
 - [Sushi Giwa](https://sushi-giwa.ca/): Mid-level sit-down place I've had many lovely dinners at. I love their yakiudon.
 - [Sushi California](https://sushicali.ca/): Mid-level to nice sit-down place.
 - [Minami](https://minamirestaurant.com/): Fancy and expensive sushi.
+- Hapa Izakaya
 
 ### Italian
 
@@ -90,6 +99,7 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 - [Golden Pita Restaurant](https://www.goldenpita.ca/): Lebanese. Get a pita wrap.
 - [Babylon café](https://babyloncafe.ca/): Middle Eastern. Whatever you eat, get their tea with it (cardamom Alwazah tea)
 - [Chickpea](https://www.ilovechickpea.ca/): Middle Eastern. Regardless of whether you go to the food truck or the restaurant, you have to get sabich (fried eggplant) and their hummus (which is what they focused on when they first opened).
+- Superbaba
 
 ### Mexican
 
@@ -118,6 +128,7 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 - [La Casa Gelato](http://lacasagelato.com/): Classic Vancouver location whose USP is the variety of icecreams they stock - over 200 flavours at a time, including unusual ones like durian, balsamic vinegar, and so on. Trying flavours is encouraged.
 - [Rain or Shine](https://www.rainorshineicecream.com/): They're all about natural, local and seasonal ingredients. Their salted caramel icecream is really good (even for a caramel-disliker like me).
 - [Earnest Ice Cream](https://earnesticecream.com/): They're also all about natural, local, seasonal ingredients, and they're a particularly good option for vegans.
+- Rocky Point Ice Cream
 - [Cartems Donuterie](https://cartems.com/): I'm not a big donut person but I've heard great things about the smoked maple walnut and the earl grey donuts.
 - [Snowy Village](http://snowyvillages.ca/): Go to this Korean dessert café for bingsoo and taiyaki.
 - [I.ce Queen](https://www.facebook.com/icqueenqueen): Go here for rolled icecream - half the fun is in watching it be prepared.
@@ -145,7 +156,8 @@ I use this category to combine Lebanese, Turkish, Syrian, etc., food where the d
 ### Chinese
 
 - [Dinesty Dumpling House](https://dinesty.ca/): They are famous for their xiao long bao, i.e., their steamed pork soup dumplings. If you're a vegetarian, there is stuff for you to eat here but this unfortunately does not include vegetarian soup dumplings.
-- [Lao Cai](www.laocai.ca): Food from the Chinese province of Xi'an. Get the hand-ripped spicy oil noodles, dumplings and the crispy lotus root salad.
+- [Lao Cai](https://www.laocai.ca): Food from the Chinese province of Xi'an. Get the hand-ripped spicy oil noodles, dumplings and the crispy lotus root salad.
+- [New Town Bakery](https://newtownbakery.ca/)
 
 ### Korean
 
@@ -165,10 +177,13 @@ I've left American fast food chains off this list and limited it to Canadian cha
 ### Other
 
 - [Chau Veggie Express](https://www.chowatchau.ca/): Vegan Vietnamese place with great noodle bowls and rice bowls - I recommend the Rickety Rickshaw Bowl.
+- Brokenrice
 - [Chillipepper House](https://thechilipepperhouse.com/): If you're not familiar with Indian Chinese food, go here. I'm a vegetable manchurian ball fan, personally.
 - [Steve's Poké Bar](https://www.stevespokebar.ca/): Authentic Hawaiian poké! I cannot recommend anything specific since you build your own bowl but I will recommend that you are generous with the sauces.
 - [4 Stones Vegetarian](https://4stonesvegetarian.com/): Get as much of these dishes as you can reasonably fit in your tummy: gyoza, the kong pao bean curd rolls, the noodles with sesame sauce, and the Taiwanese deep fried tofu.
 - [Fassil](https://fassil.ca/): At this Ethiopian place, everything you order will come with injera, a fermented and soft flatbread. Pick one of the combos so you can try various dishes along with your injera.
+- Peaked Pies
+- Banana Leaf
 
 ## Books
 
@@ -213,6 +228,8 @@ This list includes breweries and bars along with beer recommendations with the w
 - vancouver art gallery
 - [Steveston Tram](https://stevestonheritage.ca/visit/steveston-tram/): restored tram from the early 20th century.
 - [Britannia Shipyards National Historic Site](https://stevestonheritage.ca/visit/britannia-shipyards-national-historic-site/): collections of buildings turned into a museum about the oldest BC shipyard community.
+- Beaty Biodiversity Museum
+- Chinese Canadian Museum
 
 ## Outdoors
 
@@ -226,10 +243,12 @@ hikes, scenery, birding
 - the thing with the steps in burnaby (velodrome trail?)
 - Coquitlam crunch: a lot of wide and not very steep steps. It's a fun one to do if you're based in Coquitlam but not worth travelling to otherwise.
 - Grouse grind: I haven't done this one but it's famous. I hear it's not very pretty till you get to the top.
+- jug island
 - port moody kayaking
 - main st kayaking
 - Water biking: imagine a bicycle on pontoons that you ride on the water - that's a water bike. It's ridiculous but also really fun to do with friends in good weather because you can have conversations while water biking. It's also fun to look into the TODO CHECK boathouses.
 - renting bikes stanley park
+- deer lake park
 - burnaby mountain park
 - snowshoeing at that place we went
 - port moody park
@@ -241,11 +260,14 @@ hikes, scenery, birding
 - burns bog
 - queen elizabeth park
 - VanDusen Botanical Garden and Bloedel Conservatory
+- maplewood flats
+- cates park
 - stanley park (train)
 - [ ] lower seymour conservation reserve trail
 - DeBoville Slough
 - steveston
 - reifel
+- sun yat-sen chinese garden
 
 hikes, kayaking, snowboarding/skiing, parks
 
@@ -269,9 +291,9 @@ hikes, kayaking, snowboarding/skiing, parks
 - Rio
 - Cinametheque
 - The light show thing with the snowshoeing
-- [x] Vancouver mural crawl - http://dailyhive.com/vancouver/vancouver-mural-festival-map-2016
+- Vancouver mural crawl - http://dailyhive.com/vancouver/vancouver-mural-festival-map-2016
 - Frankies jazz bar
-- playland
+- playland / PNE / fright nights
 - capilano suspension bridge
 - drive in theatre
 - VSO
@@ -280,20 +302,36 @@ music, movies
 
 ## Transport
 
-seaplane, helicopter, seabus, false creek ferries, buses, skytrain, car share (evo, modo), taxis
+- Seaplane
+- Helicopter
+- Seabus
+- False Creek Ferries
+- Buses
+- Skytrain
+- Car share (evo, modo)
+- Taxis
 
-## Donations and volunteering
+## Donations and Volunteering
 
-- value village
-- canada learning code
-- downtown eastside womens centre
-- atira
-- qmunity
-- rainbow refugee
-- PHS Community Services Society
+If you want to make material donations or donate your money, time or skills, this is the section for you. My recommendations are places I've donated to before, and I chose them because most of them work to address current social, financial and structural inequalities that stem from historical oppression. They do this through a combination of direct aid, free or discounted access to services like medical or legal aid, food or shelter, etc. The two notable exceptions to this on my list are Canada Learning Code (where I previously volunteered to teach kids how to code; these were mostly affluent kids, often with one or two parents in tech already), and Value Village (which is just a secondhand store and one that is very important for people who are not well-off).
+
+A note on the Downtown Eastside: This is the area of Vancouver roughly between TODO X and TODO Y. It is known for high rates of homelessness, drug use, mental health issues, crime, etc., a lot of which are consequences of austerity-based policies introduced in the Harper era that led to many people being deprived of social support they needed. Withdrawing these support mechanisms disproportionately affected certain demographics of people who are already at risk due to intergenerational trauma (from colonization, family history, etc.), which is why the area has, for example, a high proportion of homeless Indigenous people. The Downtown Eastside is thus a focus area for many of the organizations on this list which work to try and fill gaps in social support. They treat Downtown Eastsiders like human beings, which many tourists and even local residents fail to do. So please treat your fellow humans with respect and if you are willing and able, donate to these organizations generously.
+
+- Value Village: If you want anything secondhand this is a great bet that isn't the Salvation Army. They accept most items, from clothing and furniture to kitchen stuff. Look at their website for details.
+- Canada Learning Code: I volunteered here for a few years teaching kids to code. There are lower- and higher-commitment volunteer options; I opted for the former, i.e., to be a mentor (walking around and helping individual kids with problems) rather than a session leader (crafting a 3-hour program for a session to teach kids how to build something in code). Chances are higher than average that you code if you know me, so this is a place to consider volunteering, and you don't have to work with kids - there are also sessions to teach adults how to code, in various languages and with various goals.
+- Downtown Eastside Womens Centre: The DEWC accepts donations (I've mostly donated clothing before) and they also take volunteers. They provide a space for women in the Downtown Eastside to hang out and get health checkups and food and such.
+- Atira: Atira runs the DEWC and various other projects to help women who have experienced or are experiencing abuse, homelessness, poverty, etc. Although I find their wording on this a bit clunky they are trans-inclusive in their definition of women.
+- Qmunity: This organization builds queer community in Vancouver by running youth groups, providing consultation and financial help with accessing services like gender-affirming procedures (name changes, etc.) as well. They're worth donating to and also checking out if you're a queer person (especially a queer youth) looking for community.
+- Rainbow Refugee: This organization helps queer refugees seek asylum in and/or immigrate to Canada, leaving behind countries where they are persecuted for being queer. They were the beneficiary of Perform for Pride 2017 (TODO: check), where I was co-emcee.
+- PHS Community Services Society: I read Gabor Maté's book about addiction which highlights many stories of people dealing with addiction in the Downtown Eastside, the "worst" of whom (i.e., those who are rejected by all other community programs) are still taken in here and provided with shelter, food, therapy and such. This organization provides a model for what addiction care _should_ look like, unlike the war on drugs policies of various Vancouver mayors in recent history. They're doing essential work and deserve all the financial support you can give them.
+- Residential School Survivors Society: TODO
+- Quest
+- The safe supply place
 
 ## Miscellaneous
 
+- Granville Island
+- FlyOver Canada
 - [Big Bro's Barbershop](https://bigbrosbarbershop.com/)
 - [B-Bombshell Salon](https://www.bbombshellsalon.com/)
 - [Adrenaline Studios](https://adrenalinestudios.com/)
@@ -315,16 +353,11 @@ seaplane, helicopter, seabus, false creek ferries, buses, skytrain, car share (e
 - [Yaletown Distillery](https://www.vancouverisawesome.com/food-and-drink/vancouver-closed-yaletown-distillery-6421817)
 - [Browns Books](https://www.vancouverisawesome.com/business/local-burnaby-bookstore-bids-goodbye-after-almost-50-years-6920552)
 - Albion Books
-
-# GRANVILLE ISLAND WHERE 2 FIT U IN BBG
+- [Cafe Deux Soleils](https://www.vancouverisawesome.com/food-and-drink/cafe-deux-soleils-announces-permanent-closure-vancouver-bc-5909884)
+- [Ingrid's Village Cafe](https://www.vancouverisawesome.com/food-and-drink/iconic-whistler-restaurant-to-close-its-doors-3532629)
 
 ## A bit further out
 
-- Whistler
-- Victoria
-- Seattle
-- Ingrid's Village Café (Whistler)
-- Zeitgeist (Seattle)
-- Mogul's Coffee House (Whistler)
-- La Cantina (Whistler)
-- cow's
+- Whistler ([Mogul's Coffee House](https://www.facebook.com/MogulsCoffeeHouseWhistler/), [La Cantina](https://tacoslacantina.ca/), [Cow's Ice Cream](https://cows.ca/))
+- Victoria ([Victoria Bug Zoo](https://www.victoriabugzoo.ca/), [Hoyne Brewing Company](https://hoynebrewing.ca/), [Miniature World](https://miniatureworld.com/))
+- Seattle ([Zeitgeist Cafe](https://www.zeitgeistcoffee.com/), [Left Bank Books](https://www.leftbankbooks.com/))
