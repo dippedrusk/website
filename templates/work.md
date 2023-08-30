@@ -6,7 +6,7 @@ layout: layouts/layout
 
 ## Publications
 
-**[Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness](https://arxiv.org/abs/2303.17555)**<br>
+**[Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness](https://dl.acm.org/doi/10.1145/3600211.3604705)**<br>
 A. Ovalle, A. Subramonian, **V. Gautam**, G. Gee, and K-W Chang.<br>
 _AIES, 2023._
 
