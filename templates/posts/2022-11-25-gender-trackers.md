@@ -1,13 +1,83 @@
 ---
-title: Less gender tracking, more gender hacking
-description: Various problems with gender tracking in current research, and some thoughts for the future.
+title: "Predicting gender from names: Don't."
+description: Just don't do it! Here are some reasons why, with citations, and some alternatives.
 tags:
   - gender
   - machine learning
 layout: layouts/post
 ---
 
-This post is a Yet Another Critique of gender trackers. I want to preface this post by saying that literally nothing I say in here is new or hasn't been said before - by me on Twitter, on panels, in reviews, over coffee, etc., and by countless others in all these forms as well as brilliant papers, some of which are cited at the end of this post. It is just that (as evidenced by the proliferation of papers in this area and the recurring problems that come up), the system builders who should read these ideas are not reading them, or not internalizing them. Hopefully some of them read my blog.
+It usually starts off something like, "We want to use machine learning to quantify the number of women and men who are XYZ." In my case, the XYZ was: quoted in Canadian news publications.
+
+What about non-binary people?
+
+Oh right, they exist. Okay, I'll add a non-binary category for people who I can't be sure are men or women.
+
+How exactly are you defining this category? "people who you can't be sure are men or women," how exactly are you deciding that?
+
+Sounds like apart from non-binary people, this also conflates people whom you perceive as gender-ambiguous and people who don't disclose their gender to you. How are you going to collect this data anyway?
+
+I'm going to keep a database of people's names and their genders!
+
+I think names and genders are personal information under GDPR regulations so I hope you no one in the EU lol. Btw how are you going to get people to give you their names and genders anyway?
+
+Oh, I'm going to scrape people's names using named entity recognition and then use a website that makes probabilistic guesses at their gender based on their names.
+
+Okay, there are several problems with this, but let me raise my issues one at a time, starting with: these tools typically encode gender on a binary so we're back to "What about non-binary people?" What about people named Rain and Moss? I'm not even sure named entity recognition will get those.
+
+Well, that's the magic of my database, right? I can override people who are obviously non-binary. Like Janelle Monae! (I love her—I mean them!!!)
+
+There's a lot riding on your definition of "obviously" non-binary. What do you mean by that exactly? You name Janelle Monae. So do you mean famous non-binary people?
+
+Yeah, by 'obvious' I mean that it's really well-known that they're non-binary. So yeah, I suppose that's famous non-binary people.
+
+Okay, have you considered the hegemony of that? Specifically, of deciding and then encoding in your database that only the famous non-binary people "count" as non-binary?
+
+Okay fine, how about I add a rule for noun names? You gave the examples Rain and Moss, right? That'll be pretty easy to account for. And it should fix anything that the named entity recognition misses, as well. Boom. The magic of engineering.
+
+Okay, but do you see how reducing non-binary people to "the famous ones" and "the ones who have noun names" is also hegemonic, and how it delegitimizes all the non-binary people who DON'T fall into one or both of those categories? Have you considered that?
+
+Hm, not really.
+
+Yeah. Not really. It's clear that you haven't been thinking about non-binary people a lot or for very long, so let's try something easier. There are plenty of men and women who have names like Alex. What does your gender tool do to them?
+
+I don't know but I guess it would pick a side based on 
+
+
+Hegemony
+
+Also in cultural aspects
+
+Bayesian priors about people's names and genders doesn't allow them to exist. "Machine learning" / big data isn't the right way to quantify this.
+
+"That's pretty cissexist" isn't it?
+
+[human analysis of stuff]
+
+[okay a lot of the same problems]
+
+[self-declaration!]
+["counted as for the purposes of this survey"]
+
+and while you're at it, if people are willing to disclose their race, etc., you can also see other problems with this.
+
+
+
+Does caring about this level of detail even matter? Non-binary people are such a tiny fraction of the population, and all these problems with gender-neutral names are also so small, and the cultural names as well, probably. With big data won't you still get the general patterns?
+
+If all you care about is the general pattern then why don't you just look at decades of work in multiple other fields that show (without machine learning) that, yes, sexism does in fact exist.
+
+More seriously, there are two perspectives from which you can look at this. One is that to have any idea how accurate your model of the world is, you need to be able to reasonably assess exactly where the inaccuracies seep in and by how much. But you see, you have no ground truth here to work with. You have no clue how big your error bars are. Anyway, this is the boring perspective and it's not one I particularly care for. I'm just sharing it with you because I can tell from things you've said that you would immediately see the value in this perspective. This is your epistemological baggage.
+
+Anyway, the second perspective is: it matters for political and ethical reasons. Your premise at the start was that you wanted to "quantify gender bias." I assume that, as is the case for most well-meaning computer scientists who start asking questions like this, it's because you see inequality in society and want to do something about it - name it, measure it, fix it. Well the thing is, you can't pick and choose inequalities. Or, well, you can, but it isn't coherent. Or, well, it's coherent, if you assume that all the other categories have their "default" values, i.e., white, able-bodied, etc., in our shared Canadian and German context.
+
+Well the thing is, it's incoherent to "pick and choose" inequalities. You're currently working with a definition of gender that expects names to correlate with gender, be gendered in a binary way, and be well-represented in NLP tools and gender databases. This is the sort of definition that only works for cisgender white people with Anglo names. Basically, what you do will end up helping white women and no one else. If you're comfortable acknowledging that, well, then you and I have some major political differences. If you're uncomfortable naming that but you want to build your tool anyway, you're being dishonest.
+
+
+
+
+
+It is just that (as evidenced by the proliferation of papers in this area and the recurring problems that come up), the system builders who should read these ideas are not reading them, or not internalizing them. Hopefully some of them read my blog.
 
 ## Positionality
 
