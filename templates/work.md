@@ -6,6 +6,10 @@ layout: layouts/layout
 
 ## Publications
 
+**A Lightweight Method to Generate Unanswerable Questions in English** _(to appear)_<br>
+**V. Gautam**, M. Zhang, and D. Klakow.<br>
+_Findings of EMNLP, 2023._
+
 **[Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness](https://dl.acm.org/doi/10.1145/3600211.3604705)**<br>
 A. Ovalle, A. Subramonian, **V. Gautam**, G. Gee, and K-W Chang.<br>
 _AIES, 2023._
