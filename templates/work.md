@@ -6,7 +6,7 @@ layout: layouts/layout
 
 ## Publications
 
-**A Lightweight Method to Generate Unanswerable Questions in English** _(to appear)_<br>
+**[A Lightweight Method to Generate Unanswerable Questions in English](https://arxiv.org/abs/2310.19403)**<br>
 **V. Gautam**, M. Zhang, and D. Klakow.<br>
 _Findings of EMNLP, 2023._
 
