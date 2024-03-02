@@ -22,6 +22,11 @@ _SIGMORPHON, 2021._
 F. T. Asr, M. Mazraeh, A. Lopes, **V. Gautam**, J. Gonzales, P. Rao, and M. Taboada.<br>
 _PLoS ONE, 2021._
 
+## Preprints
+
+**[The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://arxiv.org/abs/2402.12976)**<br>
+M. Zhang, **V. Gautam**, M. Wang, J. O. Alabi, X. Shen, D. Klakow, M. Mosbach<br>
+
 ## Where I've worked
 
 - PhD Candidate and Researcher at Saarland University's Spoken Language Systems group (language modelling; domain adaptation; question answering; Python)
