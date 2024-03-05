@@ -4,5 +4,5 @@ poem {
   margin-top: 0;
   margin-bottom: 1rem;
   margin-left: 1rem;
-  display: flex;
+  display: block;
 }
