@@ -28,7 +28,10 @@ _PLoS ONE, 2021._
 M. Zhang, **V. Gautam**, M. Wang, J. O. Alabi, X. Shen, D. Klakow, M. Mosbach<br>
 
 **[What explains the success of cross-modal fine-tuning with ORCA?](https://arxiv.org/abs/2403.13537)**<br>
-P. García-de-Herreros\*, **V. Gautam**\*, P. Slusallek, D. Klakow, M.Mosbach<br>
+P. García-de-Herreros\*, **V. Gautam**\*, P. Slusallek, D. Klakow, M.Mosbach. _2024._<br>
+
+**[The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://arxiv.org/abs/2402.12976)**<br>
+M. Zhang, **V. Gautam**, M. Wang, J. O. Alabi, X. Shen, D. Klakow, M. Mosbach. _2024._<br>
 
 ## Where I've worked
 
