@@ -9,12 +9,14 @@
 .square {
   background-color: #c6c6c6;
 }
-.unrevealed {
+.square.unrevealed {
   border: 4px outset #ffffff;
+  width: 32px;
+  height: 32px;
 }
 .board {
-  width: 22px;
-  height: 22px;
+  width: auto;
+  height: auto;
 }
 .flagged {
   background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/flag.png")
@@ -24,8 +26,8 @@
   border: 4px inset #ffffff;
 }
 .square.revealed {
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   border-top: 2px solid #9d9d9d;
   border-left: 2px solid #9d9d9d;
 }
