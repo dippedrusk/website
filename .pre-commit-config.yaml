@@ -13,4 +13,3 @@ repos:
     rev: 0.2.0
     hooks:
       - id: fix-smartquotes
-exclude: "static/js/jquery-3.2.1.js|static/js/minesweeper.js"

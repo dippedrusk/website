@@ -4,25 +4,13 @@ var rows = 9,
   cols = 9,
   numMines = 10;
 var numRevealedSquares = 0;
-var clock;
-var countdown;
-var currSeconds = 0;
-// var validClick = true;
-//var mousedownid;
-//var timeout;
 
 function loadNewGame() {
-  document.querySelectorAll('.square').forEach(function(s) {
-      s.onmousedown = null;
+  document.querySelectorAll(".square").forEach(function (s) {
+    s.onmousedown = null;
   });
   gameInProgress = false;
 
-  clearInterval(clock);
-  currSeconds = -1;
-  updateTimer();
-
-  countdown = numMines;
-  updateCountdown();
   numRevealedSquares = 0;
   board = [];
 
@@ -36,8 +24,8 @@ function loadNewGame() {
   document.getElementById("smiley").classList.remove("win");
   document.getElementById("smiley").classList.add("happy");
 
-  document.querySelectorAll('.board.square').forEach(function(s) {
-      s.onmousedown = handleMouseDown;
+  document.querySelectorAll(".board.square").forEach(function (s) {
+    s.onmousedown = handleMouseDown;
   });
   document.getElementById("smiley").onmousedown = handleMouseDownSmiley;
 }
@@ -59,8 +47,11 @@ function loadBoardHTML() {
   document.getElementById("smiley").classList.add("happy");
 }
 
-function handleMouseDownSmiley(event) {
-  if (document.getElementById("smiley").classList.contains("happy") && !gameInProgress) {
+function handleMouseDownSmiley() {
+  if (
+    document.getElementById("smiley").classList.contains("happy") &&
+    !gameInProgress
+  ) {
     return;
   }
   // TODO: add CSS to press button when clicked
@@ -73,17 +64,19 @@ function handleMouseDown(event) {
   if (!gameInProgress) {
     // first move
     gameInProgress = true;
-    startTimer();
     // first move reveals a mine
-    if (event.which != 2 && document.getElementById(this.id).classList.contains("mine")) {
-      document.querySelectorAll('.board.square').forEach(function(s) {
-          s.onmousedown = null;
+    if (
+      event.which != 2 &&
+      document.getElementById(this.id).classList.contains("mine")
+    ) {
+      document.querySelectorAll(".board.square").forEach(function (s) {
+        s.onmousedown = null;
       });
       repositionMine(this.id);
       populateNumbers();
       loadBoardHTML();
-      document.querySelectorAll('.board.square').forEach(function(s) {
-          s.onmousedown = handleMouseDown;
+      document.querySelectorAll(".board.square").forEach(function (s) {
+        s.onmousedown = handleMouseDown;
       });
     }
   }
@@ -92,12 +85,9 @@ function handleMouseDown(event) {
     if (event.which == 3) {
       if (document.getElementById(this.id).classList.contains("flagged")) {
         document.getElementById(this.id).classList.remove("flagged");
-        countdown += 1;
       } else {
         document.getElementById(this.id).classList.add("flagged");
-        countdown -= 1;
       }
-      updateCountdown();
     } else {
       revealSquare(this.id);
     }
@@ -112,12 +102,6 @@ function repositionMine(id) {
   }
   board[i] = " mine";
   board[position] = "";
-}
-
-function clickSquare(id) {
-  document.getElementById(id).classList.remove("unrevealed");
-  document.getElementById(id).classList.remove("revealed");
-  document.getElementById(id).classList.add("clicked");
 }
 
 function revealSquare(id) {
@@ -175,14 +159,18 @@ function revealAdjacentSquares(id) {
     px > -1 &&
     py > -1 &&
     board[px * cols + py] != " mine" &&
-    document.getElementById(getID(px * cols + py)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(px * cols + py))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(px * cols + py));
   }
   if (
     px > -1 &&
     board[px * cols + y] != " mine" &&
-    document.getElementById(getID(px * cols + y)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(px * cols + y))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(px * cols + y));
   }
@@ -190,21 +178,27 @@ function revealAdjacentSquares(id) {
     px > -1 &&
     ny < cols &&
     board[px * cols + ny] != " mine" &&
-    document.getElementById(getID(px * cols + ny)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(px * cols + ny))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(px * cols + ny));
   }
   if (
     py > -1 &&
     board[x * cols + py] != " mine" &&
-    document.getElementById(getID(x * cols + py)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(x * cols + py))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(x * cols + py));
   }
   if (
     ny < cols &&
     board[x * cols + ny] != " mine" &&
-    document.getElementById(getID(x * cols + ny)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(x * cols + ny))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(x * cols + ny));
   }
@@ -212,14 +206,18 @@ function revealAdjacentSquares(id) {
     nx < rows &&
     py > -1 &&
     board[nx * cols + py] != " mine" &&
-    document.getElementById(getID(nx * cols + py)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(nx * cols + py))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(nx * cols + py));
   }
   if (
     nx < rows &&
     board[nx * cols + y] != " mine" &&
-    document.getElementById(getID(nx * cols + y)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(nx * cols + y))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(nx * cols + y));
   }
@@ -227,17 +225,18 @@ function revealAdjacentSquares(id) {
     nx < rows &&
     ny < cols &&
     board[nx * cols + ny] != " mine" &&
-    document.getElementById(getID(nx * cols + ny)).classList.contains("unrevealed")
+    document
+      .getElementById(getID(nx * cols + ny))
+      .classList.contains("unrevealed")
   ) {
     revealSquare(getID(nx * cols + ny));
   }
 }
 
 function endGame(smileyStatus) {
-  document.querySelectorAll('.board.square').forEach(function(s) {
-      s.onmousedown = null;
+  document.querySelectorAll(".board.square").forEach(function (s) {
+    s.onmousedown = null;
   });
-  clearInterval(clock);
   if (smileyStatus == "happy") {
     document.getElementById("smiley").classList.remove("happy");
     document.getElementById("smiley").classList.add("win");
@@ -347,19 +346,4 @@ function countSurroundingMines(x, y) {
   }
 
   return surrounding;
-}
-
-function startTimer() {
-  currSeconds = 0;
-  document.getElementById("crudeClock").innerHTML = ++currSeconds;
-  clock = setInterval(updateTimer, 1000);
-}
-
-function updateTimer() {
-  var string = currSeconds.toString().split("").reverse().join("");
-  document.getElementById("crudeClock").innerHTML = ++currSeconds;
-}
-
-function updateCountdown() {
-  document.getElementById("crudeCountdown").innerHTML = countdown;
 }
