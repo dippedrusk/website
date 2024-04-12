@@ -351,7 +351,6 @@ function countSurroundingMines(x, y) {
 function startTimer() {
   currSeconds = 0;
   $("#crudeClock").html(++currSeconds);
-  $("#timer_ones").addClass("one");
   clock = setInterval(updateTimer, 1000);
 }
 
