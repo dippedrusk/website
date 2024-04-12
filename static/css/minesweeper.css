@@ -1,0 +1,181 @@
+.params {
+  color: #1c6ea4;
+}
+.panelsquare {
+  background-color: #c6c6c6;
+  width: 30px;
+  height: 30px;
+}
+.square {
+  background-color: #c6c6c6;
+}
+.unrevealed {
+  border: 4px outset #ffffff;
+}
+.board {
+  width: 22px;
+  height: 22px;
+}
+.flagged {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/flag.png")
+    no-repeat 50% 50%;
+}
+.clicked {
+  border: 4px inset #ffffff;
+}
+.square.revealed {
+  width: 28px;
+  height: 28px;
+  border-top: 2px solid #9d9d9d;
+  border-left: 2px solid #9d9d9d;
+}
+.revealed.one {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/one.png")
+    no-repeat 50% 50%;
+}
+.revealed.two {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/two.png")
+    no-repeat 50% 50%;
+}
+.revealed.three {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/three.png")
+    no-repeat 50% 50%;
+}
+.revealed.four {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/four.png")
+    no-repeat 50% 50%;
+}
+.revealed.five {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/five.png")
+    no-repeat 50% 50%;
+}
+.revealed.six {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/six.png")
+    no-repeat 50% 50%;
+}
+.revealed.seven {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/seven.png")
+    no-repeat 50% 50%;
+}
+.revealed.eight {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/eight.png")
+    no-repeat 50% 50%;
+}
+.revealed.mine {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/mine.png")
+    no-repeat 50% 50%;
+}
+.revealed.mine.crossed {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/mine_crossed.png")
+    no-repeat 50% 50%;
+}
+.revealed.first {
+  background-color: #ff0000; /* red */
+}
+#minesweeper {
+  border-bottom: 12px ridge #c9c9c9;
+  border-left: 12px ridge #c9c9c9;
+  border-right: 12px ridge #c9c9c9;
+  border-spacing: 0px;
+  margin: 0px;
+}
+#scorepanel {
+  border: 12px ridge #ffffff;
+  background: #c6c6c6;
+  height: 60px;
+  border-spacing: 0px;
+  margin: 0px;
+}
+#game {
+  float: left;
+}
+#smiley {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+  top: 10%;
+  position: relative;
+}
+.happy {
+  background: url("/static/img/2024-04-12-minesweeper/happy.png") no-repeat 50%
+    50%;
+}
+.loss {
+  background: url("/static/img/2024-04-12-minesweeper/loss.png") no-repeat 50%
+    50%;
+}
+.win {
+  background: url("/static/img/2024-04-12-minesweeper/win.png") no-repeat 50%
+    50%;
+}
+.load {
+  background: url("/static/img/2024-04-12-minesweeper/one.png") no-repeat 50%
+    50%;
+}
+#timer {
+  position: relative;
+  height: 46px;
+  width: 78px;
+  margin-bottom: 0px;
+  margin-left: 205px;
+  margin-top: -40px;
+}
+.timer {
+  height: inherit;
+  width: 26px;
+}
+#timer_hundreds {
+  float: left;
+}
+#timer_tens {
+  margin: auto;
+}
+#timer_ones {
+  float: right;
+  margin-top: -46px;
+}
+.timer.zero {
+  background: url("/static/img/2024-04-12-minesweeper/digits/zero.png")
+    no-repeat 100% 100%;
+}
+.timer.one {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/one.png")
+    no-repeat 50% 50%;
+}
+.timer.two {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/two.png")
+    no-repeat 50% 50%;
+}
+.timer.three {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/three.png")
+    no-repeat 50% 50%;
+}
+.timer.four {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/four.png")
+    no-repeat 50% 50%;
+}
+.timer.five {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/five.png")
+    no-repeat 50% 50%;
+}
+.timer.six {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/six.png")
+    no-repeat 50% 50%;
+}
+.timer.seven {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/seven.png")
+    no-repeat 50% 50%;
+}
+.timer.eight {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/eight.png")
+    no-repeat 50% 50%;
+}
+.timer.nine {
+  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/eight.png")
+    no-repeat 50% 50%;
+}
+#countdown {
+  float: left;
+  height: auto;
+  width: auto;
+}
