@@ -6,9 +6,6 @@ additionalcss:
 layout: layouts/post
 ---
 
-{% set js %} {% include "static/js/jquery-3.2.1.js" %} {% endset %}
-<script>{{ js | jsmin | safe }}</script>
-
 {% set js %} {% include "static/js/minesweeper.js" %} {% endset %}
 <script>{{ js | jsmin | safe }}</script>
 
