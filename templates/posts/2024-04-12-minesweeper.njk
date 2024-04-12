@@ -9,11 +9,6 @@ layout: layouts/post
 {% set js %} {% include "static/js/minesweeper.js" %} {% endset %}
 <script>{{ js | jsmin | safe }}</script>
 
-<p>Timer:</p>
-<p id="crudeClock">0</p>
-<p>Number of mines:</p>
-<p id="crudeCountdown">0</p>
-
 <div id="game" class="container" align="center" oncontextmenu="return false;">
   <div id="scorepanel" draggable="false">
     <div id="smiley" class="square unrevealed"></div>
