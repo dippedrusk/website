@@ -12,8 +12,8 @@ var currSeconds = 0;
 //var timeout;
 
 function loadNewGame() {
-  $("#game").on("mousedown", function () {
-    return false;
+  document.querySelectorAll('.square').forEach(function(s) {
+      s.onmousedown = null;
   });
   gameInProgress = false;
 
@@ -32,12 +32,14 @@ function loadNewGame() {
   populateMines();
   populateNumbers();
   loadBoardHTML();
-  $(".board.square").on("mousedown", handleMouseDown);
-
   document.getElementById("smiley").classList.remove("loss");
   document.getElementById("smiley").classList.remove("win");
   document.getElementById("smiley").classList.add("happy");
-  $("#smiley").on("mousedown", handleMouseDownSmiley);
+
+  document.querySelectorAll('.board.square').forEach(function(s) {
+      s.onmousedown = handleMouseDown;
+  });
+  document.getElementById("smiley").onmousedown = handleMouseDownSmiley;
 }
 
 function loadBoardHTML() {
@@ -74,13 +76,15 @@ function handleMouseDown(event) {
     startTimer();
     // first move reveals a mine
     if (event.which != 2 && document.getElementById(this.id).classList.contains("mine")) {
-      $(".board.square").on("mousedown", function () {
-        return false;
+      document.querySelectorAll('.board.square').forEach(function(s) {
+          s.onmousedown = null;
       });
       repositionMine(this.id);
       populateNumbers();
       loadBoardHTML();
-      $(".board.square").on("mousedown", handleMouseDown);
+      document.querySelectorAll('.board.square').forEach(function(s) {
+          s.onmousedown = handleMouseDown;
+      });
     }
   }
 
@@ -114,12 +118,6 @@ function clickSquare(id) {
   document.getElementById(id).classList.remove("unrevealed");
   document.getElementById(id).classList.remove("revealed");
   document.getElementById(id).classList.add("clicked");
-}
-
-function unclickSquare(id) {
-  document.getElementById(id).classList.remove("clicked");
-  document.getElementById(id).classList.add("unrevealed");
-  $("#" + id).off("mouseup");
 }
 
 function revealSquare(id) {
@@ -236,7 +234,9 @@ function revealAdjacentSquares(id) {
 }
 
 function endGame(smileyStatus) {
-  $(".board.square").off("mousedown");
+  document.querySelectorAll('.board.square').forEach(function(s) {
+      s.onmousedown = null;
+  });
   clearInterval(clock);
   if (smileyStatus == "happy") {
     document.getElementById("smiley").classList.remove("happy");
