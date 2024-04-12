@@ -12,21 +12,12 @@ layout: layouts/post
 {% set js %} {% include "static/js/minesweeper.js" %} {% endset %}
 <script>{{ js | jsmin | safe }}</script>
 
-<script>
-$(document).ready(function(){
-    $("*").contextmenu(function(){
-    return false;
-    });
-    loadNewGame();
-});
-</script>
-
 <p>Timer:</p>
 <p id="crudeClock">0</p>
 <p>Number of mines:</p>
 <p id="crudeCountdown">0</p>
 
-<div id="game" class="container" align="center">
+<div id="game" class="container" align="center" oncontextmenu="return false;">
   <div id="scorepanel" draggable="false">
     <div id="smiley" class="square unrevealed"></div>
   </div>
@@ -42,3 +33,7 @@ $(document).ready(function(){
   <tr> <td class="board square unrevealed mine" id="sq-72"/><td class="board square unrevealed two" id="sq-73"/><td class="board square unrevealed" id="sq-74"/><td class="board square unrevealed one" id="sq-75"/><td class="board square unrevealed mine" id="sq-76"/><td class="board square unrevealed one" id="sq-77"/><td class="board square unrevealed one" id="sq-78"/><td class="board square unrevealed one" id="sq-79"/><td class="board square unrevealed one" id="sq-80"/></tr>
   </table>
 </div>
+
+<script>
+    loadNewGame();
+</script>

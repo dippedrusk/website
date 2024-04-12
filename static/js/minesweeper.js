@@ -21,7 +21,6 @@ function loadNewGame() {
   currSeconds = -1;
   updateTimer();
 
-  $("#endGame").html("");
   countdown = numMines;
   updateCountdown();
   numRevealedSquares = 0;
@@ -51,7 +50,7 @@ function loadBoardHTML() {
     }
     html += "</tr>";
   }
-  $("#minesweeper").html(html);
+  document.getElementById("minesweeper").innerHTML = html;
   $("#smiley").removeClass("loss win load");
   $("#smiley").addClass("happy");
 }
@@ -350,15 +349,15 @@ function countSurroundingMines(x, y) {
 
 function startTimer() {
   currSeconds = 0;
-  $("#crudeClock").html(++currSeconds);
+  document.getElementById("crudeClock").innerHTML = ++currSeconds;
   clock = setInterval(updateTimer, 1000);
 }
 
 function updateTimer() {
   var string = currSeconds.toString().split("").reverse().join("");
-  $("#crudeClock").html(++currSeconds);
+  document.getElementById("crudeClock").innerHTML = ++currSeconds;
 }
 
 function updateCountdown() {
-  $("#crudeCountdown").html(countdown);
+  document.getElementById("crudeCountdown").innerHTML = countdown;
 }
