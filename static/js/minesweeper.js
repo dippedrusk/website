@@ -34,8 +34,9 @@ function loadNewGame() {
   loadBoardHTML();
   $(".board.square").on("mousedown", handleMouseDown);
 
-  $("#smiley").removeClass("loss win load");
-  $("#smiley").addClass("happy");
+  document.getElementById("smiley").classList.remove("loss");
+  document.getElementById("smiley").classList.remove("win");
+  document.getElementById("smiley").classList.add("happy");
   $("#smiley").on("mousedown", handleMouseDownSmiley);
 }
 
@@ -51,12 +52,13 @@ function loadBoardHTML() {
     html += "</tr>";
   }
   document.getElementById("minesweeper").innerHTML = html;
-  $("#smiley").removeClass("loss win load");
-  $("#smiley").addClass("happy");
+  document.getElementById("smiley").classList.remove("loss");
+  document.getElementById("smiley").classList.remove("win");
+  document.getElementById("smiley").classList.add("happy");
 }
 
 function handleMouseDownSmiley(event) {
-  if ($("#smiley").hasClass("happy") && !gameInProgress) {
+  if (document.getElementById("smiley").classList.contains("happy") && !gameInProgress) {
     return;
   }
   // TODO: add CSS to press button when clicked
@@ -71,7 +73,7 @@ function handleMouseDown(event) {
     gameInProgress = true;
     startTimer();
     // first move reveals a mine
-    if (event.which != 2 && $("#" + this.id).hasClass("mine")) {
+    if (event.which != 2 && document.getElementById(this.id).classList.contains("mine")) {
       $(".board.square").on("mousedown", function () {
         return false;
       });
@@ -82,13 +84,13 @@ function handleMouseDown(event) {
     }
   }
 
-  if ($("#" + this.id).hasClass("unrevealed")) {
+  if (document.getElementById(this.id).classList.contains("unrevealed")) {
     if (event.which == 3) {
-      if ($("#" + this.id).hasClass("flagged")) {
-        $("#" + this.id).removeClass("flagged");
+      if (document.getElementById(this.id).classList.contains("flagged")) {
+        document.getElementById(this.id).classList.remove("flagged");
         countdown += 1;
       } else {
-        $("#" + this.id).addClass("flagged");
+        document.getElementById(this.id).classList.add("flagged");
         countdown -= 1;
       }
       updateCountdown();
@@ -109,30 +111,30 @@ function repositionMine(id) {
 }
 
 function clickSquare(id) {
-  $("#" + id).removeClass("unrevealed");
-  $("#" + id).removeClass("revealed");
-  $("#" + id).addClass("clicked");
+  document.getElementById(id).classList.remove("unrevealed");
+  document.getElementById(id).classList.remove("revealed");
+  document.getElementById(id).classList.add("clicked");
 }
 
 function unclickSquare(id) {
-  $("#" + id).removeClass("clicked");
-  $("#" + id).addClass("unrevealed");
+  document.getElementById(id).classList.remove("clicked");
+  document.getElementById(id).classList.add("unrevealed");
   $("#" + id).off("mouseup");
 }
 
 function revealSquare(id) {
-  if ($("#" + id).hasClass("flagged")) {
+  if (document.getElementById(id).classList.contains("flagged")) {
     return;
   }
-  $("#" + id).removeClass("unrevealed");
-  $("#" + id).removeClass("clicked");
-  $("#" + id).addClass("revealed");
+  document.getElementById(id).classList.remove("unrevealed");
+  document.getElementById(id).classList.remove("clicked");
+  document.getElementById(id).classList.add("revealed");
   numRevealedSquares += 1;
   if (isEmpty(id)) {
     revealAdjacentSquares(id); // reveal no mines
   }
-  if ($("#" + id).hasClass("mine")) {
-    $("#" + id).addClass("first");
+  if (document.getElementById(id).classList.contains("mine")) {
+    document.getElementById(id).classList.add("first");
     endGame("sad");
     return;
   }
@@ -175,14 +177,14 @@ function revealAdjacentSquares(id) {
     px > -1 &&
     py > -1 &&
     board[px * cols + py] != " mine" &&
-    $("#" + getID(px * cols + py)).hasClass("unrevealed")
+    document.getElementById(getID(px * cols + py)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(px * cols + py));
   }
   if (
     px > -1 &&
     board[px * cols + y] != " mine" &&
-    $("#" + getID(px * cols + y)).hasClass("unrevealed")
+    document.getElementById(getID(px * cols + y)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(px * cols + y));
   }
@@ -190,21 +192,21 @@ function revealAdjacentSquares(id) {
     px > -1 &&
     ny < cols &&
     board[px * cols + ny] != " mine" &&
-    $("#" + getID(px * cols + ny)).hasClass("unrevealed")
+    document.getElementById(getID(px * cols + ny)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(px * cols + ny));
   }
   if (
     py > -1 &&
     board[x * cols + py] != " mine" &&
-    $("#" + getID(x * cols + py)).hasClass("unrevealed")
+    document.getElementById(getID(x * cols + py)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(x * cols + py));
   }
   if (
     ny < cols &&
     board[x * cols + ny] != " mine" &&
-    $("#" + getID(x * cols + ny)).hasClass("unrevealed")
+    document.getElementById(getID(x * cols + ny)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(x * cols + ny));
   }
@@ -212,14 +214,14 @@ function revealAdjacentSquares(id) {
     nx < rows &&
     py > -1 &&
     board[nx * cols + py] != " mine" &&
-    $("#" + getID(nx * cols + py)).hasClass("unrevealed")
+    document.getElementById(getID(nx * cols + py)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(nx * cols + py));
   }
   if (
     nx < rows &&
     board[nx * cols + y] != " mine" &&
-    $("#" + getID(nx * cols + y)).hasClass("unrevealed")
+    document.getElementById(getID(nx * cols + y)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(nx * cols + y));
   }
@@ -227,7 +229,7 @@ function revealAdjacentSquares(id) {
     nx < rows &&
     ny < cols &&
     board[nx * cols + ny] != " mine" &&
-    $("#" + getID(nx * cols + ny)).hasClass("unrevealed")
+    document.getElementById(getID(nx * cols + ny)).classList.contains("unrevealed")
   ) {
     revealSquare(getID(nx * cols + ny));
   }
@@ -237,11 +239,11 @@ function endGame(smileyStatus) {
   $(".board.square").off("mousedown");
   clearInterval(clock);
   if (smileyStatus == "happy") {
-    $("#smiley").removeClass("loss load happy");
-    $("#smiley").addClass("win");
+    document.getElementById("smiley").classList.remove("happy");
+    document.getElementById("smiley").classList.add("win");
   } else {
-    $("#smiley").removeClass("win load happy");
-    $("#smiley").addClass("loss");
+    document.getElementById("smiley").classList.remove("happy");
+    document.getElementById("smiley").classList.add("loss");
     revealAllMines();
   }
   gameInProgress = false;
@@ -251,12 +253,12 @@ function revealAllMines() {
   for (var i = 0; i < board.length; i++) {
     if (board[i] == " mine") {
       var id = getID(i);
-      $("#" + id).removeClass("unrevealed");
-      $("#" + id).removeClass("clicked");
-      $("#" + id).addClass("revealed");
-      if ($("#" + id).hasClass("flagged")) {
-        $("#" + id).removeClass("flagged");
-        $("#" + id).addClass("crossed");
+      document.getElementById(id).classList.remove("unrevealed");
+      document.getElementById(id).classList.remove("clicked");
+      document.getElementById(id).classList.add("revealed");
+      if (document.getElementById(id).classList.contains("flagged")) {
+        document.getElementById(id).classList.remove("flagged");
+        document.getElementById(id).classListadd("crossed");
       }
     }
   }
