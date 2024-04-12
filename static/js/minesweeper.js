@@ -1,9 +1,8 @@
 var gameInProgress = false;
 var board = [];
-var rows = 0,
-  cols = 0,
-  numMines = 0;
-var minesSliderVal = 0;
+var rows = 9,
+  cols = 9,
+  numMines = 10;
 var numRevealedSquares = 0;
 var clock;
 var countdown;
@@ -11,18 +10,6 @@ var currSeconds = 0;
 // var validClick = true;
 //var mousedownid;
 //var timeout;
-
-function handleParamChange() {
-  if (gameInProgress) {
-    if (!window.confirm("Are you sure you want to start a new game?")) {
-      $("#rows").val(rows);
-      $("#cols").val(cols);
-      $("#mines").val(minesSliderVal);
-      return;
-    }
-  }
-  loadNewGame();
-}
 
 function loadNewGame() {
   $("#game").on("mousedown", function () {
@@ -35,14 +22,6 @@ function loadNewGame() {
   updateTimer();
 
   $("#endGame").html("");
-  rows = $("#rows").val();
-  cols = $("#cols").val();
-  minesSliderVal = $("#mines").val();
-  if (minesSliderVal >= rows * cols) {
-    numMines = rows * cols - 1;
-  } else {
-    numMines = minesSliderVal;
-  }
   countdown = numMines;
   updateCountdown();
   numRevealedSquares = 0;
