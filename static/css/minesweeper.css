@@ -126,56 +126,6 @@
   height: inherit;
   width: 26px;
 }
-#timer_hundreds {
-  float: left;
-}
-#timer_tens {
-  margin: auto;
-}
-#timer_ones {
-  float: right;
-  margin-top: -46px;
-}
-.timer.zero {
-  background: url("/static/img/2024-04-12-minesweeper/digits/zero.png")
-    no-repeat 100% 100%;
-}
-.timer.one {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/one.png")
-    no-repeat 50% 50%;
-}
-.timer.two {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/two.png")
-    no-repeat 50% 50%;
-}
-.timer.three {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/three.png")
-    no-repeat 50% 50%;
-}
-.timer.four {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/four.png")
-    no-repeat 50% 50%;
-}
-.timer.five {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/five.png")
-    no-repeat 50% 50%;
-}
-.timer.six {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/six.png")
-    no-repeat 50% 50%;
-}
-.timer.seven {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/seven.png")
-    no-repeat 50% 50%;
-}
-.timer.eight {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/eight.png")
-    no-repeat 50% 50%;
-}
-.timer.nine {
-  background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/digits/eight.png")
-    no-repeat 50% 50%;
-}
 #countdown {
   float: left;
   height: auto;
