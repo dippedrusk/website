@@ -84,18 +84,17 @@
 #scorepanel {
   border: 12px ridge #ffffff;
   background: #c6c6c6;
-  height: 60px;
+  height: 72px;
+  width: 312px;
   border-spacing: 0px;
   margin: 0px;
-}
-#game {
-  float: left;
 }
 #smiley {
   width: 40px;
   height: 40px;
   margin: 0 auto;
   top: 10%;
+  bottom: 10%;
   position: relative;
 }
 .happy {
