@@ -6,6 +6,10 @@ layout: layouts/layout
 
 ## Publications
 
+**[What explains the success of cross-modal fine-tuning with ORCA?](https://arxiv.org/abs/2403.13537)**<br>
+{P. García-de-Herreros, **V. Gautam**}, P. Slusallek, D. Klakow, M.Mosbach.<br>
+_Workshop on Insights from Negative Results in NLP, 2024 (to appear)._
+
 **[A Lightweight Method to Generate Unanswerable Questions in English](https://aclanthology.org/2023.findings-emnlp.491/)**<br>
 **V. Gautam**, M. Zhang, and D. Klakow.<br>
 _Findings of EMNLP, 2023._
@@ -26,10 +30,6 @@ _PLoS ONE, 2021._
 
 **[Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134)**<br>
 **V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. _2024._<br>
-
-**[What explains the success of cross-modal fine-tuning with ORCA?](https://arxiv.org/abs/2403.13537)**<br>
-P. García-de-Herreros\*, **V. Gautam**\*, P. Slusallek, D. Klakow, M.Mosbach. _2024._<br>
-(\* Equal contribution)
 
 **[The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://arxiv.org/abs/2402.12976)**<br>
 M. Zhang, **V. Gautam**, M. Wang, J. O. Alabi, X. Shen, D. Klakow, M. Mosbach. _2024._<br>
