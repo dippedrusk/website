@@ -28,7 +28,7 @@ _PLoS ONE, 2021._
 
 ## Preprints
 
-**[Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134)**<br>
+**[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134v2)**<br>
 **V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. _2024._<br>
 
 **[The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://arxiv.org/abs/2402.12976)**<br>
