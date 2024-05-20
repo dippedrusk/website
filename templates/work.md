@@ -4,6 +4,11 @@ description: Work and research experience relevant to computational linguistics 
 layout: layouts/layout
 ---
 
+## Preprints
+
+**[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134v2)**<br>
+**V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. _2024._<br>
+
 ## Publications
 
 **[The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://arxiv.org/abs/2402.12976)**<br>
@@ -29,11 +34,6 @@ _SIGMORPHON, 2021._
 **[The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533)**<br>
 F. T. Asr, M. Mazraeh, A. Lopes, **V. Gautam**, J. Gonzales, P. Rao, and M. Taboada.<br>
 _PLoS ONE, 2021._
-
-## Preprints
-
-**[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134v2)**<br>
-**V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. _2024._<br>
 
 ## Where I've worked
 
