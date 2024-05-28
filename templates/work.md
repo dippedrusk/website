@@ -6,6 +6,9 @@ layout: layouts/layout
 
 ## Preprints
 
+**[Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://arxiv.org/abs/2405.17159v1)**<br>
+**V. Gautam**, A. Subramonian, A. Lauscher, O. Keyes. _2024._<br>
+
 **[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134v2)**<br>
 **V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. _2024._<br>
 
