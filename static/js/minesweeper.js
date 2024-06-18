@@ -7,7 +7,8 @@ var numRevealedSquares = 0;
 
 function loadNewGame() {
   document.querySelectorAll(".square").forEach(function (s) {
-    s.onmousedown = null;
+    s.onclick = null;
+    s.oncontextmenu = null;
   });
   gameInProgress = false;
 
@@ -25,21 +26,20 @@ function loadNewGame() {
   document.getElementById("smiley").classList.add("happy");
 
   document.querySelectorAll(".board.square").forEach(function (s) {
-    s.onmousedown = handleMouseDown;
+    s.onclick = handleLeftClick;
+    s.oncontextmenu = handleRightClick;
   });
-  document.getElementById("smiley").onmousedown = handleMouseDownSmiley;
+  document.getElementById("smiley").onclick = handleMouseDownSmiley;
 }
 
 function loadBoardHTML() {
   var html = "";
   for (var i = 0; i < rows; i++) {
-    html += "<tr> ";
     for (var j = 0; j < cols; j++) {
-      html += '<td class="board square unrevealed' + board[i * cols + j] + '" ';
+      html += '<button class="board square unrevealed' + board[i * cols + j] + '" ';
       var id = getID(i * cols + j);
       html += 'id="' + id + '"/>';
     }
-    html += "</tr>";
   }
   document.getElementById("minesweeper").innerHTML = html;
   document.getElementById("smiley").classList.remove("loss");
@@ -58,7 +58,7 @@ function handleMouseDownSmiley() {
   loadNewGame();
 }
 
-function handleMouseDown(event) {
+function handleLeftClick(event) {
   // TODO: add CSS to press button when clicked
   // TODO: change smiley class from happy to load and then back to happy on mouseup
   if (!gameInProgress) {
@@ -70,27 +70,32 @@ function handleMouseDown(event) {
       document.getElementById(this.id).classList.contains("mine")
     ) {
       document.querySelectorAll(".board.square").forEach(function (s) {
-        s.onmousedown = null;
+        s.onclick = null;
+        s.oncontextmenu = null;
       });
       repositionMine(this.id);
       populateNumbers();
       loadBoardHTML();
       document.querySelectorAll(".board.square").forEach(function (s) {
-        s.onmousedown = handleMouseDown;
+        s.onclick = handleLeftClick;
+        s.oncontextmenu = handleRightClick;
       });
     }
   }
 
   if (document.getElementById(this.id).classList.contains("unrevealed")) {
-    if (event.which == 3) {
-      if (document.getElementById(this.id).classList.contains("flagged")) {
-        document.getElementById(this.id).classList.remove("flagged");
-      } else {
-        document.getElementById(this.id).classList.add("flagged");
-      }
-    } else {
-      revealSquare(this.id);
-    }
+    revealSquare(this.id);
+  }
+}
+
+function handleRightClick(event) {
+  if (!gameInProgress) {
+    // first move
+    gameInProgress = true;
+  }
+
+  if (document.getElementById(this.id).classList.contains("unrevealed")) {
+      document.getElementById(this.id).classList.toggle("flagged");
   }
 }
 
@@ -235,7 +240,8 @@ function revealAdjacentSquares(id) {
 
 function endGame(smileyStatus) {
   document.querySelectorAll(".board.square").forEach(function (s) {
-    s.onmousedown = null;
+    s.onclick = null;
+    s.oncontextmenu = null;
   });
   if (smileyStatus == "happy") {
     document.getElementById("smiley").classList.remove("happy");
@@ -257,7 +263,7 @@ function revealAllMines() {
       document.getElementById(id).classList.add("revealed");
       if (document.getElementById(id).classList.contains("flagged")) {
         document.getElementById(id).classList.remove("flagged");
-        document.getElementById(id).classListadd("crossed");
+        document.getElementById(id).classList.add("crossed");
       }
     }
   }

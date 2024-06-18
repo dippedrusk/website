@@ -1,18 +1,42 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  margin: auto;
+  max-width: 300px;
+  border-width: thick;
+  border-style: ridge;
+  border-color: #000000;
+}
+
+.square img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.square.fullImg {
+  padding: 0;
+}
+
+.square.fullImg img {
+  object-fit: cover;
+}
+
 .params {
   color: #1c6ea4;
 }
-.panelsquare {
-  background-color: #c6c6c6;
-  width: 30px;
-  height: 30px;
-}
 .square {
+  aspect-ratio: 1/ 1;
+  display: flex;
+  align-items: center;
+  padding: 5%;
   background-color: #c6c6c6;
+  border-width: 4px;
+  border-color: #ffffff;
 }
 .square.unrevealed {
   border: 4px outset #ffffff;
-  width: 32px;
-  height: 32px;
 }
 .board {
   width: auto;
@@ -22,12 +46,7 @@
   background: #c6c6c6 url("/static/img/2024-04-12-minesweeper/flag.png")
     no-repeat 50% 50%;
 }
-.clicked {
-  border: 4px inset #ffffff;
-}
 .square.revealed {
-  width: 32px;
-  height: 32px;
   border-top: 2px solid #9d9d9d;
   border-left: 2px solid #9d9d9d;
 }
@@ -74,28 +93,18 @@
 .revealed.first {
   background-color: #ff0000; /* red */
 }
-#minesweeper {
-  border-bottom: 12px ridge #c9c9c9;
-  border-left: 12px ridge #c9c9c9;
-  border-right: 12px ridge #c9c9c9;
-  border-spacing: 0px;
-  margin: 0px;
-}
 #scorepanel {
-  border: 12px ridge #ffffff;
   background: #c6c6c6;
-  height: 72px;
-  width: 312px;
-  border-spacing: 0px;
-  margin: 0px;
+  display: flex;
+  margin: auto;
+  width: 300px;
+  border-width: thick;
+  border-style: ridge ridge none ridge;
+  border-color: #000000;
 }
 #smiley {
-  width: 40px;
   height: 40px;
-  margin: 0 auto;
-  top: 10%;
-  bottom: 10%;
-  position: relative;
+  margin: 4px auto 4px auto;
 }
 .happy {
   background: url("/static/img/2024-04-12-minesweeper/happy.png") no-repeat 50%
