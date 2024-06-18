@@ -6,6 +6,9 @@ layout: layouts/layout
 
 ## Preprints
 
+**[Understanding "Democratization" in NLP and ML Research](https://arxiv.org/abs/2406.11598)**<br>
+{A. Subramonian, **V. Gautam**}, D. Klakow, Z. Talat. _2024._<br>
+
 **[Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://arxiv.org/abs/2405.17159v1)**<br>
 **V. Gautam**, A. Subramonian, A. Lauscher, O. Keyes. _2024._<br>
 
