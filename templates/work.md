@@ -6,6 +6,9 @@ layout: layouts/layout
 
 ## Preprints
 
+**[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/abs/2406.12618)**<br>
+M. Mosbach, {**V. Gautam**, T. Vergara-Browne}, D. Klakow, M. Geva. _2024._<br>
+
 **[Understanding "Democratization" in NLP and ML Research](https://arxiv.org/abs/2406.11598)**<br>
 {A. Subramonian, **V. Gautam**}, D. Klakow, Z. Talat. _2024._<br>
 
