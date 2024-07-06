@@ -47,8 +47,8 @@ _PLoS ONE, 2021._
 
 ## Where I've worked
 
-- PhD Candidate and Researcher at Saarland University's Spoken Language Systems group (language modelling; domain adaptation; question answering; Python)
-- Speech Recognition Engineer at Dialpad (class-based language modelling; on-the-fly domain adaptation; Python, some C++)
-- Research Assistant at the SFU Discourse Processing Lab (topic modelling, toxicity and constructiveness in online comments; corpus linguistics; evaluating gender bias through NLP; Python, some R)
-- Software Engineering Intern at GE Digital (full-stack with a focus on backend engineering; XLST, some Java)
-- Research Assistant at the SFU Phonological Processing Lab (experimental phonology using eye-tracking; SR Research Experiment Builder, MATLAB)
+- PhD Candidate and Researcher at Saarland University's Spoken Language Systems group
+- Speech Recognition Engineer at Dialpad
+- Research Assistant at Simon Fraser University's Discourse Processing Lab
+- Software Engineering Intern at GE Digital
+- Research Assistant at Simon Fraser University's Phonological Processing Lab
