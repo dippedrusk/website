@@ -25,9 +25,9 @@ _Workshop on Gender Bias in Natural Language Processing, 2024 (to appear)._<br>
 M. Zhang, **V. Gautam**, M. Wang, J. O. Alabi, X. Shen, D. Klakow, M. Mosbach.<br>
 _Findings of ACL, 2024 (to appear)._<br>
 
-**[What explains the success of cross-modal fine-tuning with ORCA?](https://arxiv.org/abs/2403.13537)**<br>
+**[What explains the success of cross-modal fine-tuning with ORCA?](https://aclanthology.org/2024.insights-1.2/)**<br>
 {P. García-de-Herreros, **V. Gautam**}, P. Slusallek, D. Klakow, M.Mosbach.<br>
-_Workshop on Insights from Negative Results in NLP, 2024 (to appear)._
+_Workshop on Insights from Negative Results in NLP, 2024._
 
 **[A Lightweight Method to Generate Unanswerable Questions in English](https://aclanthology.org/2023.findings-emnlp.491/)**<br>
 **V. Gautam**, M. Zhang, and D. Klakow.<br>
