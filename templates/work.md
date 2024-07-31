@@ -12,10 +12,11 @@ M. Mosbach, {**V. Gautam**, T. Vergara-Browne}, D. Klakow, M. Geva. _2024._<br>
 **[Understanding "Democratization" in NLP and ML Research](https://arxiv.org/abs/2406.11598)**<br>
 {A. Subramonian, **V. Gautam**}, D. Klakow, Z. Talat. _2024._<br>
 
-**[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134)**<br>
-**V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow. _2024._<br>
-
 ## Publications
+
+**[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134)**<br>
+**V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow.<br>
+_Transactions of ACL, 2024 (to appear)._<br>
 
 **[Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://arxiv.org/abs/2405.17159)**<br>
 **V. Gautam**, A. Subramonian, A. Lauscher, O. Keyes.<br>
