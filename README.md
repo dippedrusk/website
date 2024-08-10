@@ -4,6 +4,14 @@ This is the code for my personal website, which lives at [dippedrusk.com](https:
 
 It is currently built with the static site generator [11ty](https://www.11ty.dev/), which uses [Node.js](https://nodejs.org/en/) and templates in Nunjucks, markdown and some raw HTML too. The primary programming language in this repo is JavaScript and it is deployed with [Netlify](https://www.netlify.com/).
 
+## Setting it up
+
+- [Install node.js](https://nodejs.org/en/download/package-manager) on your computer
+- Clone this repository and `cd` to this directory
+- Run `npm install` to install all the necessary dependencies (from `package.json` and `package-lock.json`)
+- Run `npx @11ty/eleventy --serve` for a hot-reloading local server to preview any changes
+- If you want to run linting, [install pre-commit](https://pre-commit.com/#installation) and then run `pre-commit run --all`
+
 ## Goals
 
 This project has multiple goals:
