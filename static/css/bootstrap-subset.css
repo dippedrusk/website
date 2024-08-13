@@ -117,6 +117,7 @@ nav {
 
 title {
   color: white;
+  text-shadow: 5px 5px #000000;
   font-style: bold;
   display: inline;
   font-size: 10vmin;
