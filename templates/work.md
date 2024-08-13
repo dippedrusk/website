@@ -22,13 +22,13 @@ M. Mosbach, {**V. Gautam**, T. Vergara-Browne}, D. Klakow, M. Geva. _2024._<br>
 **V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow.<br>
 _Transactions of ACL, 2024 (to appear)._<br>
 
-**[Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://arxiv.org/abs/2405.17159)**<br>
+**[Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://aclanthology.org/2024.gebnlp-1.20/)**<br>
 **V. Gautam**, A. Subramonian, A. Lauscher, O. Keyes.<br>
-_Workshop on Gender Bias in Natural Language Processing, 2024 (to appear)._<br>
+_Workshop on Gender Bias in Natural Language Processing, 2024._<br>
 
-**[The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://arxiv.org/abs/2402.12976)**<br>
+**[The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis](https://aclanthology.org/2024.findings-acl.438/)**<br>
 M. Zhang, **V. Gautam**, M. Wang, J. O. Alabi, X. Shen, D. Klakow, M. Mosbach.<br>
-_Findings of ACL, 2024 (to appear)._<br>
+_Findings of ACL, 2024._<br>
 
 **[What explains the success of cross-modal fine-tuning with ORCA?](https://aclanthology.org/2024.insights-1.2/)**<br>
 {P. García-de-Herreros, **V. Gautam**}, P. Slusallek, D. Klakow, M.Mosbach.<br>
