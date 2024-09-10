@@ -9,7 +9,7 @@ If you'd like to have me speak somewhere, please email me.
 
 | Date   | Location                                                           | Title                                                                                                                                                  | Type     |
 | :----- | :----------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| Jul 24 | DFKI Saarbrücken, Germany                                          | From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP                                                                  | Talk     |
+| Sep 24 | DFKI Saarbrücken, Germany                                          | From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP                                                                  | Talk     |
 | Jul 24 | Queer and {Dis}Ability in AI workshop, ICML 2024                   | Challenges and Perspectives for Queer and/or Disabled Communities Presented by AI in HCI                                                               | Panel    |
 | Jun 24 | Mila - Quebec AI Institute, Canada                                 | Are LLMs Reasoning, Repeating or Just Biased? A Case Study with English Pronouns                                                                       | Talk     |
 | May 24 | Interdisciplinary Institute for Societal Computing, Germany        | [On Gender Gaps in Natural Language Processing](https://www.youtube.com/watch?v=-mr8zLHIguA&ab_channel=InterdisciplinaryInstituteforSocietalComputing) | Talk     |
