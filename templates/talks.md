@@ -9,6 +9,7 @@ If you'd like to have me speak somewhere, please email me.
 
 | Date   | Location                                                           | Title                                                                                                                                                  | Type     |
 | :----- | :----------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| Nov 24 | Uppsala University, Sweden                                         | A Call to Embrace Multidimensionality when Studying the Social Impacts of AI                                                                           | Talk     |
 | Oct 24 | Saarland University, Germany                                       | Evaluating Large Language Models — Choosing Goals and Measuring Them                                                                                   | Talk     |
 | Sep 24 | DFKI Saarbrücken, Germany                                          | From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP                                                                  | Talk     |
 | Jul 24 | Queer and {Dis}Ability in AI workshop, ICML 2024                   | Challenges and Perspectives for Queer and/or Disabled Communities Presented by AI in HCI                                                               | Panel    |
