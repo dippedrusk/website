@@ -13,13 +13,15 @@ If I have missed citing relevant work (yours or otherwise), don't hesitate to re
 **[Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case](http://arxiv.org/abs/2409.05653)**<br>
 **V. Gautam**, J. Steuer, E. Bingert, R. Johns, A. Lauscher, D. Klakow. _2024._<br>
 
+## Publications
+
 **[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/abs/2406.12618)**<br>
-M. Mosbach, {**V. Gautam**, T. Vergara-Browne}, D. Klakow, M. Geva. _2024._<br>
+M. Mosbach, {**V. Gautam**, T. Vergara-Browne}, D. Klakow, M. Geva.<br>
+_EMNLP, 2024 (to appear)._<br>
 
 **[Understanding "Democratization" in NLP and ML Research](https://arxiv.org/abs/2406.11598)**<br>
-{A. Subramonian, **V. Gautam**}, D. Klakow, Z. Talat. _2024._<br>
-
-## Publications
+{A. Subramonian, **V. Gautam**}, D. Klakow, Z. Talat.<br>
+_EMNLP, 2024 (to appear)._<br>
 
 **[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134)**<br>
 **V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow.<br>
