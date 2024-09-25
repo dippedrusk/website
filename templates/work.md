@@ -10,10 +10,13 @@ If I have missed citing relevant work (yours or otherwise), don't hesitate to re
 
 ## Preprints
 
-**[Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case](http://arxiv.org/abs/2409.05653)**<br>
-**V. Gautam**, J. Steuer, E. Bingert, R. Johns, A. Lauscher, D. Klakow. _2024._<br>
+None at the moment.
 
 ## Publications
+
+**[WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case](http://arxiv.org/abs/2409.05653)**<br>
+**V. Gautam**, J. Steuer, E. Bingert, R. Johns, A. Lauscher, D. Klakow.<br>
+_Workshop on Computational Models of Reference, Anaphora and Coreference, 2024 (to appear)._<br>
 
 **[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/abs/2406.12618)**<br>
 M. Mosbach, {**V. Gautam**, T. Vergara-Browne}, D. Klakow, M. Geva.<br>
