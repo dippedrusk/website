@@ -6,6 +6,7 @@
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
       <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
     {% endfor %}
+    <em>by Vagrant Gautam{% for coauthor in coauthors %}, {{ coauthor.name }}{% endfor %}</em>
 
 <p><em>{{ description }}</em></p>
 
