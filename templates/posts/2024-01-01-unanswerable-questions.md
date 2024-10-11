@@ -2,7 +2,7 @@
 title: Efficiently teaching computers to know what they don't know
 description: "A non-technical overview of Gautam et al. 2023, our latest paper about making question answering systems more robust: A Lightweight Method for Unanswerable Question Generation in English."
 tags:
-  - machine learning
+  - nlp
   - phd
   - question answering
 additionalcss:
