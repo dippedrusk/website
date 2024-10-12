@@ -31,10 +31,18 @@ body {
 }
 
 footer {
-  text-align: center;
+  /* footers should have vertical padding */
   padding: 1rem;
-  text-decoration: none;
 }
+
+header,
+footer,
+.navbar {
+  /* all of these elements should have center aligned text */
+  /* we use .navbar and not nav because nav is also used for indexes */
+  text-align: center;
+}
+
 a {
   color: #0056b3;
   text-decoration: none;
@@ -42,6 +50,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 hr {
   box-sizing: content-box;
   height: 0;
@@ -53,7 +62,6 @@ hr {
 }
 .navbar {
   padding-top: 1rem;
-  text-align: center;
 }
 nav {
   position: relative;
@@ -70,22 +78,16 @@ nav {
   display: inline-block;
 }
 
-.jumbotron {
+header {
+  /* white text on black / image, with a variable height, full width and padding for aesthetics */
+  padding: 3rem 3rem;
   background: black;
-  background-image: url("/static/img/map.jpg");
   height: auto;
   width: 100%;
+  /* map from SFU geography as the background */
+  background-image: url("/static/img/map.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
-  text-align: center;
-  color: white;
-  margin-bottom: 0;
-}
-
-.jumbotron-fluid {
-  padding: 3rem 3rem;
-  border-radius: 0;
 }
 
 title {
