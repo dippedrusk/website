@@ -5,7 +5,9 @@ title: All tags
 description: List of all tags used on my blog
 ---
 
-<h1>Tags</h1>
+<header>
+    <h1>{{ title | escape }}</h1>
+</header>
 
 {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}

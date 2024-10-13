@@ -12,12 +12,14 @@ pagination:
   addAllPagesToCollections: true
 layout: layouts/blog
 eleventyComputed:
-  title: Tagged "{{ tag }}"
+  title: Posts tagged "{{ tag }}"
   description: Search results for blog posts tagged "{{ tag }}"
 permalink: /tags/{{ tag | slug }}/
 ---
 
-<h1>Posts tagged "{{ tag }}"</h1>
+<header>
+    <h1>{{ title | escape }}</h1>
+</header>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
