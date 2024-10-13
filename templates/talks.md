@@ -4,6 +4,10 @@ description: Some of my talks, panels, tutorials, and guest lectures.
 layout: layouts/layout
 ---
 
+<header>
+    <h1>{{ title | escape }}</h1>
+</header>
+
 This is a list of relevant[^relevance] talks, panels, tutorials, and guest lectures, including links to recordings[^recordings] where possible.
 If you'd like to have me speak somewhere, please email me.
 
