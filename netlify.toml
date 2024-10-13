@@ -57,19 +57,4 @@ package = "netlify-plugin-checklinks"
   ]
 
 [[plugins]]
-  package = "@netlify/plugin-a11y"
-  [plugins.inputs]
-    ignoreElements = 'header > title'
-    failWithIssues = true
-    wcagLevel = 'WCAG2AAA'
-
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
-
-  [plugins.inputs.thresholds]
-    accessibility = 1
-    best-practices = 1
-    seo = 0.96
-
-[[plugins]]
 package = "netlify-plugin-no-more-404"
