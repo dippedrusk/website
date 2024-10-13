@@ -15,6 +15,7 @@ pre[class*="language-"] {
   hyphens: none;
   background: #272822;
   color: #f8f8f2;
+  letter-spacing: 0.05em;
 }
 pre[class*="language-"] {
   padding: 1.5em 1.5em 1.5em;
