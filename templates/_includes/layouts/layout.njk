@@ -34,6 +34,7 @@
 {% block additionalcss %}{% endblock %}
   </head>
   <body>
+    <a class="skipnav" href="#main">Skip to content.</a>
     <header class="top-level-header">
         <nav class="flex-row">
             <a class="nav-link" href="/">{{ "&#9758;" | safe if page.url == '/' }}Vagrant Gautam</a>
@@ -45,7 +46,7 @@
             <a class="nav-link" href="/posts">{{ "&#9758;" | safe if '/posts/' in page.url }}Blog</a>
         </nav>
     </header>
-    <main role="main" class="container">
+    <main role="main" class="container" id="main">
     <hr width="78%"/>
     {% block body %}
       {{ content | safe }}
