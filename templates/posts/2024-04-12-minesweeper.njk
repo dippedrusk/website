@@ -9,11 +9,11 @@ layout: layouts/post
 {% set js %} {% include "static/js/minesweeper.js" %} {% endset %}
 <script>{{ js | jsmin | safe }}</script>
 
-<div id="game" class="container" align="center" oncontextmenu="return false;">
-  <div id="scorepanel" draggable="false">
+<div id="game" class="container" oncontextmenu="return false;">
+  <div id="scorepanel" style="margin: 0 auto;" draggable="false">
     <div id="smiley" class="square unrevealed"></div>
   </div>
-  <table id="minesweeper" draggable="false">
+  <table id="minesweeper" draggable="false" style="margin: 0 auto;">
   <tr> <td class="board square unrevealed two" id="sq-0"/><td class="board square unrevealed mine" id="sq-1"/><td class="board square unrevealed two" id="sq-2"/><td class="board square unrevealed" id="sq-3"/><td class="board square unrevealed" id="sq-4"/><td class="board square unrevealed" id="sq-5"/><td class="board square unrevealed one" id="sq-6"/><td class="board square unrevealed mine" id="sq-7"/><td class="board square unrevealed one" id="sq-8"/></tr>
   <tr> <td class="board square unrevealed two" id="sq-9"/><td class="board square unrevealed mine" id="sq-10"/><td class="board square unrevealed two" id="sq-11"/><td class="board square unrevealed" id="sq-12"/><td class="board square unrevealed" id="sq-13"/><td class="board square unrevealed" id="sq-14"/><td class="board square unrevealed two" id="sq-15"/><td class="board square unrevealed two" id="sq-16"/><td class="board square unrevealed two" id="sq-17"/></tr>
   <tr> <td class="board square unrevealed one" id="sq-18"/><td class="board square unrevealed one" id="sq-19"/><td class="board square unrevealed one" id="sq-20"/><td class="board square unrevealed" id="sq-21"/><td class="board square unrevealed" id="sq-22"/><td class="board square unrevealed" id="sq-23"/><td class="board square unrevealed one" id="sq-24"/><td class="board square unrevealed mine" id="sq-25"/><td class="board square unrevealed one" id="sq-26"/></tr>
