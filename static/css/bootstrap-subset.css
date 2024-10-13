@@ -257,3 +257,37 @@ th {
   border-bottom: 1px solid black;
   padding: 1%;
 }
+
+/* skipnav styling courtesy of https://www.a11yproject.com/ */
+
+.skipnav {
+  /* clip it so that none of it shows and it's all hidden away before the user tabs */
+  clip-path: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  background-color: #000;
+  color: #fff;
+  padding: 1rem 2rem;
+  /* looks smooth and fancy  */
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.skipnav:focus {
+  /* make it visible */
+  clip-path: none;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+  outline: none;
+  position: absolute;
+  top: 6rem;
+  left: 2rem;
+  /* position it over anything else that's underneath */
+  z-index: 10;
+}
