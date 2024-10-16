@@ -17,10 +17,6 @@ eleventyComputed:
 permalink: /tags/{{ tag | slug }}/
 ---
 
-<header>
-    <h1>{{ title | escape }}</h1>
-</header>
-
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 

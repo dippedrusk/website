@@ -4,10 +4,6 @@ description: Work and research experience relevant to computational linguistics 
 layout: layouts/layout
 ---
 
-<header>
-    <h1>{{ title | escape }}</h1>
-</header>
-
 If I have missed citing relevant work (yours or otherwise), don't hesitate to reach out.
 
 ## Preprints

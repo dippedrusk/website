@@ -4,10 +4,6 @@ description: Little JavaScript bookmarklets that are easier to copy and bookmark
 layout: layouts/layout
 ---
 
-<header>
-    <h1>{{ title | escape }}</h1>
-</header>
-
 <h2>NYT byline bookmarklet</h2>
 
 The <a href="javascript:(function() { byline = document.getElementsByClassName('bottom-of-article')[0].getElementsByTagName('p')[0] ; if (!byline) { body = document.getElementsByClassName('bottom-of-article')[0].previousSibling.getElementsByTagName('p'); byline = body[body.length -1] } text = byline.innerText; pronoun = 'they'; if ( text.toLowerCase().split(' ').includes('he') ) { pronoun = 'he'; } else if ( text.toLowerCase().split(' ').includes('she') ) { pronoun = 'she'; }; if ((pronoun != 'he' && pronoun != 'she') || text.includes('identifies as')) { console.log('you escape this time.')} else { _split = text.split(' '); name = ''; for (var i = 0; i < _split.length; i++) { word = _split[i] ; if (word[0].toUpperCase() == word[0]) { name += word + ' '; } else { break; } } name = name.trim(); _split = text.split(name); newtext = name + ' identifies as using &quot;' + pronoun + '&quot; pronouns, and'; for (var i = 0; i < _split.length; i++) { if (!_split[i]) { continue; } if (i < 2) { newtext += _split[i]; } else { newtext += name + _split[i] } } console.log(newtext); byline.innerText = newtext;}}());">NYT byline bookmarklet</a> will add that an author "identifies as using" a certain pronoun set. Just drag the link to your bookmarks bar to set up the bookmarklet. Then open up an NYT article, scroll to the author's bio and click on your bookmarklet.
