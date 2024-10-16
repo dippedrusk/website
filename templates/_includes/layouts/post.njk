@@ -1,17 +1,17 @@
 {% extends "layouts/blog.njk" %}
 
-{% block body %}
-<header>
-    <h1>{{ title | escape }}</h1>
+
+{% block additionalheadercontent %}
     <time class="postlist-date" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
     {% for tag in tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
       <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
     {% endfor %}
     <em>by Vagrant Gautam{% for coauthor in coauthors %}, {{ coauthor.name }}{% endfor %}</em>
-</header>
+    <p><em>{{ description }}</em></p>
+{% endblock %}
 
-<p><em>{{ description }}</em></p>
+{% block body %}
 
 <hr/>
 <br/>
