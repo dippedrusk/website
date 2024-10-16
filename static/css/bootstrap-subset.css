@@ -2,6 +2,13 @@
   --lightgray: #d3d3d3;
   --gray: #6c757d;
   --darkgray: #343a40;
+  --black: #0d1117;
+  --white: #f0f6fc;
+  --real-white: #ffffff;
+  --blue-lighter: #5ea1f7;
+  --blue-darker: #0051a8;
+  --purple-lighter: #b38af9;
+  --purple-darker: #474181;
   /* disallows scrolling up higher than the top of the page */
   overscroll-behavior-y: none;
 }
@@ -36,7 +43,6 @@ footer {
 }
 
 a {
-  color: #0056b3;
   text-decoration: none;
 }
 a:hover {
@@ -50,7 +56,6 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 nav {
@@ -65,9 +70,57 @@ nav {
 
 .top-level-header {
   padding: 1rem 2rem 0rem 2rem;
-  color: black;
   display: block;
   font-size: 29px;
+}
+
+/* default dark mode colours! */
+html {
+  background: var(--black);
+  color: var(--white);
+}
+a {
+  color: var(--blue-lighter);
+}
+a.skipnav {
+  background-color: var(--white);
+  color: var(--black);
+}
+hr {
+  border-top: 1px solid var(--darkgray);
+}
+p {
+  font-weight: 300;
+}
+b,
+strong {
+  font-weight: 800;
+  color: var(--real-white);
+}
+
+@media (prefers-color-scheme: light) {
+  html {
+    background: var(--white);
+    color: var(--black);
+  }
+  a {
+    color: var(--blue-darker);
+  }
+  a.skipnav {
+    background-color: var(--black);
+    color: var(--white);
+  }
+  hr {
+    border-top: 1px solid var(--lightgray);
+  }
+  p {
+    font-weight: 400;
+  }
+  b,
+  strong {
+    font-weight: 700;
+    color: inherit;
+  }
 }
 
 .ipa-pronunciation {
@@ -247,14 +300,14 @@ table {
 }
 
 td {
-  border-bottom: 1px dashed black;
+  border-bottom: 1px dashed;
   padding-right: 1%;
   padding-left: 1%;
 }
 
 th {
   text-align: center !important;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid;
   padding: 1%;
 }
 
@@ -269,8 +322,6 @@ th {
   position: absolute;
   white-space: nowrap;
   width: 1px;
-  background-color: #000;
-  color: #fff;
   padding: 1rem 2rem;
   /* looks smooth and fancy  */
   transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;

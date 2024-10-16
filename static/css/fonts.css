@@ -1,11 +1,21 @@
 g {
-  color: #15661c;
+  color: #25b631;
 }
 r {
-  color: #ad1a00;
+  color: #fc7375;
 }
 mark {
   background-color: yellow;
   color: black;
   text-decoration: underline;
+  font-weight: normal;
+  padding: 2px;
+}
+@media (prefers-color-scheme: light) {
+  g {
+    color: #15661c;
+  }
+  r {
+    color: #ad1a00;
+  }
 }
