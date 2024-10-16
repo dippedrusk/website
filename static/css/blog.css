@@ -20,7 +20,6 @@
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--darkgray);
 }
 .postlist-date {
   word-spacing: -0.5px;
@@ -54,8 +53,6 @@
   margin-right: 0.6666666666667em; /* 8px /12 */
   margin-top: 0.5em; /* 6px /12 */
   margin-bottom: 0.5em; /* 6px /12 */
-  color: var(--darkgray);
-  border: 1px solid var(--gray);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
   line-height: 1.8;
@@ -64,7 +61,37 @@ a[href].post-tag,
 a[href].post-tag:visited {
   color: inherit;
 }
+
+.postlist-date,
+.postlist-item:before {
+  color: var(--lightgray);
+}
+.post-tag {
+  color: var(--lightgray);
+  border: 1px solid var(--gray);
+}
 a[href].post-tag:hover,
 a[href].post-tag:focus {
-  background-color: var(--lightgray);
+  background-color: var(--darkgray);
+}
+a.postlist-link:visited {
+  color: var(--purple-lighter);
+}
+
+@media (prefers-color-scheme: light) {
+  .postlist-date,
+  .postlist-item:before {
+    color: var(--darkgray);
+  }
+  .post-tag {
+    color: var(--darkgray);
+    border: 1px solid var(--gray);
+  }
+  a[href].post-tag:hover,
+  a[href].post-tag:focus {
+    background-color: var(--lightgray);
+  }
+  a.postlist-link:visited {
+    color: var(--purple-darker);
+  }
 }
