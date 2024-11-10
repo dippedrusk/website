@@ -12,17 +12,17 @@ None at the moment.
 
 ## Publications
 
-**[WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case](http://arxiv.org/abs/2409.05653)**<br>
+**[WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case](https://aclanthology.org/2024.crac-1.6/)**<br>
 **V. Gautam**, J. Steuer, E. Bingert, R. Johns, A. Lauscher, D. Klakow.<br>
-_Workshop on Computational Models of Reference, Anaphora and Coreference, 2024 (to appear)._<br>
+_Workshop on Computational Models of Reference, Anaphora and Coreference, 2024._<br>
 
-**[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://arxiv.org/abs/2406.12618)**<br>
+**[From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP](https://aclanthology.org/2024.emnlp-main.181/)**<br>
 M. Mosbach, {**V. Gautam**, T. Vergara-Browne}, D. Klakow, M. Geva.<br>
-_EMNLP, 2024 (to appear)._<br>
+_EMNLP, 2024._<br>
 
-**[Understanding "Democratization" in NLP and ML Research](https://arxiv.org/abs/2406.11598)**<br>
+**[Understanding "Democratization" in NLP and ML Research](https://aclanthology.org/2024.emnlp-main.184/)**<br>
 {A. Subramonian, **V. Gautam**}, D. Klakow, Z. Talat.<br>
-_EMNLP, 2024 (to appear)._<br>
+_EMNLP, 2024._<br>
 
 **[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134)**<br>
 **V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow.<br>
