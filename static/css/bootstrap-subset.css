@@ -97,6 +97,16 @@ strong {
   font-weight: 800;
   color: inherit;
 }
+paper {
+  padding: 0.5em 0.5em 0.5em;
+  overflow: auto;
+  display: block;
+  border-color: var(--real-white);
+  border-width: 3px;
+  border-style: dotted;
+  margin: 0em 2em 1em 2em;
+}
+
 g {
   color: #25b631;
 }
@@ -133,6 +143,9 @@ mark {
   strong {
     font-weight: 700;
     color: inherit;
+  }
+  paper {
+    border-color: var(--black);
   }
   g {
     color: #15661c;
