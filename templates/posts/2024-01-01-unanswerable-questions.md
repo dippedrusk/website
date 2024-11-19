@@ -5,8 +5,6 @@ tags:
   - nlp
   - phd
   - question answering
-additionalcss:
-  - "static/css/fonts.css"
 layout: layouts/post
 ---
 

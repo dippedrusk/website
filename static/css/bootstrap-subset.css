@@ -95,7 +95,20 @@ p {
 b,
 strong {
   font-weight: 800;
-  color: var(--real-white);
+  color: inherit;
+}
+g {
+  color: #25b631;
+}
+r {
+  color: #fc7375;
+}
+mark {
+  display: inline-block;
+  background-color: yellow;
+  padding: 2px;
+  color: black;
+  font-weight: normal;
 }
 
 @media (prefers-color-scheme: light) {
@@ -120,6 +133,12 @@ strong {
   strong {
     font-weight: 700;
     color: inherit;
+  }
+  g {
+    color: #15661c;
+  }
+  r {
+    color: #ad1a00;
   }
 }
 
