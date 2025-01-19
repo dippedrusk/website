@@ -7,8 +7,9 @@ layout: layouts/layout
 This is a list of relevant[^relevance] talks, panels, tutorials, and guest lectures, including links to recordings[^recordings] where possible.
 If you'd like to have me speak somewhere, please email me.
 
-| Date   | Location                                                           | Title                                                                                                                                                  | Type     |
-| :----- | :----------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| Date    | Location                                                           | Title                                                                                                                                                  | Type     |
+| :------ | :----------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
+| Jan '25 | UCLA, USA                                                          | A Linguistic Perspective on "Fairness" with Referring Expressions                                                                                      | Talk     |
 | Nov '24 | Uppsala University, Sweden                                         | A Call to Embrace Multidimensionality when Studying the Social Impacts of AI                                                                           | Talk     |
 | Nov '24 | DFKI Saarbrücken, Germany                                          | Understanding "Democratization" in NLP and ML Research                                                                                                 | Talk     |
 | Oct '24 | Saarland University, Germany                                       | Evaluating Large Language Models — Choosing Goals and Measuring Them                                                                                   | Talk     |
