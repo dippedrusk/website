@@ -24,9 +24,9 @@ _EMNLP, 2024._<br>
 {A. Subramonian, **V. Gautam**}, D. Klakow, Z. Talat.<br>
 _EMNLP, 2024._<br>
 
-**[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://arxiv.org/abs/2404.03134)**<br>
+**[Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00719/125951/Robust-Pronoun-Fidelity-with-English-LLMs-Are-they)**<br>
 **V. Gautam**, E. Bingert, D. Zhu, A. Lauscher, D. Klakow.<br>
-_Transactions of ACL, 2024 (to appear)._<br>
+_Transactions of ACL, 2024._<br>
 
 **[Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP](https://aclanthology.org/2024.gebnlp-1.20/)**<br>
 **V. Gautam**, A. Subramonian, A. Lauscher, O. Keyes.<br>
