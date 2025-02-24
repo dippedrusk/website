@@ -1,0 +1,41 @@
+---
+title: Talks
+description: Some of my invited talks and panels.
+layout: layouts/layout
+---
+
+<table>
+	<thead>
+		<tr>
+			<th>Date</th>
+			<th>Location</th>
+			<th>Title</th>
+		</tr>
+	</thead>
+	<tbody>
+		{%- for talk in talks %}
+        {% if talk.type != "Panel" and talk.type != "Tutorial" %}
+		<tr>
+			<td>{{ talk.date }}</td>
+			<td>{{ talk.location }}</td>
+			<td>{% if talk.url %}<a href="{{ talk.url }}">{% endif %}{{ talk.title }}{% if talk.url %}</a>{% endif %}</td>
+		</tr>
+		{% endif %}
+		{%- endfor %}
+	</tbody>
+</table>
+
+<h2>Panels</h2>
+<ul>
+{%- for talk in talks %}
+{% if talk.type == "Panel" %}
+<li>
+{% if talk.url %}<a href="{{ talk.url }}">{% endif %}{{ talk.title }}{% if talk.url %}</a>{% endif %}
+<br>
+{{ talk.location }}
+</li>
+{% endif %}
+{%- endfor %}
+</ul>
+
+I link recordings where possible, but please note that only some have human-edited transcripts, and several old recordings use an outdated name and pronouns for me.
