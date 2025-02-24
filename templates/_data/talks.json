@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Keynote: TBD",
+    "date": "May 2025",
+    "location": "Queer in AI Workshop, NAACL 2025",
+    "type": "Keynote"
+  },
+  {
+    "title": "Linguistics for Trustworthy Natural Language Processing",
+    "date": "Feb 2025",
+    "location": "Simon Fraser University, Canada",
+    "type": "Talk"
+  },
+  {
+    "title": "Fairness with Referring Expressions: A Linguistic Perspective",
+    "date": "Jan 2025",
+    "location": "UCLA, USA",
+    "type": "Talk"
+  },
+  {
+    "title": "A Call to Embrace Multidimensionality when Studying the Social Impacts of AI",
+    "date": "Nov 2024",
+    "location": "Uppsala University, Sweden",
+    "type": "Talk"
+  },
+  {
+    "title": "Understanding \"Democratization\" in NLP and ML Research",
+    "date": "Nov 2024",
+    "location": "DFKI, Germany",
+    "type": "Talk"
+  },
+  {
+    "title": "Evaluating Large Language Models — Choosing Goals and Measuring Them",
+    "date": "Oct 2024",
+    "location": "Saarland University, Germany",
+    "type": "Talk"
+  },
+  {
+    "title": "From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP",
+    "date": "Sep 2024",
+    "location": "DFKI, Germany",
+    "type": "Talk"
+  },
+  {
+    "title": "Challenges and Perspectives for Queer and/or Disabled Communities Presented by AI in HCI",
+    "date": "Jul 2024",
+    "location": "Queer and {Dis}Ability in AI workshop, ICML 2024",
+    "type": "Panel"
+  },
+  {
+    "title": "Are LLMs Reasoning, Repeating or Just Biased? A Case Study with English Pronouns",
+    "date": "Jun 2024",
+    "location": "Mila - Quebec AI Institute, Canada",
+    "type": "Talk"
+  },
+  {
+    "title": "On Gender Gaps in Natural Language Processing",
+    "date": "May 2024",
+    "location": "Interdisciplinary Institute for Societal Computing, Germany",
+    "type": "Talk",
+    "url": "https://www.youtube.com/watch?v=-mr8zLHIguA&ab_channel=InterdisciplinaryInstituteforSocietalComputing"
+  },
+  {
+    "title": "Guest Lecture: Trust and Fairness in Modern AI",
+    "date": "Apr 2024",
+    "location": "University of Hamburg, Germany",
+    "type": "Lecture"
+  },
+  {
+    "title": "Measuring and Improving Robustness in NLP",
+    "date": "Apr 2024",
+    "location": "University of Hamburg, Germany",
+    "type": "Talk"
+  },
+  {
+    "title": "On Gender Gaps in Natural Language Processing",
+    "date": "Mar 2024",
+    "location": "Critical Media Lab Basel, Switzerland",
+    "type": "Talk"
+  },
+  {
+    "title": "Git & Version Control",
+    "date": "Oct 2023",
+    "location": "Research Process Management Workshop, Saarland University, Germany",
+    "type": "Tutorial"
+  },
+  {
+    "title": "Immigration and Queerness",
+    "date": "Nov 2022",
+    "location": "Queer in AI Workshop, NeurIPS 2022",
+    "type": "Panel"
+  },
+  {
+    "title": "Current State of Trans and Nonbinary Computing Education Research",
+    "date": "Nov 2022",
+    "location": "Trans and Nonbinary Computing Education Research Workshop",
+    "type": "Panel",
+    "url": "https://www.sagefoxgroup.com/tnb-panel-one"
+  },
+  {
+    "title": "Non-binary Representation in Language Technologies",
+    "date": "Jul 2022",
+    "location": "Queer in AI Workshop, NAACL 2022",
+    "type": "Panel",
+    "url": "https://www.youtube.com/watch?v=QvLiNJZL5DU&ab_channel=QueerInAI"
+  },
+  {
+    "title": "Sure, It's Open, But Is It Inclusive?",
+    "date": "Jul 2021",
+    "location": "Open Source Day 2021",
+    "type": "Talk"
+  },
+  {
+    "title": "Lofty Linguistic Ideals and Deploying in Tech Realities",
+    "date": "Jul 2021",
+    "location": "Women in Voice Summit 2021",
+    "type": "Talk",
+    "url": "https://www.youtube.com/watch?v=DNrr0RLab0o&ab_channel=Vagrant"
+  },
+  {
+    "title": "Intersectionality in NLP",
+    "date": "Jun 2021",
+    "location": "NAACL 2021",
+    "type": "Panel",
+    "url": "https://www.youtube.com/watch?v=cryfXlYWWp8&ab_channel=NAACL2021-DiversityandInclusionCommittee"
+  },
+  {
+    "title": "How to Write an NLP Paper",
+    "date": "Apr 2021",
+    "location": "WiNLP Workshop, EACL 2021",
+    "type": "Tutorial",
+    "url": "https://www.youtube.com/watch?v=ev3eb9YOIHM&ab_channel=Vagrant"
+  }
+]
