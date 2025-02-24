@@ -326,21 +326,21 @@ table {
   border-spacing: 0px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   max-width: 95%;
 }
 
 td {
-  border-bottom: 1px dashed;
-  padding-right: 1%;
-  padding-left: 1%;
+  border-bottom: 0.5px solid;
+  padding: 9px;
 }
 
 th {
   text-align: center !important;
-  border-bottom: 1px solid;
-  padding: 1%;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  padding: 9px;
 }
 
 /* skipnav styling courtesy of https://www.a11yproject.com/ */
