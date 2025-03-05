@@ -1,0 +1,153 @@
+[
+  {
+    "title": "Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?",
+    "year": "2024",
+    "venue": "Transactions of ACL",
+    "authors": [
+      "Vagrant Gautam",
+      "Eileen Bingert",
+      "Dawei Zhu",
+      "Anne Lauscher",
+      "Dietrich Klakow"
+    ],
+    "url_paper": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00719/125951/Robust-Pronoun-Fidelity-with-English-LLMs-Are-they",
+    "url_code": "https://github.com/uds-lsv/robust-pronoun-fidelity"
+  },
+  {
+    "title": "WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case",
+    "year": "2024",
+    "venue": "Workshop on Computational Models of Reference, Anaphora and Coreference",
+    "authors": [
+      "Vagrant Gautam",
+      "Julius Steuer",
+      "Eileen Bingert",
+      "Ray Johns",
+      "Anne Lauscher",
+      "Dietrich Klakow"
+    ],
+    "url_paper": "https://aclanthology.org/2024.crac-1.6/",
+    "url_code": "https://github.com/uds-lsv/winopron"
+  },
+  {
+    "title": "From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP",
+    "year": "2024",
+    "venue": "EMNLP",
+    "authors": [
+      "Marius Mosbach",
+      "Vagrant Gautam*",
+      "Tomás Vergara-Browne*",
+      "Dietrich Klakow",
+      "Mor Geva"
+    ],
+    "url_paper": "https://aclanthology.org/2024.emnlp-main.181/",
+    "url_code": "https://github.com/mmarius/interpretability-impact"
+  },
+  {
+    "title": "Understanding \"Democratization\" in NLP and ML Research",
+    "year": "2024",
+    "venue": "EMNLP",
+    "authors": [
+      "Arjun Subramonian*",
+      "Vagrant Gautam*",
+      "Dietrich Klakow",
+      "Zeerak Talat"
+    ],
+    "url_paper": "https://aclanthology.org/2024.emnlp-main.184/",
+    "url_code": "https://github.com/ArjunSubramonian/democratization-nlp"
+  },
+  {
+    "title": "Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP",
+    "year": "2024",
+    "venue": "Workshop on Gender Bias in Natural Language Processing",
+    "authors": [
+      "Vagrant Gautam",
+      "Arjun Subramonian",
+      "Anne Lauscher",
+      "Os Keyes"
+    ],
+    "url_paper": "https://aclanthology.org/2024.gebnlp-1.20/"
+  },
+  {
+    "title": "The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis",
+    "year": "2024",
+    "venue": "Findings of ACL",
+    "authors": [
+      "Miaoran Zhang",
+      "Vagrant Gautam",
+      "Mingyang Wang",
+      "Jesujoba Alabi",
+      "Xiaoyu Shen",
+      "Dietrich Klakow",
+      "Marius Mosbach"
+    ],
+    "url_paper": "https://aclanthology.org/2024.findings-acl.438/",
+    "url_code": "https://github.com/uds-lsv/multilingual-icl-analysis"
+  },
+  {
+    "title": "What explains the success of cross-modal fine-tuning with ORCA?",
+    "year": "2024",
+    "venue": "Workshop on Insights from Negative Results in NLP",
+    "authors": [
+      "Paloma García De Herreros*",
+      "Vagrant Gautam*",
+      "Philipp Slusallek",
+      "Dietrich Klakow",
+      "Marius Mosbach"
+    ],
+    "url_paper": "https://aclanthology.org/2024.insights-1.2/"
+  },
+  {
+    "title": "A Lightweight Method to Generate Unanswerable Questions in English",
+    "year": "2023",
+    "venue": "Findings of EMNLP",
+    "authors": ["Vagrant Gautam", "Miaoran Zhang", "Dietrich Klakow"],
+    "url_paper": "https://aclanthology.org/2023.findings-emnlp.491/",
+    "url_code": "https://github.com/uds-lsv/unanswerable-question-generation",
+    "url_blog": "/posts/2024-01-01-unanswerable-questions/"
+  },
+  {
+    "title": "Factoring the Matrix of Domination: A Critical Review and Reimagination of Intersectionality in AI Fairness",
+    "year": "2023",
+    "venue": "AIES",
+    "authors": [
+      "Anaelia Ovalle",
+      "Arjun Subramonian",
+      "Vagrant Gautam",
+      "Gilbert Gee",
+      "Kai-Wei Chang"
+    ],
+    "url_paper": "https://dl.acm.org/doi/10.1145/3600211.3604705",
+    "url_blog": "/posts/2023-09-15-intersectionality/"
+  },
+  {
+    "title": "Avengers, Ensemble! Benefits of ensembling in grapheme-to-phoneme prediction",
+    "year": "2021",
+    "venue": "SIGMORPHON Workshop",
+    "authors": [
+      "Vagrant Gautam",
+      "Wang Yau Li",
+      "Zafarullah Mahmood",
+      "Fred Mailhot",
+      "Shreekantha Nadig",
+      "Riqiang Wang",
+      "Nathan Zhang"
+    ],
+    "url_paper": "https://aclanthology.org/2021.sigmorphon-1.16/"
+  },
+  {
+    "title": "The Gender Gap Tracker: Using Natural Language Processing to measure gender bias in media",
+    "year": "2021",
+    "venue": "PLOS One",
+    "authors": [
+      "Fatemeh Torabi Asr",
+      "Mohammad Mazraeh",
+      "Alexandre Lopes",
+      "Vagrant Gautam",
+      "Junette Gonzales",
+      "Prashanth Rao",
+      "Maite Taboada"
+    ],
+    "url_paper": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245533",
+    "url_code": "https://github.com/sfu-discourse-lab/GenderGapTracker"
+  }
+]

@@ -1,0 +1,33 @@
+---
+title: Work
+description: Work and research experience relevant to computational linguistics and NLP
+layout: layouts/layout
+---
+
+<ol reversed start="{{ postslist.length + 1 }}" class="wide-spaced-list">
+{%- for paper in papers %}
+<li>
+<b><a href="{{ paper.url_paper }}">{{ paper.title }}</a></b>
+{% if paper.url_code %}
+<a href="{{ paper.url_code }}" class="post-tag">Code</a>
+{% endif %}
+{% if paper.url_blog %}
+<a href="{{ paper.url_blog }}" class="post-tag">Blog</a>
+{% endif %}
+<br>
+{{ paper.authors | join(", ") | replace("Vagrant Gautam", "<span class=\"highlight-author\">Vagrant Gautam</span>") | safe }}.
+<br>
+<i>{{ paper.venue}}, {{ paper.year }}</i>.
+</li>
+{%- endfor %}
+</ol>
+
+<h2>Where I've worked</h2>
+
+<ul>
+<li>PhD Candidate and Researcher at Saarland University's Spoken Language Systems group</li>
+<li>Speech Recognition Engineer at Dialpad</li>
+<li>Research Assistant at Simon Fraser University's Discourse Processing Lab</li>
+<li>Software Engineering Intern at GE Digital</li>
+<li>Research Assistant at Simon Fraser University's Phonological Processing Lab</li>
+</ul>
