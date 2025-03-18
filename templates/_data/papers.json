@@ -1,5 +1,19 @@
 [
   {
+    "title": "Aligned Probing: Relating Toxic Behavior and Model Internals",
+    "year": "2025",
+    "venue": "Preprint",
+    "authors": [
+      "Andreas Waldis",
+      "Vagrant Gautam",
+      "Anne Lauscher",
+      "Dietrich Klakow",
+      "Iryna Gurevych"
+    ],
+    "url_paper": "https://arxiv.org/abs/2503.13390",
+    "url_code": "https://github.com/alignedprobing/aligned-probing"
+  },
+  {
     "title": "Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?",
     "year": "2024",
     "venue": "Transactions of ACL",
