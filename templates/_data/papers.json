@@ -1,5 +1,20 @@
 [
   {
+    "title": "Agree to Disagree? A Meta-Evaluation of LLM Misgendering",
+    "year": "2025",
+    "venue": "Preprint",
+    "authors": [
+      "Arjun Subramonian",
+      "Vagrant Gautam",
+      "Preethi Seshadri",
+      "Dietrich Klakow",
+      "Kai-Wei Chang",
+      "Yizhou Sun"
+    ],
+    "url_paper": "https://arxiv.org/abs/2504.17075",
+    "url_code": "https://github.com/ArjunSubramonian/meta-eval-llm-misgendering"
+  },
+  {
     "title": "Aligned Probing: Relating Toxic Behavior and Model Internals",
     "year": "2025",
     "venue": "Preprint",
