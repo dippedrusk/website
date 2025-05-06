@@ -1,5 +1,19 @@
 [
   {
+    "title": "Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs",
+    "year": "2025",
+    "venue": "Preprint",
+    "authors": [
+      "Elisa Forcada Rodríguez",
+      "Olatz Perez-de-Viñaspre",
+      "Jon Ander Campos",
+      "Dietrich Klakow",
+      "Vagrant Gautam"
+    ],
+    "url_paper": "https://arxiv.org/abs/2505.02456",
+    "url_code": "https://github.com/uds-lsv/gender-country-occupation-biases"
+  },
+  {
     "title": "Agree to Disagree? A Meta-Evaluation of LLM Misgendering",
     "year": "2025",
     "venue": "Preprint",
