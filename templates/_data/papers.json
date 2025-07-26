@@ -1,8 +1,22 @@
 [
   {
-    "title": "Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs",
+    "title": "Aligned Probing: Relating Toxic Behavior and Model Internals",
     "year": "2025",
     "venue": "Preprint",
+    "authors": [
+      "Andreas Waldis",
+      "Vagrant Gautam",
+      "Anne Lauscher",
+      "Dietrich Klakow",
+      "Iryna Gurevych"
+    ],
+    "url_paper": "https://arxiv.org/abs/2503.13390",
+    "url_code": "https://github.com/alignedprobing/aligned-probing"
+  },
+  {
+    "title": "Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs",
+    "year": "2025",
+    "venue": "Workshop on Gender Bias in Natural Language Processing",
     "authors": [
       "Elisa Forcada Rodríguez",
       "Olatz Perez-de-Viñaspre",
@@ -16,7 +30,7 @@
   {
     "title": "Agree to Disagree? A Meta-Evaluation of LLM Misgendering",
     "year": "2025",
-    "venue": "Preprint",
+    "venue": "COLM",
     "authors": [
       "Arjun Subramonian",
       "Vagrant Gautam",
@@ -27,20 +41,6 @@
     ],
     "url_paper": "https://arxiv.org/abs/2504.17075",
     "url_code": "https://github.com/ArjunSubramonian/meta-eval-llm-misgendering"
-  },
-  {
-    "title": "Aligned Probing: Relating Toxic Behavior and Model Internals",
-    "year": "2025",
-    "venue": "Preprint",
-    "authors": [
-      "Andreas Waldis",
-      "Vagrant Gautam",
-      "Anne Lauscher",
-      "Dietrich Klakow",
-      "Iryna Gurevych"
-    ],
-    "url_paper": "https://arxiv.org/abs/2503.13390",
-    "url_code": "https://github.com/alignedprobing/aligned-probing"
   },
   {
     "title": "Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?",
