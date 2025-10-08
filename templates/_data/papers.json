@@ -1,5 +1,17 @@
 [
   {
+    "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
+    "year": "2025",
+    "venue": "Preprint",
+    "authors": [
+      "Paloma García De Herreros",
+      "Philipp Slusallek",
+      "Dietrich Klakow",
+      "Vagrant Gautam"
+    ],
+    "url_paper": "https://arxiv.org/abs/2510.05278"
+  },
+  {
     "title": "Aligned Probing: Relating Toxic Behavior and Model Internals",
     "year": "2025",
     "venue": "Transactions of ACL",
