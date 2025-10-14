@@ -1,5 +1,11 @@
 [
   {
+    "title": "Training in Step-by-Step Formal Reasoning Improves Pronominal Reasoning in Language Models",
+    "year": "2025",
+    "venue": "Under review",
+    "authors": ["Vagrant Gautam"]
+  },
+  {
     "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
     "year": "2025",
     "venue": "Preprint",

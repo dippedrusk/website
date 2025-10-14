@@ -7,7 +7,11 @@ layout: layouts/layout
 <ol reversed start="{{ postslist.length + 1 }}" class="wide-spaced-list">
 {%- for paper in papers %}
 <li>
+{% if paper.url_paper %}
 <b><a href="{{ paper.url_paper }}">{{ paper.title }}</a></b>
+{% else %}
+<b>{{ paper.title }}</b>
+{% endif %}
 {% if paper.url_code %}
 <a href="{{ paper.url_code }}" class="post-tag">Code</a>
 {% endif %}
