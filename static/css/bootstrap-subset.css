@@ -309,7 +309,7 @@ pre {
 dl,
 ol,
 ul {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
@@ -477,4 +477,8 @@ a.postlist-link:visited {
 
 .wide-spaced-list > li + li {
   margin-top: 10px;
+}
+
+#showSelectedPapers:checked ~ ol > :not(.highlight) {
+  display: none;
 }
