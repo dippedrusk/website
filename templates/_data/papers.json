@@ -3,7 +3,8 @@
     "title": "Training in Step-by-Step Formal Reasoning Improves Pronominal Reasoning in Language Models",
     "year": "2025",
     "venue": "Under review",
-    "authors": ["Vagrant Gautam"]
+    "authors": ["Vagrant Gautam"],
+    "highlight": true
   },
   {
     "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
@@ -72,7 +73,8 @@
       "Dietrich Klakow"
     ],
     "url_paper": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00719/125951/Robust-Pronoun-Fidelity-with-English-LLMs-Are-they",
-    "url_code": "https://github.com/uds-lsv/robust-pronoun-fidelity"
+    "url_code": "https://github.com/uds-lsv/robust-pronoun-fidelity",
+    "highlight": true
   },
   {
     "title": "WinoPron: Revisiting English Winogender Schemas for Consistency, Coverage, and Grammatical Case",
@@ -87,7 +89,8 @@
       "Dietrich Klakow"
     ],
     "url_paper": "https://aclanthology.org/2024.crac-1.6/",
-    "url_code": "https://github.com/uds-lsv/winopron"
+    "url_code": "https://github.com/uds-lsv/winopron",
+    "highlight": true
   },
   {
     "title": "From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP",
@@ -108,13 +111,14 @@
     "year": "2024",
     "venue": "EMNLP",
     "authors": [
-      "Arjun Subramonian*",
       "Vagrant Gautam*",
+      "Arjun Subramonian*",
       "Dietrich Klakow",
       "Zeerak Talat"
     ],
     "url_paper": "https://aclanthology.org/2024.emnlp-main.184/",
-    "url_code": "https://github.com/ArjunSubramonian/democratization-nlp"
+    "url_code": "https://github.com/ArjunSubramonian/democratization-nlp",
+    "highlight": true
   },
   {
     "title": "Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP",
@@ -126,7 +130,8 @@
       "Anne Lauscher",
       "Os Keyes"
     ],
-    "url_paper": "https://aclanthology.org/2024.gebnlp-1.20/"
+    "url_paper": "https://aclanthology.org/2024.gebnlp-1.20/",
+    "highlight": true
   },
   {
     "title": "The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis",

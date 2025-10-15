@@ -4,9 +4,12 @@ description: Work and research experience relevant to computational linguistics 
 layout: layouts/layout
 ---
 
+<input id="showSelectedPapers" name="showSelectedPapers" type="checkbox" checked />
+Show <b>{{ papers | selectattr("highlight") | length }}</b> selected publications of <b>{{ papers.length }}</b>
+
 <ol reversed start="{{ postslist.length + 1 }}" class="wide-spaced-list">
 {%- for paper in papers %}
-<li>
+<li class="{{ "highlight" if paper.highlight }}">
 {% if paper.url_paper %}
 <b><a href="{{ paper.url_paper }}">{{ paper.title }}</a></b>
 {% else %}
