@@ -7,6 +7,14 @@
     "highlight": true
   },
   {
+    "title": "Teaching and Critiquing Conceptualization and Operationalization in NLP",
+    "year": "2025",
+    "venue": "Preprint",
+    "authors": ["Vagrant Gautam"],
+    "url_paper": "https://arxiv.org/abs/2512.18505",
+    "highlight": true
+  },
+  {
     "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
     "year": "2025",
     "venue": "Preprint",
