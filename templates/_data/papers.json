@@ -1,5 +1,13 @@
 [
   {
+    "title": "Whose Facts Win? LLM Source Preferences under Knowledge Conflicts",
+    "year": "2026",
+    "venue": "Preprint",
+    "authors": ["Jakob Schuster", "Vagrant Gautam", "Katja Markert"],
+    "url_paper": "https://arxiv.org/abs/2601.03746",
+    "url_code": "https://github.com/JaSchuste/llm-source-preference"
+  },
+  {
     "title": "Training in Step-by-Step Formal Reasoning Improves Pronominal Reasoning in Language Models",
     "year": "2026",
     "venue": "EACL",
