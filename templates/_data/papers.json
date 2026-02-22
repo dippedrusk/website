@@ -1,5 +1,32 @@
 [
   {
+    "title": "Queer NLP: A Critical Survey on Literature Gaps, Biases and Trends",
+    "year": "2026",
+    "venue": "Preprint",
+    "authors": [
+      "Sabine Weber",
+      "Angelina Wang",
+      "Ankush Gupta",
+      "Arjun Subramonian",
+      "Dennis Ulmer",
+      "Eshaan Tanwar",
+      "Geetanjali Aich",
+      "Hannah Devinney",
+      "Jacob Hobbs",
+      "Jennifer Mickel",
+      "Joshua Tint",
+      "Mae Sosto",
+      "Ray Groshan",
+      "Simone Astarita",
+      "Vagrant Gautam",
+      "Verena Blaschke",
+      "William Agnew",
+      "Wilson Y Lee",
+      "Yanan Long"
+    ],
+    "url_paper": "https://arxiv.org/abs/2602.16151"
+  },
+  {
     "title": "Whose Facts Win? LLM Source Preferences under Knowledge Conflicts",
     "year": "2026",
     "venue": "Preprint",
