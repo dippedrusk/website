@@ -35,6 +35,18 @@
     "url_code": "https://github.com/JaSchuste/llm-source-preference"
   },
   {
+    "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
+    "year": "2026",
+    "venue": "Workshop on AI and Partial Differential Equations @ ICML",
+    "authors": [
+      "Paloma García-de-Herreros",
+      "Philipp Slusallek",
+      "Dietrich Klakow",
+      "Vagrant Gautam"
+    ],
+    "url_paper": "https://openreview.net/forum?id=a7f690m9Vq"
+  },
+  {
     "title": "Training in Step-by-Step Formal Reasoning Improves Pronominal Reasoning in Language Models",
     "year": "2026",
     "venue": "EACL",
@@ -62,18 +74,6 @@
     ],
     "url_paper": "https://arxiv.org/abs/2503.13390",
     "url_code": "https://github.com/alignedprobing/aligned-probing"
-  },
-  {
-    "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
-    "year": "2025",
-    "venue": "Preprint",
-    "authors": [
-      "Paloma García-de-Herreros",
-      "Philipp Slusallek",
-      "Dietrich Klakow",
-      "Vagrant Gautam"
-    ],
-    "url_paper": "https://arxiv.org/abs/2510.05278"
   },
   {
     "title": "Agree to Disagree? A Meta-Evaluation of LLM Misgendering",
