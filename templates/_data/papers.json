@@ -35,6 +35,22 @@
     "url_code": "https://github.com/JaSchuste/llm-source-preference"
   },
   {
+    "title": "Making a Name for Myself: On Academic Naming Policies and their Impact",
+    "year": "2026",
+    "venue": "FAccT",
+    "authors": [
+      "A Pranav",
+      "Vagrant Gautam",
+      "Martin Mundt",
+      "Jordan Taylor",
+      "Arjun Subramonian",
+      "Franziska Sofia Hafner",
+      "Daniel Chechelnitsky",
+      "William Agnew",
+      "Anne Lauscher"
+    ]
+  },
+  {
     "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
     "year": "2026",
     "venue": "Workshop on AI and Partial Differential Equations @ ICLR",
