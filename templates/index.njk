@@ -29,14 +29,6 @@ layout: layouts/layout
       >, because I love birds and birding.
       Press the play button to hear it.
     </p>
-  </div>
-  <div class="col col-md-4 mx-auto">
-    <figure>
-      <img src="{{ '/static/img/vagrant.jpeg' }}"
-           alt="Vagrant, a brown-skinned person with short curly black hair, smiles at the camera in front of a colourful wall of graffiti. They are wearing a similarly-coloured striped Mexican scarf, and steampunk sunglasses are perched on their head."
-           title="Vagrant, a brown-skinned person with short curly black hair, smiles at the camera in front of a colourful wall of graffiti. They are wearing a similarly-coloured striped Mexican scarf, and steampunk sunglasses are perched on their head."
-      />
-    </figure>
     <section class="player centred">
       <audio class="custom-audio-player">
         <source
@@ -54,6 +46,15 @@ layout: layouts/layout
         <button class="playpause custom-audio-player">Play</button>
       </div>
     </section>
+  </div>
+  <div class="col col-md-4 mx-auto">
+    <figure>
+      <img src="{{ '/static/img/vagrant.jpeg' }}"
+           alt="Vagrant, a brown-skinned person with short curly black hair, sits in the middle of a road with a black cat on their lap and a half-eaten cardamom bun in one hand. They are petting the cat and looking to the left."
+           title="Vagrant, a brown-skinned person with short curly black hair, sits in the middle of a road with a black cat on their lap and a half-eaten cardamom bun in one hand. They are petting the cat and looking to the left."
+      />
+      <figcaption>Photo credit: Jakob Schuster, 2026</figcaption>
+    </figure>
   </div>
 </div>
 {% set js %} {% include "static/js/audio_player.js" %} {% endset %}
