@@ -67,6 +67,7 @@
     "year": "2026",
     "venue": "EACL",
     "authors": ["Vagrant Gautam"],
+    "url_paper": "https://aclanthology.org/2026.eacl-short.7",
     "highlight": true
   },
   {
@@ -74,7 +75,7 @@
     "year": "2026",
     "venue": "Workshop on Teaching NLP @ EACL",
     "authors": ["Vagrant Gautam"],
-    "url_paper": "https://arxiv.org/abs/2512.18505",
+    "url_paper": "https://aclanthology.org/2026.teachingnlp-1.11/",
     "highlight": true
   },
   {
