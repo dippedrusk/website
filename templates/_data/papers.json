@@ -29,7 +29,7 @@
   {
     "title": "Whose Facts Win? LLM Source Preferences under Knowledge Conflicts",
     "year": "2026",
-    "venue": "Preprint",
+    "venue": "ACL",
     "authors": ["Jakob Schuster", "Vagrant Gautam", "Katja Markert"],
     "url_paper": "https://arxiv.org/abs/2601.03746",
     "url_code": "https://github.com/JaSchuste/llm-source-preference"
