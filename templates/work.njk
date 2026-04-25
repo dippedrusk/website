@@ -25,6 +25,9 @@ Show <b>{{ papers | selectattr("highlight") | length }}</b> selected publication
 {{ paper.authors | join(", ") | replace("Vagrant Gautam", "<span class=\"highlight-author\">Vagrant Gautam</span>") | safe }}.
 <br>
 <i>{{ paper.venue}}, {{ paper.year }}</i>.
+{% if paper.award %}
+🏆 {{ paper.award }}.
+{% endif %}
 </li>
 {%- endfor %}
 </ol>

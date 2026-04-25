@@ -76,7 +76,8 @@
     "venue": "Workshop on Teaching NLP @ EACL",
     "authors": ["Vagrant Gautam"],
     "url_paper": "https://aclanthology.org/2026.teachingnlp-1.11/",
-    "highlight": true
+    "highlight": true,
+    "award": "Best Teaching Material Award"
   },
   {
     "title": "Aligned Probing: Relating Toxic Behavior and Model Internals",
