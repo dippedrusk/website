@@ -1,5 +1,13 @@
 [
   {
+    "title": "GRUFF: LLM Pronoun Fidelity, Reasoning, and Biases in German",
+    "year": "2026",
+    "venue": "Preprint",
+    "authors": ["Fabian Mewes", "Anne Lauscher", "Vagrant Gautam"],
+    "url_paper": "https://arxiv.org/abs/2605.30214",
+    "url_code": "https://github.com/TAI-HAMBURG/gruff"
+  },
+  {
     "title": "Queer NLP: A Critical Survey on Literature Gaps, Biases and Trends",
     "year": "2026",
     "venue": "Preprint",
