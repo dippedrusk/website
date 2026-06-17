@@ -1,5 +1,18 @@
 [
   {
+    "title": "A Mechanistic Understanding of Pronoun Fidelity in LLMs",
+    "year": "2026",
+    "venue": "Preprint",
+    "authors": [
+      "Katharina Trinley",
+      "Jesujoba O. Alabi",
+      "Dietrich Klakow",
+      "Vagrant Gautam"
+    ],
+    "url_paper": "https://arxiv.org/abs/2606.16407",
+    "url_code": "https://github.com/KatharinaTrinley/pronoun-fidelity-mechanisms"
+  },
+  {
     "title": "Your Multimodal Speech Model Says I Have a Face for Radio",
     "year": "2026",
     "venue": "Preprint",
