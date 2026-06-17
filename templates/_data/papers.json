@@ -77,7 +77,8 @@
       "Daniel Chechelnitsky",
       "William Agnew",
       "Anne Lauscher"
-    ]
+    ],
+    "url_paper": "https://arxiv.org/abs/2606.11021"
   },
   {
     "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
