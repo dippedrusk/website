@@ -61,7 +61,8 @@
     "venue": "ACL",
     "authors": ["Jakob Schuster", "Vagrant Gautam", "Katja Markert"],
     "url_paper": "https://aclanthology.org/2026.acl-long.1357/",
-    "url_code": "https://github.com/JaSchuste/llm-source-preference"
+    "url_code": "https://github.com/JaSchuste/llm-source-preference",
+    "highlight": true
   },
   {
     "title": "Making a Name for Myself: On Academic Naming Policies and their Impact",
@@ -79,7 +80,8 @@
       "Anne Lauscher"
     ],
     "url_paper": "https://dl.acm.org/doi/abs/10.1145/3805689.3806465",
-    "award": "Best Paper Honourable Mention Award"
+    "award": "Best Paper Honourable Mention Award",
+    "highlight": true
   },
   {
     "title": "Decoding Partial Differential Equations: Cross-Modal Adaptation of Decoder-only Models to PDEs",
@@ -98,8 +100,7 @@
     "year": "2026",
     "venue": "EACL",
     "authors": ["Vagrant Gautam"],
-    "url_paper": "https://aclanthology.org/2026.eacl-short.7",
-    "highlight": true
+    "url_paper": "https://aclanthology.org/2026.eacl-short.7"
   },
   {
     "title": "Teaching and Critiquing Conceptualization and Operationalization in NLP",
@@ -208,8 +209,7 @@
       "Zeerak Talat"
     ],
     "url_paper": "https://aclanthology.org/2024.emnlp-main.184/",
-    "url_code": "https://github.com/ArjunSubramonian/democratization-nlp",
-    "highlight": true
+    "url_code": "https://github.com/ArjunSubramonian/democratization-nlp"
   },
   {
     "title": "Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP",
