@@ -1,13 +1,12 @@
 version: 2.1
 orbs:
   linter: talkiq/linter@4.0.1
-  node: circleci/node@4.7
+  node: circleci/node@7.2.1
 
 workflows:
   run-jobs:
     jobs:
       - linter/pre-commit
       - node/run:
-          version: 16.6.2
           npm-run: build
           name: build-site
