@@ -13,14 +13,6 @@
     "url_code": "https://github.com/KatharinaTrinley/pronoun-fidelity-mechanisms"
   },
   {
-    "title": "Your Multimodal Speech Model Says I Have a Face for Radio",
-    "year": "2026",
-    "venue": "Preprint",
-    "authors": ["Maya K. Nachesa", "Vlad Niculae", "Vagrant Gautam"],
-    "url_paper": "https://arxiv.org/abs/2605.30472",
-    "url_code": "https://github.com/ltl-uva/MultiModalSpeechBias"
-  },
-  {
     "title": "GRUFF: LLM Pronoun Fidelity, Reasoning, and Biases in German",
     "year": "2026",
     "venue": "Preprint",
@@ -54,6 +46,14 @@
       "Yanan Long"
     ],
     "url_paper": "https://arxiv.org/abs/2602.16151"
+  },
+  {
+    "title": "Your Multimodal Speech Model Says I Have a Face for Radio",
+    "year": "2026",
+    "venue": "EMNLP",
+    "authors": ["Maya K. Nachesa", "Vlad Niculae", "Vagrant Gautam"],
+    "url_paper": "https://arxiv.org/abs/2605.30472",
+    "url_code": "https://github.com/ltl-uva/MultiModalSpeechBias"
   },
   {
     "title": "Whose Facts Win? LLM Source Preferences under Knowledge Conflicts",
