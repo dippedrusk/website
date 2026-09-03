@@ -71,13 +71,13 @@
     "authors": [
       "A Pranav",
       "Vagrant Gautam",
-      "Martin Mundt",
-      "Jordan Taylor",
-      "Arjun Subramonian",
-      "Franziska Sofia Hafner",
-      "Daniel Chechelnitsky",
-      "William Agnew",
-      "Anne Lauscher"
+      "Martin Mundt*",
+      "Jordan Taylor*",
+      "Arjun Subramonian*",
+      "Franziska Sofia Hafner*",
+      "Daniel Chechelnitsky*",
+      "William Agnew*",
+      "Anne Lauscher*"
     ],
     "url_paper": "https://dl.acm.org/doi/abs/10.1145/3805689.3806465",
     "award": "Best Paper Honourable Mention Award",
