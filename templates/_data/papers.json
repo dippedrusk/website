@@ -17,8 +17,9 @@
     "year": "2026",
     "venue": "Workshop on Gender Bias in Natural Language Processing @ AACL",
     "authors": ["Fabian Mewes", "Anne Lauscher", "Vagrant Gautam"],
-    "url_paper": "https://arxiv.org/abs/2605.30214",
-    "url_code": "https://github.com/TAI-HAMBURG/gruff"
+    "url_paper": "https://aclanthology.org/2026.gebnlp-1.4/",
+    "url_code": "https://github.com/TAI-HAMBURG/gruff",
+    "award": "Best Paper Honourable Mention Award"
   },
   {
     "title": "Queer NLP: A Critical Survey on Literature Gaps, Biases and Trends",
@@ -45,14 +46,14 @@
       "Wilson Y Lee",
       "Yanan Long"
     ],
-    "url_paper": "https://arxiv.org/abs/2602.16151"
+    "url_paper": "https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.818/139647/Queer-NLP-A-Critical-Survey-on-Literature-Gaps"
   },
   {
-    "title": "Your Multimodal Speech Model Says I Have a Face for Radio",
+    "title": "You Have a Face for Radio: Bias in Multimodal Speech Recognition Models",
     "year": "2026",
     "venue": "EMNLP",
     "authors": ["Maya K. Nachesa", "Vlad Niculae", "Vagrant Gautam"],
-    "url_paper": "https://arxiv.org/abs/2605.30472",
+    "url_paper": "https://aclanthology.org/2026.emnlp-main.2681/",
     "url_code": "https://github.com/ltl-uva/MultiModalSpeechBias"
   },
   {
